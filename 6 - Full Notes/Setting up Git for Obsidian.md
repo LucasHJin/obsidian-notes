@@ -11,18 +11,32 @@ Tags:
 ___________________________________________________________________________
 # Setting up Git for Obsidian
 
-**Step 1 - Setup Authentication with HTTPS**
-1. Github -> Settings -> Developer Settings -> Personal Access Tokens
-2. Create a PAT with repo perms lasting forever
-3. **Copy it** - you will not get another chance
-4. Add your perms in the local terminal:
+1. Download the *Git* plugin from community plugins and enable it
+2. Navigate on Github:
+	1. Github -> Settings -> Developer Settings -> Personal Access Tokens
+3. Create a PAT with repo perms lasting forever
+4. **Copy it** - you will not get another chance
+5. Add your perms in the local terminal:
 ```
 git config --global user.name "Your GitHub Username"
 git config --global user.email "your-email@example.com"
 ```
-5. In terminal, navigate to the vault's folder and paste the following text in (replacing where appropriate): 
+6. In terminal, navigate to the vault's folder and paste the following text in (replacing where appropriate): 
 `git remote set-url origin https://USERNAME:PAT@github.com/USERNAME/REPO.git`
+7. In the same terminal, enter the following commands
+```
+git add .
+git commit -m "COMMIT MESSAGE - FOR YOU TO ENTER"
+git push -u origin main
+```
+8. From here, any time you want to commit, in the command panel for Obsidian you can choose:
+```
+Git: Push
+Git: Commit all changes with specific message
+```
+9. *Optional:* You can also choose to set continuous commits and pushes/pulls in the Git community plugin section in settings
 
+**Remember to make an existent repo folder** 
 
 
 # References
