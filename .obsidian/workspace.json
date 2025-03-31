@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7fc0c856240fc661",
+    "type": "split",
+    "children": [
+      {
+        "id": "078ecff024dc26d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6180b96cff4fec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Setting up Git for Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Setting up Git for Obsidian"
+            }
+          },
+          {
+            "id": "638fb87d1f5f6c92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9991de7cd3952629",
+    "type": "split",
+    "children": [
+      {
+        "id": "84b346ceba266196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1996955d879f9461",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a49d2650b5e15539",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "RHR",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1cace8dc7f7f6033",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "65890a2937298afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a707cf10a8d7a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c8350a4de02c33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Full Notes/Global Issue Statements explained.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Global Issue Statements explained"
+            }
+          },
+          {
+            "id": "c80ce5c18b69b037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Full Notes/Global Issue Statements explained.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Global Issue Statements explained"
+            }
+          },
+          {
+            "id": "7441e508d6041ea8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e311b54244543bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Full Notes/Global Issue Statements explained.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Global Issue Statements explained"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "c6180b96cff4fec2",
+  "lastOpenFiles": [
+    "6 - Full Notes/Integrating Obsidian into Personal Website.md",
+    "6 - Full Notes/Setting up Git for Obsidian.md",
+    "3 - Tags/personal website.md",
+    "6 - Full Notes/GEOGRAPHY BASE FOLDER.md",
+    "6 - Full Notes/Option F - Food and Health.md",
+    "3 - Tags/finance.md",
+    "6 - Full Notes/Unit 3 - Global Resources.md",
+    "Untitled.canvas",
+    "6 - Full Notes/Unit 2 - Global Climate.md",
+    "6 - Full Notes/Thermochemistry.md",
+    "6 - Full Notes/Statistics To Know.md",
+    "6 - Full Notes/React - Props.md",
+    "6 - Full Notes/Procreate layer modes explained.md",
+    "6 - Full Notes/Orders of Reaction and Reaction Mechanisms.md",
+    "6 - Full Notes/OOP - Encapsulation.md",
+    "6 - Full Notes/Interval DP explained.md",
+    "6 - Full Notes/Geography - Map Projections.md",
+    "6 - Full Notes/FH.3.4 Famine.md",
+    "6 - Full Notes/FH.1.2 The Nutrition Transition.md",
+    "6 - Full Notes/FH.1.1 Measuring Food and Health.md",
+    "6 - Full Notes/Disjoint set union explained.md",
+    "6 - Full Notes/APIs explained.md",
+    "6 - Full Notes/2.3.1 Responding to global climate change.md",
+    "6 - Full Notes/2.1.3 Forcing agents and feedback cycles.md",
+    "6 - Full Notes/2.1.2 Global energy balance.md",
+    "5 - Template/Main Note.md",
+    "6 - Full Notes/FH.1.4 The Epidemiological Transition, The Disease Continuum & The Implications of a Global Aging Population for Disease Burden.md",
+    "6 - Full Notes/DSA",
+    "Assets/Screenshot 2025-02-24 at 8.45.25 AM.png",
+    "Assets/Pasted image 20250108100222.png",
+    "Assets/Screenshot 2024-12-03 at 10.17.24 AM.png",
+    "Assets/Screenshot 2024-11-12 at 9.32.12 PM.png",
+    "Assets/Pasted image 20241112085512.png",
+    "Assets/Screenshot 2024-11-09 at 8.07.34 PM.png",
+    "Kinetics ",
+    "Assets/Screenshot 2024-11-03 at 10.37.25 PM.png",
+    "Assets/Screenshot 2024-11-01 at 10.09.23 PM.png",
+    "Assets/Screenshot 2024-10-26 at 7.22.02 PM.png",
+    "Assets/Screenshot 2024-10-26 at 7.21.22 PM.png",
+    "Kinetics",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "6 - Full Notes/Math",
+    "Untitled 1.canvas",
+    "8 - Upcoming events",
+    "7 - Upcoming assignments",
+    "6 - Full Notes",
+    "5 - Template",
+    "4 - Indexes",
+    "3 - Tags"
+  ]
+}

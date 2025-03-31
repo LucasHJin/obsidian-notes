@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#4dff8b",
+      "directory": "8 - Upcoming events"
+    },
+    {
+      "type": "local",
+      "color": "#66edff",
+      "directory": "7 - Upcoming assignments"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
