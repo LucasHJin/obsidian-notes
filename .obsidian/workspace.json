@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "078ecff024dc26d4",
+        "id": "25f86e8181cfd9fa",
         "type": "tabs",
         "children": [
           {
-            "id": "c6180b96cff4fec2",
+            "id": "0dca9dc580150bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Setting up Git for Obsidian.md",
+                "file": "6 - Full Notes/SWE/Javascript Explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setting up Git for Obsidian"
-            }
-          },
-          {
-            "id": "638fb87d1f5f6c92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Javascript Explained"
             }
           }
         ]
@@ -185,35 +175,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1996955d879f9461",
+  "active": "0dca9dc580150bc9",
   "lastOpenFiles": [
-    "6 - Full Notes/Integrating Obsidian into Personal Website.md",
-    "6 - Full Notes/Setting up Git for Obsidian.md",
-    "3 - Tags/personal website.md",
-    "6 - Full Notes/GEOGRAPHY BASE FOLDER.md",
-    "6 - Full Notes/Option F - Food and Health.md",
-    "3 - Tags/finance.md",
-    "6 - Full Notes/Unit 3 - Global Resources.md",
+    "6 - Full Notes/DSA/Topological sorting explained.md",
+    "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
+    "6 - Full Notes/DSA/Spanning tree explained.md",
+    "6 - Full Notes/SWE/React - Hooks.md",
+    "6 - Full Notes/SWE/Backend - web development explained.md",
+    "6 - Full Notes/DSA/Minimum spanning tree explained.md",
+    "6 - Full Notes/Chemistry/Molecularity explained.md",
+    "6 - Full Notes/DSA/In order tree traversal.md",
+    "6 - Full Notes/DSA/How do graphs work.md",
+    "6 - Full Notes/DSA/Dijkstra's algorithm explained.md",
+    "6 - Full Notes/DSA/A* explained.md",
+    "6 - Full Notes/Math/Statistics To Know.md",
+    "6 - Full Notes/Chemistry/Thermochemistry.md",
+    "6 - Full Notes/Chemistry/Thermochemistry Review Notes.md",
+    "6 - Full Notes/Chemistry/Reaction Mechanisms Chemistry.md",
+    "6 - Full Notes/SWE/REST explained.md",
+    "6 - Full Notes/Chemistry/R1.1 Measuring enthalpy changes.md",
+    "6 - Full Notes/Gym/Powerlifting.md",
+    "6 - Full Notes/Gym/Powerlifting - Programming.md",
+    "6 - Full Notes/Chemistry/Physical vs Chemical reactions explained.md",
+    "6 - Full Notes/Obsidian Basics/Need to know personal changes to obsidian.md",
+    "6 - Full Notes/Obsidian Basics/Integrating Obsidian into Personal Website.md",
+    "6 - Full Notes/Chemistry/Orders of Reaction and Reaction Mechanisms.md",
+    "6 - Full Notes/Obsidian Basics",
+    "6 - Full Notes/Gym",
+    "6 - Full Notes/Robotics",
+    "6 - Full Notes/Chemistry/Organic compounds explained.md",
+    "6 - Full Notes/Chemistry/Measuring Rates of Reaction - Techniques.md",
+    "6 - Full Notes/Chemistry/Kinetics (Energetics).md",
+    "6 - Full Notes/English",
+    "6 - Full Notes/Physics",
+    "6 - Full Notes/Drawing",
+    "6 - Full Notes/SWE",
+    "6 - Full Notes/Chemistry",
+    "6 - Full Notes/Geo",
     "Untitled.canvas",
-    "6 - Full Notes/Unit 2 - Global Climate.md",
-    "6 - Full Notes/Thermochemistry.md",
-    "6 - Full Notes/Statistics To Know.md",
-    "6 - Full Notes/React - Props.md",
-    "6 - Full Notes/Procreate layer modes explained.md",
-    "6 - Full Notes/Orders of Reaction and Reaction Mechanisms.md",
-    "6 - Full Notes/OOP - Encapsulation.md",
-    "6 - Full Notes/Interval DP explained.md",
-    "6 - Full Notes/Geography - Map Projections.md",
-    "6 - Full Notes/FH.3.4 Famine.md",
-    "6 - Full Notes/FH.1.2 The Nutrition Transition.md",
-    "6 - Full Notes/FH.1.1 Measuring Food and Health.md",
-    "6 - Full Notes/Disjoint set union explained.md",
-    "6 - Full Notes/APIs explained.md",
-    "6 - Full Notes/2.3.1 Responding to global climate change.md",
-    "6 - Full Notes/2.1.3 Forcing agents and feedback cycles.md",
-    "6 - Full Notes/2.1.2 Global energy balance.md",
-    "5 - Template/Main Note.md",
-    "6 - Full Notes/FH.1.4 The Epidemiological Transition, The Disease Continuum & The Implications of a Global Aging Population for Disease Burden.md",
     "6 - Full Notes/DSA",
     "Assets/Screenshot 2025-02-24 at 8.45.25 AM.png",
     "Assets/Pasted image 20250108100222.png",
@@ -221,23 +220,14 @@
     "Assets/Screenshot 2024-11-12 at 9.32.12 PM.png",
     "Assets/Pasted image 20241112085512.png",
     "Assets/Screenshot 2024-11-09 at 8.07.34 PM.png",
-    "Kinetics ",
     "Assets/Screenshot 2024-11-03 at 10.37.25 PM.png",
     "Assets/Screenshot 2024-11-01 at 10.09.23 PM.png",
     "Assets/Screenshot 2024-10-26 at 7.22.02 PM.png",
     "Assets/Screenshot 2024-10-26 at 7.21.22 PM.png",
-    "Kinetics",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "6 - Full Notes/Math",
-    "Untitled 1.canvas",
-    "8 - Upcoming events",
-    "7 - Upcoming assignments",
-    "6 - Full Notes",
-    "5 - Template",
-    "4 - Indexes",
-    "3 - Tags"
+    "Untitled 1.canvas"
   ]
 }
