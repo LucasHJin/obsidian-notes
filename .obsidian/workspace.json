@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Geo/3.2.2 Nexus Thinking and WEF Security.md",
+                "file": "6 - Full Notes/Geo/GEOGRAPHY BASE FOLDER.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.2.2 Nexus Thinking and WEF Security"
+              "title": "GEOGRAPHY BASE FOLDER"
             }
           }
         ]
@@ -177,6 +177,9 @@
   },
   "active": "e45e4f2bec87594b",
   "lastOpenFiles": [
+    "7 - My Thoughts/On AI.md",
+    "3 - Tags/journal.md",
+    "6 - Full Notes/Geo/3.2.2 Nexus Thinking and WEF Security.md",
     "6 - Full Notes/Geo/Unit 3 - Global Resources.md",
     "6 - Full Notes/Geo/3.1.3 The Availability and Consumption of Water, Land and Food.md",
     "6 - Full Notes/Geo/3.1.4 The Availability and Consumption of Energy.md",
@@ -200,9 +203,6 @@
     "6 - Full Notes/DSA/How do graphs work.md",
     "6 - Full Notes/DSA/Dijkstra's algorithm explained.md",
     "6 - Full Notes/DSA/A* explained.md",
-    "6 - Full Notes/Math/Statistics To Know.md",
-    "6 - Full Notes/Chemistry/Thermochemistry.md",
-    "6 - Full Notes/Chemistry/Thermochemistry Review Notes.md",
     "6 - Full Notes/Obsidian Basics",
     "6 - Full Notes/Gym",
     "6 - Full Notes/Robotics",
