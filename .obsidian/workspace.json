@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Geo/GEOGRAPHY BASE FOLDER.md",
+                "file": "3 - Tags/BASE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GEOGRAPHY BASE FOLDER"
+              "title": "BASE"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "e45e4f2bec87594b",
   "lastOpenFiles": [
+    "6 - Full Notes/Geo/GEOGRAPHY BASE FOLDER.md",
     "7 - My Thoughts/On AI.md",
     "3 - Tags/journal.md",
     "6 - Full Notes/Geo/3.2.2 Nexus Thinking and WEF Security.md",
@@ -202,7 +203,6 @@
     "6 - Full Notes/DSA/In order tree traversal.md",
     "6 - Full Notes/DSA/How do graphs work.md",
     "6 - Full Notes/DSA/Dijkstra's algorithm explained.md",
-    "6 - Full Notes/DSA/A* explained.md",
     "6 - Full Notes/Obsidian Basics",
     "6 - Full Notes/Gym",
     "6 - Full Notes/Robotics",
