@@ -24,14 +24,27 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
               "title": "BASE"
             }
+          },
+          {
+            "id": "3d8be7c33986d3ba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e45e4f2bec87594b",
+  "active": "3d8be7c33986d3ba",
   "lastOpenFiles": [
     "6 - Full Notes/Geo/GEOGRAPHY BASE FOLDER.md",
     "7 - My Thoughts/On AI.md",
