@@ -4,11 +4,6 @@
       "type": "local",
       "color": "#4dff8b",
       "directory": "8 - Upcoming events"
-    },
-    {
-      "type": "local",
-      "color": "#66edff",
-      "directory": "7 - Upcoming assignments"
     }
   ],
   "defaultCalendar": 0,

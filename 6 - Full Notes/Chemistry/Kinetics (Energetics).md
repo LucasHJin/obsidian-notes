@@ -5,7 +5,7 @@ Status:
 
 Tags:
 [[chem]] 
-[[school]] 
+[[hs]] 
 
 
 

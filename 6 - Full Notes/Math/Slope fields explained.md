@@ -4,7 +4,7 @@ Status:
 #finished
 
 Tags:
-[[school]]
+[[hs]]
 [[math]]
 [[calculus]]
 

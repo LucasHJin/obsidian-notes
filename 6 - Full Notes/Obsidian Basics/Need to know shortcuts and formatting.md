@@ -5,7 +5,7 @@ Status:
 
 Tags:
 [[important]]
-[[school]]
+[[hs]]
 
 ___________________________________________________________________________
 # Need to know shortcuts and formatting

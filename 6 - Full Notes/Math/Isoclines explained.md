@@ -4,7 +4,7 @@ Status:
 #not-started
 
 Tags:
-[[school]]
+[[hs]]
 [[math]]
 [[calculus]]
 

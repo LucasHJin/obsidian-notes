@@ -5,7 +5,8 @@
   "obsidian-full-calendar",
   "quick-latex",
   "obsidian-style-settings",
-  "obsidian-table-generator",
   "obsidian-git",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "table-editor-obsidian",
+  "templater-obsidian"
 ]

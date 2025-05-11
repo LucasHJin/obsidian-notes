@@ -4,7 +4,7 @@ Status:
 
 
 Tags:
-[[school]]
+[[hs]]
 [[math]]
 [[calculus]]
 

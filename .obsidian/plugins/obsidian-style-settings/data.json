@@ -1,7 +1,7 @@
 {
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "none",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sapphire",
   "anuppuccin-theme-settings@@ctp-custom-text@@light": "#5E4949",
   "anuppuccin-theme-settings@@ctp-custom-subtext1@@light": "#5E4949",
   "anuppuccin-theme-settings@@ctp-custom-subtext0@@light": "#5E4949",

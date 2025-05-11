@@ -6,7 +6,7 @@ Status:
 
 Tags:
 [[math]]
-[[school]]
+[[hs]]
 [[calculus]]
 [[BASE]]
 

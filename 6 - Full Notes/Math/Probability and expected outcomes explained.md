@@ -6,7 +6,7 @@ Status:
 Tags:
 [[math]]
 [[statistics]]
-[[school]]
+[[hs]]
 [[probability]]
 
 
