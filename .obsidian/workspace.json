@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91b2f8a7ef8f55a5",
+            "id": "815987724ab10084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - IMPORTANT/Internship Tracker Inspiration.md",
+                "file": "6 - Full Notes/Math/DE exact solution - separable equations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Internship Tracker Inspiration"
+              "title": "DE exact solution - separable equations"
+            }
+          },
+          {
+            "id": "91b2f8a7ef8f55a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DE exact solution - homogeneous equations"
+            }
+          },
+          {
+            "id": "7bcdf01adeb06cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Math/DE exact solution - linear equations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DE exact solution - linear equations"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gi statement",
+                "query": "differential equation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +237,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91b2f8a7ef8f55a5",
+  "active": "7bcdf01adeb06cd7",
   "lastOpenFiles": [
+    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
+    "6 - Full Notes/Math/DE exact solution - linear equations.md",
+    "6 - Full Notes/Math/Differential equations.md",
+    "6 - Full Notes/Math/DE exact solution - separable equations.md",
     "7 - IMPORTANT/Internship Tracker Inspiration.md",
     "3 - Tags/hs.md",
     "7 - IMPORTANT/Intership Tracking.md",
@@ -215,10 +268,6 @@
     "6 - Full Notes/Geo/2.1.3 Forcing agents and feedback cycles.md",
     "6 - Full Notes/Geo/2.1.3 Enhanced greenhouse effect.md",
     "6 - Full Notes/Geo/2.1.3 Emissions, trade and globalization.md",
-    "6 - Full Notes/Geo/2.1.1. The atmospheric system.md",
-    "6 - Full Notes/English/Global Issue Statements explained.md",
-    "6 - Full Notes/SWE/Javascript Explained.md",
-    "6 - Full Notes/DSA/Topological sorting explained.md",
     "6 - Full Notes/Obsidian Basics",
     "6 - Full Notes/Gym",
     "6 - Full Notes/Robotics",
