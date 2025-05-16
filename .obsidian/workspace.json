@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
+                "file": "6 - Full Notes/Math/DE numerical solution - Euler's method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DE exact solution - homogeneous equations"
+              "title": "DE numerical solution - Euler's method"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Math/DE exact solution - linear equations.md",
+                "file": "6 - Full Notes/Math/VOR for cylinders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DE exact solution - linear equations"
+              "title": "VOR for cylinders"
             }
           }
         ],
@@ -239,9 +239,14 @@
   },
   "active": "7bcdf01adeb06cd7",
   "lastOpenFiles": [
-    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
+    "6 - Full Notes/Math/VOR - X Axis.md",
+    "6 - Full Notes/Math/VOR - Y Axis.md",
+    "6 - Full Notes/Math/Cumulative frequency curves explained.md",
     "6 - Full Notes/Math/DE exact solution - linear equations.md",
+    "6 - Full Notes/Math/DE numerical solution - Euler's method.md",
+    "6 - Full Notes/Math/Slope fields explained.md",
     "6 - Full Notes/Math/Differential equations.md",
+    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
     "6 - Full Notes/Math/DE exact solution - separable equations.md",
     "7 - IMPORTANT/Internship Tracker Inspiration.md",
     "3 - Tags/hs.md",
@@ -263,11 +268,6 @@
     "6 - Full Notes/Geo/3.1.3 The Availability and Consumption of Water, Land and Food.md",
     "6 - Full Notes/Geo/3.1.4 The Availability and Consumption of Energy.md",
     "6 - Full Notes/Geo/3.1.2 Measuring Trends in Resource Consumption - Ecological Footprint.md",
-    "6 - Full Notes/Geo/3.1.1 Global & Regional Progress towards Poverty Reduction.md",
-    "6 - Full Notes/Geo/2.3.1 Responding to global climate change.md",
-    "6 - Full Notes/Geo/2.1.3 Forcing agents and feedback cycles.md",
-    "6 - Full Notes/Geo/2.1.3 Enhanced greenhouse effect.md",
-    "6 - Full Notes/Geo/2.1.3 Emissions, trade and globalization.md",
     "6 - Full Notes/Obsidian Basics",
     "6 - Full Notes/Gym",
     "6 - Full Notes/Robotics",
