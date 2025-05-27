@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
+                "file": "6 - Full Notes/Quant Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DE exact solution - homogeneous equations"
+              "title": "Quant Books"
             }
           },
           {
@@ -212,8 +212,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "815987724ab10084",
+  "active": "1996955d879f9461",
   "lastOpenFiles": [
+    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
+    "6 - Full Notes/Quant Books.md",
     "6 - Full Notes/Math/DE exact solution - separable equations.md",
     "6 - Full Notes/Math/DE numerical solution - Euler's method.md",
     "6 - Full Notes/University/REMINDER FOR FUTURE.md",
@@ -227,7 +229,6 @@
     "6 - Full Notes/Math/DE exact solution - linear equations.md",
     "6 - Full Notes/Math/Slope fields explained.md",
     "6 - Full Notes/Math/Differential equations.md",
-    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
     "7 - IMPORTANT/Internship Tracker Inspiration.md",
     "3 - Tags/hs.md",
     "7 - IMPORTANT/Intership Tracking.md",
@@ -244,7 +245,6 @@
     "6 - Full Notes/Geo/GEOGRAPHY BASE FOLDER.md",
     "3 - Tags/journal.md",
     "6 - Full Notes/Geo/3.2.2 Nexus Thinking and WEF Security.md",
-    "6 - Full Notes/Geo/Unit 3 - Global Resources.md",
     "6 - Full Notes/Obsidian Basics",
     "6 - Full Notes/Gym",
     "6 - Full Notes/Robotics",
