@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66a7c91c5660b925",
+        "id": "be798f25cbc9fc41",
         "type": "tabs",
         "children": [
           {
-            "id": "815987724ab10084",
+            "id": "e5cd5f92e0850a6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Quant Books.md",
+                "file": "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Quant Books"
-            }
-          },
-          {
-            "id": "91b2f8a7ef8f55a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/Math/DE numerical solution - Euler's method.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DE numerical solution - Euler's method"
+              "title": "Internship Tracker Spreadsheet"
             }
           }
         ]
@@ -212,13 +188,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1996955d879f9461",
+  "active": "e5cd5f92e0850a6c",
   "lastOpenFiles": [
-    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
-    "6 - Full Notes/Quant Books.md",
-    "6 - Full Notes/Math/DE exact solution - separable equations.md",
+    "7 - IMPORTANT/Internship Tracker Inspiration.md",
+    "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
     "6 - Full Notes/Math/DE numerical solution - Euler's method.md",
     "6 - Full Notes/University/REMINDER FOR FUTURE.md",
+    "6 - Full Notes/University/Quant Books.md",
+    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
+    "6 - Full Notes/Math/DE exact solution - separable equations.md",
     "6 - Full Notes/Neural Networks/NN - Resources.md",
     "6 - Full Notes/University",
     "6 - Full Notes/Math/VOR for cylinders.md",
@@ -229,7 +207,6 @@
     "6 - Full Notes/Math/DE exact solution - linear equations.md",
     "6 - Full Notes/Math/Slope fields explained.md",
     "6 - Full Notes/Math/Differential equations.md",
-    "7 - IMPORTANT/Internship Tracker Inspiration.md",
     "3 - Tags/hs.md",
     "7 - IMPORTANT/Intership Tracking.md",
     "7 - IMPORTANT/Internship tracking.md",
@@ -244,7 +221,6 @@
     "7 - My Thoughts/On AI.md",
     "6 - Full Notes/Geo/GEOGRAPHY BASE FOLDER.md",
     "3 - Tags/journal.md",
-    "6 - Full Notes/Geo/3.2.2 Nexus Thinking and WEF Security.md",
     "6 - Full Notes/Obsidian Basics",
     "6 - Full Notes/Gym",
     "6 - Full Notes/Robotics",
