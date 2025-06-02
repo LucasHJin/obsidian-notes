@@ -57,9 +57,10 @@ ___________________________________________________________________________
 	- Otherwise your client will be left _hanging_ (indefinitely waiting)
 - The server should not send more than one response per request
 
-**Backend languages and [[Frameworks explained|frameworks]]:**
+**Backend languages/databases and [[Frameworks explained|frameworks]]:**
 - Python and [[Django explained |Django]]
 - [[Firebase]]
+- [[Express explained]] 
 
 # References
 https://www.codecademy.com/article/back-end-architecture

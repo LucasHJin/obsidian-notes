@@ -16,6 +16,8 @@ ___________________________________________________________________________
 - Uses a virtual DOM
 	- Only refreshes/updates parts of page that need to be updated rather than everything
 
+[[Node explained|How to run javascript outside the web browser environment]]
+
 **How to create a React project:** 
 1. Install Node.js
 	1. `node -v` 
@@ -44,20 +46,7 @@ ___
 
 **React Native:** open-source framework that allows developers to build mobile applications using JavaScript and React
 - Is crossplatform -> IOS and Android
-
-**How to Create React Native Project:** 
-1. Create Reactive Native project
-	1. `npx react-native init MyApp` 
-2. Install dependencies
-	1. `npm install` 
-3. Start Metro Bundler (what RN uses to package the code)
-	1. Navigate to the project directory
-	2. Start Metro
-		1. `npx react-native start` 
-4. Build and run app on IOS simulator
-	1. `npx react-native run-ios --simulator="iPhone 14"` 
-		1. Only `npx react-native run-ios` is necessary
-		2. `xcrun simctl list devices` for all available simulators
+- [[React - React Native]] 
 
 # References
 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5cd5f92e0850a6c",
+            "id": "10a913f89b9fa984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
+                "file": "6 - Full Notes/SWE/React explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Internship Tracker Spreadsheet"
+              "title": "React explained"
+            }
+          },
+          {
+            "id": "e72605acb84ed677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SWE/Frontend - web development explained.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Frontend - web development explained"
+            }
+          },
+          {
+            "id": "73e9601fd005c965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SWE/Javascript Explained.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Explained"
+            }
+          },
+          {
+            "id": "9e52ec040ae9d474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Javascript - Errors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Javascript - Errors"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,8 +136,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "differential equation",
-                "matchingCase": false,
+                "query": "backend",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -188,44 +261,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5cd5f92e0850a6c",
+  "active": "9e52ec040ae9d474",
   "lastOpenFiles": [
-    "7 - IMPORTANT/Internship Tracker Inspiration.md",
+    "6 - Full Notes/Javascript - Errors.md",
+    "6 - Full Notes/SWE/Javascript Explained.md",
+    "6 - Full Notes/Javascript - Functions.md",
+    "Assets/Screenshot 2025-06-02 at 10.28.07 AM.png",
+    "Assets/Screenshot 2025-06-02 at 10.22.55 AM.png",
+    "6 - Full Notes/SWE/Frontend - web development explained.md",
+    "6 - Full Notes/Javascript - Data Types and Conditionals.md",
+    "6 - Full Notes/SWE/Backend - web development explained.md",
+    "6 - Full Notes/Express explained.md",
+    "6 - Full Notes/Node explained.md",
+    "6 - Full Notes/SWE/React explained.md",
+    "6 - Full Notes/High School/Chemistry/Fuel cells explained.md",
+    "6 - Full Notes/DSA/Dijkstra's algorithm explained.md",
+    "6 - Full Notes/Javascript - Variables.md",
+    "6 - Full Notes/React - React Native.md",
+    "3 - Tags/mobile dev.md",
+    "6 - Full Notes/SWE/React - Hooks.md",
+    "6 - Full Notes/SWE/React - onChange.md",
+    "6 - Full Notes/SWE/Frameworks explained.md",
+    "6 - Full Notes/SWE/Databases explained.md",
+    "6 - Full Notes/SWE/SQL explained.md",
+    "6 - Full Notes/SWE/Firebase - Firestore.md",
+    "6 - Full Notes/High School/Chemistry/Arrhenius Equation Chemistry.md",
+    "6 - Full Notes/High School/ICS4U/Summary.md",
     "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
-    "6 - Full Notes/Math/DE numerical solution - Euler's method.md",
-    "6 - Full Notes/University/REMINDER FOR FUTURE.md",
-    "6 - Full Notes/University/Quant Books.md",
-    "6 - Full Notes/Math/DE exact solution - homogeneous equations.md",
-    "6 - Full Notes/Math/DE exact solution - separable equations.md",
-    "6 - Full Notes/Neural Networks/NN - Resources.md",
+    "6 - Full Notes/High School/ICS4U",
+    "6 - Full Notes/High School/Untitled.md",
+    "6 - Full Notes/High School/UntitledHi.md",
+    "6 - Full Notes/High School",
+    "6 - Full Notes/Untitled.md",
     "6 - Full Notes/University",
-    "6 - Full Notes/Math/VOR for cylinders.md",
     "6 - Full Notes/Neural Networks",
-    "6 - Full Notes/Math/VOR - X Axis.md",
-    "6 - Full Notes/Math/VOR - Y Axis.md",
-    "6 - Full Notes/Math/Cumulative frequency curves explained.md",
-    "6 - Full Notes/Math/DE exact solution - linear equations.md",
-    "6 - Full Notes/Math/Slope fields explained.md",
-    "6 - Full Notes/Math/Differential equations.md",
-    "3 - Tags/hs.md",
-    "7 - IMPORTANT/Intership Tracking.md",
-    "7 - IMPORTANT/Internship tracking.md",
-    "5.5 - Scripts/colorizeBooleans.js.md",
     "5.5 - Scripts/colorizeBooleans.js",
     "5.5 - Scripts",
-    "3 - Tags/internship.md",
-    "3 - Tags/BASE.md",
-    "3 - Tags/uni.md",
-    "3 - Tags/gym.md",
     "7 - IMPORTANT",
-    "7 - My Thoughts/On AI.md",
-    "6 - Full Notes/Geo/GEOGRAPHY BASE FOLDER.md",
-    "3 - Tags/journal.md",
     "6 - Full Notes/Obsidian Basics",
     "6 - Full Notes/Gym",
     "6 - Full Notes/Robotics",
-    "6 - Full Notes/English",
-    "6 - Full Notes/Physics",
     "Untitled.canvas",
     "Assets/Screenshot 2025-02-24 at 8.45.25 AM.png",
     "Assets/Pasted image 20250108100222.png",
@@ -235,8 +310,6 @@
     "Assets/Screenshot 2024-11-09 at 8.07.34 PM.png",
     "Assets/Screenshot 2024-11-03 at 10.37.25 PM.png",
     "Assets/Screenshot 2024-11-01 at 10.09.23 PM.png",
-    "Assets/Screenshot 2024-10-26 at 7.22.02 PM.png",
-    "Assets/Screenshot 2024-10-26 at 7.21.22 PM.png",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
