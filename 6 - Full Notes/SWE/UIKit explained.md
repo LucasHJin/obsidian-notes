@@ -1,4 +1,4 @@
-2024-11-01 08:10
+2025-06-03 20:10
 
 Status:
 
@@ -6,14 +6,11 @@ Status:
 Tags:
 [[cs]]
 [[ios]]
+[[mobile dev]]
 
 
 ___________________________________________________________________________
-# Swift - IOS development explained
-
-[[Swift - Concurrency and Threading]] 
-
-[[Swift - Strong vs Weak Self]] 
+# UIKit explained
 
 
 

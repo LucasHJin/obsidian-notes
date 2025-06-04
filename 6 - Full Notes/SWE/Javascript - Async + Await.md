@@ -1,19 +1,19 @@
-2025-06-02 08:48
+2025-06-03 23:06
 
 Status:
 
 
 Tags:
-[[cs]]
-[[mobile dev]] 
+[[cs]] 
+[[webdev]] 
 
 
 ___________________________________________________________________________
-# React - React Native
+# Javascript - Async + Await
 
 
 
 
 
 # References
-https://www.youtube.com/watch?v=0-S5a0eXPoc 
+

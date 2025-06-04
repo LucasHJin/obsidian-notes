@@ -13,8 +13,10 @@ ___________________________________________________________________________
 
 **React:** a JavaScript library used to build user interfaces, especially for web applications
 - Breaks down the website into key **reusable components** 
-- Uses a virtual DOM
+- Uses a virtual [[Javascript - DOM Manipulation & Events|DOM]] 
 	- Only refreshes/updates parts of page that need to be updated rather than everything
+	- Doesn’t actually manipulate the DOM manually with your code
+- [[React components vs JS classes|Uses components instead of classes]]
 
 [[Node explained|How to run javascript outside the web browser environment]]
 
@@ -46,7 +48,7 @@ ___
 
 **React Native:** open-source framework that allows developers to build mobile applications using JavaScript and React
 - Is crossplatform -> IOS and Android
-- [[React - React Native]] 
+- [[React Native explained]] 
 
 # References
 
