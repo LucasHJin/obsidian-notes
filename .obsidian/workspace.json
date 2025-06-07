@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f74d2bc15d5eb28a",
+        "id": "e08fc2197834291e",
         "type": "tabs",
         "children": [
           {
-            "id": "4e84dc225b062dbb",
+            "id": "fd95b9c09e404ad4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/SWE/Swift explained.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Swift explained"
-            }
-          },
-          {
-            "id": "4a34474a2ebf59b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Swift - Concurrency and Threading"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,9 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a34474a2ebf59b6",
+  "active": "fd95b9c09e404ad4",
   "lastOpenFiles": [
     "6 - Full Notes/SWE/Swift explained.md",
+    "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
     "6 - Full Notes/SWE/SQL explained.md",
     "6 - Full Notes/SWE/React - useState.md",
     "6 - Full Notes/SWE/React explained.md",
@@ -220,7 +182,6 @@
     "6 - Full Notes/SWE/Swift - Generics and Extensions.md",
     "6 - Full Notes/SWE/Swift - Protocols and POP.md",
     "6 - Full Notes/SWE/Swift - Strong vs Weak Self.md",
-    "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
     "6 - Full Notes/SWE/Swift - Enums.md",
     "6 - Full Notes/SWE/Swift - Control Flow.md",
     "6 - Full Notes/SWE/Swift - Functions and Closures.md",
