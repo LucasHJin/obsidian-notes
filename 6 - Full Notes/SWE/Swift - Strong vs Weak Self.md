@@ -39,8 +39,5 @@ guard let strongSelf = self else {
 		- If strong -> increments a count in memory if any object is strongly retained
 
 
-
-
-
 # References
 

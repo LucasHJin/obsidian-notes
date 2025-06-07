@@ -15,6 +15,9 @@ ___________________________________________________________________________
 - Like a function except capitalize
 - Can [[Javascript - ES6 Modules|import/export]] to use in other files
 
+**Component concepts:** 
+- [[React - Keys]]
+- [[React - Props]] 
 
 
 

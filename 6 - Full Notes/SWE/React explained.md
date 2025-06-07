@@ -37,10 +37,11 @@ ___________________________________________________________________________
 
 **Key React Ideas:** 
 - [[React - Components]] 
-- 
-- [[React - Props]]
-- [[React - Hooks]]
-- [[React - useState]]
+	- [[React - Keys]] 
+	- [[React - Props]]
+- [[React - State]] 
+	- [[React - Hooks]]
+	- [[React - useState]]
 - [[React - onChange]]
 - [[React - Updater Functions]] 
 - [[React - useEffect]]

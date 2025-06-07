@@ -12,10 +12,18 @@ ___________________________________________________________________________
 # React - Props
 
 **Props:** mechanism for passing data and event handlers from one component to another in a React application
+- Arguments that are passed into components
+	- Is one-way (from parent to child)
+
+Just pass all the attributes you want to the component and then accept as props/destructure
+- 
+
+
 
 **Common practices:** 
 1. **Default props**
 	1. Default values/fallback values for the props
+	2. THIS IS NO LONGER USEFUL → use default parameters instead
 ```js
 ChildComponent.defaultProps = {
     message: 'Default Message'
@@ -32,6 +40,8 @@ ChildComponent.propTypes = {
 ```
 3. **Functions as Props**
 	1. You can pass functions as props to handle events in child components
+	2. Don’t pass with the parentheses (will make the function run on render)
+		1. If need to use parentheses → `() => fxn()` use anonymous function
 ```js
 const ParentComponent = () => {
     const handleClick = () => {
@@ -54,10 +64,8 @@ const ChildComponent = ({ message }) => {
 };
 ```
 
-**Alternative:** Use typescript → no need to check prop types cause you can define an object for that and also have default values provided
+**Alternative:** Use typescript for prop types and default values 
 - [[Typescript explained]] 
-
-
 
 
 # References

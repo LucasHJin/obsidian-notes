@@ -30,6 +30,8 @@ A modern, fast, and type-safe programming language developed by Apple to build I
 - [[Swift - Collection Data Structures]] 
 - [[Swift - Structs and Classes]]
 - [[Swift - Enums]] 
+- [[Swift - Protocols and POP]] 
+- [[Swift - Generics and Extensions]] 
 
 **Advanced Topics:** 
 - [[Swift - Concurrency and Threading]] 
