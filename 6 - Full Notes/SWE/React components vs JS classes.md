@@ -19,7 +19,7 @@ Old classes:
 New components:
 - Just created with a javascript function
 - Can be managed with hooks (i.e. `useState`)
-- 
+- Covered in detail → [[React - Components]]
 
 
 # References

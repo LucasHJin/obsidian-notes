@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/Swift explained.md",
+                "file": "6 - Full Notes/SWE/React explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Swift explained"
+              "title": "React explained"
             }
           },
           {
-            "id": "73e9601fd005c965",
+            "id": "fe2233ef72c6ef6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/Javascript Explained.md",
+                "file": "6 - Full Notes/SWE/React - JSX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Javascript Explained"
+              "title": "React - JSX"
             }
           },
           {
-            "id": "8dac0692e802d3b2",
+            "id": "147f8f244798d268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/Javascript - Async + Await.md",
+                "file": "6 - Full Notes/SWE/React - Components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Javascript - Async + Await"
+              "title": "React - Components"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,36 +237,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8dac0692e802d3b2",
+  "active": "fe2233ef72c6ef6f",
   "lastOpenFiles": [
-    "6 - Full Notes/SWE/Javascript - APIs.md",
-    "6 - Full Notes/SWE/Javascript - Async + Await.md",
+    "6 - Full Notes/SWE/React - Components.md",
+    "6 - Full Notes/SWE/React - JSX.md",
+    "6 - Full Notes/SWE/React explained.md",
+    "6 - Full Notes/SWE/React - Props.md",
+    "6 - Full Notes/SWE/Typescript explained.md",
+    "6 - Full Notes/SWE/Typescript - Interfaces.md",
     "6 - Full Notes/SWE/Javascript Explained.md",
+    "6 - Full Notes/SWE/React components vs JS classes.md",
+    "6 - Full Notes/SWE/Swift explained.md",
+    "6 - Full Notes/SWE/Javascript - Data Types and Conditionals.md",
+    "6 - Full Notes/SWE/Swift - Structs and Classes.md",
+    "6 - Full Notes/SWE/Swift - Enums.md",
+    "6 - Full Notes/SWE/Swift - Collection Data Structures.md",
+    "6 - Full Notes/SWE/Swift - Basic Syntax.md",
+    "6 - Full Notes/SWE/Swift - Functions and Closures.md",
+    "6 - Full Notes/SWE/Swift - Control Flow.md",
+    "6 - Full Notes/SWE/SwiftUI explained.md",
+    "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
+    "6 - Full Notes/SWE/Javascript - Linting.md",
+    "6 - Full Notes/SWE/Javascript - Functions.md",
+    "6 - Full Notes/SWE/Javascript - Async + Await.md",
+    "6 - Full Notes/SWE/Javascript - APIs.md",
     "6 - Full Notes/DSA/APIs explained.md",
     "6 - Full Notes/SWE/Backend - web development explained.md",
     "6 - Full Notes/SWE/Javascript - Asynchronous Code.md",
     "6 - Full Notes/SWE/JSON explained.md",
-    "6 - Full Notes/SWE/Javascript - npm.md",
-    "6 - Full Notes/SWE/Untitled.md",
-    "6 - Full Notes/SWE/Swift explained.md",
-    "Untitled.md",
-    "6 - Full Notes/SWE/Javascript - ES6 Modules.md",
-    "3 - Tags/uni.md",
-    "6 - Full Notes/SWE/SwiftUI explained.md",
-    "6 - Full Notes/SWE/Javascript - Destructuring.md",
-    "6 - Full Notes/SWE/UIKit explained.md",
-    "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
-    "6 - Full Notes/SWE/React Native explained.md",
-    "6 - Full Notes/SWE/React explained.md",
-    "6 - Full Notes/SWE/Mobile development explained.md",
-    "6 - Full Notes/SWE/Express explained.md",
-    "6 - Full Notes/SWE/Javascript - Variables.md",
-    "6 - Full Notes/Untitled.md",
-    "6 - Full Notes/SWE/React components vs JS classes.md",
-    "6 - Full Notes/SWE/Javascript - Objects.md",
     "Assets/Screenshot 2025-06-03 at 10.54.00 AM.png",
     "Assets/Screenshot 2025-06-02 at 11.17.51 PM.png",
-    "6 - Full Notes/SWE/RN - Expo.md",
     "Assets/Screenshot 2025-06-02 at 9.55.24 PM.png",
     "Assets/Screenshot 2025-06-02 at 10.28.07 AM.png",
     "Assets/Screenshot 2025-06-02 at 10.22.55 AM.png",

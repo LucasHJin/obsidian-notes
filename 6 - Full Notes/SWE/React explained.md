@@ -12,7 +12,8 @@ ___________________________________________________________________________
 # React explained
 
 **React:** a JavaScript library used to build user interfaces, especially for web applications
-- Breaks down the website into key **reusable components** 
+- Breaks down the website into key [[React - Components|reusable components]] 
+	- Runs on [[React - JSX|JSX]] 
 - Uses a virtual [[Javascript - DOM Manipulation & Events|DOM]] 
 	- Only refreshes/updates parts of page that need to be updated rather than everything
 	- Doesn’t actually manipulate the DOM manually with your code
@@ -35,6 +36,8 @@ ___________________________________________________________________________
 	1. `npm run dev` 
 
 **Key React Ideas:** 
+- [[React - Components]] 
+- 
 - [[React - Props]]
 - [[React - Hooks]]
 - [[React - useState]]
@@ -43,6 +46,7 @@ ___________________________________________________________________________
 - [[React - useEffect]]
 - [[React - useContext]] 
 - [[React - useRef]]
+- [[Javascript - Linting]] 
 
 ___
 

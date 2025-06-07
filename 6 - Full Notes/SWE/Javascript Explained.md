@@ -6,7 +6,6 @@ Status:
 Tags:
 [[cs]]
 [[webdev]]
-[[hs]]
 
 ___________________________________________________________________________
 # Javascript Explained
@@ -33,7 +32,11 @@ Higher level programming language that allows dynamically updating content on th
 - [[Javascript - Asynchronous Code]] 
 - [[Javascript - APIs]] 
 - [[Javascript - Async + Await]]
+- [[Javascript - Linting]] 
 - [TO BE CONTINUED…](https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern) 
+
+**Comparing to Typescript:** 
+- [[Typescript explained]]
 
 Note: [[React components vs JS classes]] 
 

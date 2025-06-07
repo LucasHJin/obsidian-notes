@@ -30,7 +30,7 @@ ___________________________________________________________________________
 		- Good for callbacks + one liners
 - **Function expression:** allows you to assign a value to a variable
 	- ![[Screenshot 2025-06-02 at 10.28.07 AM.png|500]] 
-- **Async function:** good for async operations like HTTP requests or I/O
+- **[[Javascript - Async + Await|Async function]]:** good for async operations like HTTP requests or I/O
 	- `async function`…
 	- Returns a **promise:** built-in object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value
 		- I.e. a future value that is to be given (**pending, fulfilled, rejected**)

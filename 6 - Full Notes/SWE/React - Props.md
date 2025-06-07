@@ -54,6 +54,9 @@ const ChildComponent = ({ message }) => {
 };
 ```
 
+**Alternative:** Use typescript → no need to check prop types cause you can define an object for that and also have default values provided
+- [[Typescript explained]] 
+
 
 
 
