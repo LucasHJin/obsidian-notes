@@ -8,5 +8,7 @@
   "obsidian-git",
   "obsidian-smart-typography",
   "table-editor-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "sample-plugin",
+  "temp-obsidian"
 ]
