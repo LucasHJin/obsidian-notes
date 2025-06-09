@@ -11,6 +11,9 @@ Tags:
 ___________________________________________________________________________
 # Javascript - Functions
 
+***NOTE:*** When writing methods inside a class → don’t write `function`
+- Just write it directly
+
 **Functions:** a reusable block of code that performs a specific task or operation
 - **Parameter:** items listed in the parentheses of the function
 	- **Default parameters** → add a value with equal for optional parameter

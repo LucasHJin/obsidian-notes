@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e08fc2197834291e",
+        "id": "e7b0b9502f9a5cec",
         "type": "tabs",
         "children": [
           {
-            "id": "fd95b9c09e404ad4",
+            "id": "2da84aea3383394c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/SWE/Making a Plugin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Making a Plugin"
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +61,7 @@
             }
           },
           {
-            "id": "1cace8dc7f7f6033",
+            "id": "58eaa927c57539b9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 259.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -176,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +177,21 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "temp-obsidian:Create pet": false
+      "temp-obsidian:Open pet view": false
     }
   },
-  "active": "fd95b9c09e404ad4",
+  "active": "2da84aea3383394c",
   "lastOpenFiles": [
+    "6 - Full Notes/SWE/Javascript - ES6 Modules.md",
+    "6 - Full Notes/SWE/Javascript - Destructuring.md",
+    "6 - Full Notes/SWE/Typescript - Interfaces.md",
+    "6 - Full Notes/SWE/Typescript explained.md",
+    "6 - Full Notes/SWE/Typescript - Interfaces 1.md",
+    "6 - Full Notes/SWE/Javascript - Functions.md",
+    "6 - Full Notes/SWE/Javascript - Objects.md",
+    "6 - Full Notes/SWE/Javascript - APIs.md",
+    "6 - Full Notes/High School/Math/Maclaurin Series Expansion.md",
+    "6 - Full Notes/High School/Math/Untitled.md",
     "6 - Full Notes/SWE/Making a Plugin.md",
     "Assets/Pasted image 20250608105056.png",
     "Assets/Pasted image 20250608105055.png",
@@ -213,15 +210,6 @@
     "6 - Full Notes/SWE/Swift - Functions and Closures.md",
     "6 - Full Notes/SWE/Swift - Basic Syntax.md",
     "6 - Full Notes/SWE/Swift - Structs and Classes.md",
-    "6 - Full Notes/SWE/React - Props.md",
-    "6 - Full Notes/SWE/React - Components.md",
-    "6 - Full Notes/SWE/Typescript explained.md",
-    "6 - Full Notes/SWE/React - Keys.md",
-    "6 - Full Notes/SWE/React - JSX.md",
-    "6 - Full Notes/SWE/Typescript - Interfaces.md",
-    "6 - Full Notes/SWE/Javascript Explained.md",
-    "6 - Full Notes/SWE/React components vs JS classes.md",
-    "6 - Full Notes/SWE/Javascript - Data Types and Conditionals.md",
     "Assets/Screenshot 2025-06-03 at 10.54.00 AM.png",
     "Assets/Screenshot 2025-06-02 at 11.17.51 PM.png",
     "Assets/Screenshot 2025-06-02 at 9.55.24 PM.png",

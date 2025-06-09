@@ -28,7 +28,5 @@ const user: User = {
 - Can add `readonly` to make it immutable 
 - Can add optional properties (not necessary)
 
-
-
 # References
 https://www.geeksforgeeks.org/what-is-interfaces-and-explain-it-in-reference-of-typescript/

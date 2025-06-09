@@ -1,35 +1,3 @@
 {
-  "items": [
-    {
-      "type": "group",
-      "ctime": 1722821093074,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1722821079128,
-          "path": "6 - Full Notes/High School/Math/Maclaurin Series Expansion.md",
-          "title": "Maclaurin Series"
-        },
-        {
-          "type": "file",
-          "ctime": 1722821057207,
-          "path": "6 - Full Notes/High School/Math/Differential equations.md",
-          "title": "ODEs"
-        },
-        {
-          "type": "file",
-          "ctime": 1722821111715,
-          "path": "6 - Full Notes/High School/Math/Derivative and Integration CheatSheet.md",
-          "title": "Calc Cheatsheet"
-        },
-        {
-          "type": "file",
-          "ctime": 1722821136620,
-          "path": "6 - Full Notes/High School/Math/Volumes of revolution explained.md",
-          "title": "Volume of Revolution"
-        }
-      ],
-      "title": "Math base concepts"
-    }
-  ]
+  "items": []
 }
