@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4009a9f7ffb10ae",
+        "id": "52bc4c5e66e26d48",
         "type": "tabs",
         "children": [
           {
-            "id": "25bea8389adeb883",
+            "id": "e82967cdfb62e839",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,8 +180,9 @@
       "temp-obsidian:Toggle pet view": false
     }
   },
-  "active": "25bea8389adeb883",
+  "active": "e82967cdfb62e839",
   "lastOpenFiles": [
+    "Untitled.md",
     "6 - Full Notes/SWE/Javascript - ES6 Modules.md",
     "6 - Full Notes/SWE/Javascript - Destructuring.md",
     "6 - Full Notes/SWE/Typescript - Interfaces.md",
@@ -209,7 +210,6 @@
     "6 - Full Notes/SWE/Swift - Control Flow.md",
     "6 - Full Notes/SWE/Swift - Functions and Closures.md",
     "6 - Full Notes/SWE/Swift - Basic Syntax.md",
-    "6 - Full Notes/SWE/Swift - Structs and Classes.md",
     "Assets/Screenshot 2025-06-03 at 10.54.00 AM.png",
     "Assets/Screenshot 2025-06-02 at 11.17.51 PM.png",
     "Assets/Screenshot 2025-06-02 at 9.55.24 PM.png",
