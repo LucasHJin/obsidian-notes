@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52bc4c5e66e26d48",
+        "id": "ef40ae292b8c61cc",
         "type": "tabs",
         "children": [
           {
-            "id": "e82967cdfb62e839",
+            "id": "7b41f91597893774",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 332.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -177,12 +177,13 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "temp-obsidian:Toggle pet view": false
+      "obsidian-pets:Toggle pet view": false
     }
   },
-  "active": "e82967cdfb62e839",
+  "active": "7b41f91597893774",
   "lastOpenFiles": [
     "Untitled.md",
+    "6 - Full Notes/SWE/Making a Plugin.md",
     "6 - Full Notes/SWE/Javascript - ES6 Modules.md",
     "6 - Full Notes/SWE/Javascript - Destructuring.md",
     "6 - Full Notes/SWE/Typescript - Interfaces.md",
@@ -193,7 +194,6 @@
     "6 - Full Notes/SWE/Javascript - APIs.md",
     "6 - Full Notes/High School/Math/Maclaurin Series Expansion.md",
     "6 - Full Notes/High School/Math/Untitled.md",
-    "6 - Full Notes/SWE/Making a Plugin.md",
     "Assets/Pasted image 20250608105056.png",
     "Assets/Pasted image 20250608105055.png",
     "6 - Full Notes/SWE/Swift explained.md",
