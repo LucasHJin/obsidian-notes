@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ef40ae292b8c61cc",
+        "id": "161cca70452d7b20",
         "type": "tabs",
         "children": [
           {
-            "id": "7b41f91597893774",
+            "id": "7ab57f29a17f5e94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SWE/Making a Plugin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Making a Plugin"
             }
           }
         ]
@@ -70,11 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 292.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -90,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/Global Issue Statements explained.md",
+                "file": "6 - Full Notes/SWE/Making a Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Global Issue Statements explained"
+              "title": "Backlinks for Making a Plugin"
             }
           },
           {
@@ -157,12 +172,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 304.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,10 +194,11 @@
       "obsidian-pets:Toggle pet view": false
     }
   },
-  "active": "7b41f91597893774",
+  "active": "7ab57f29a17f5e94",
   "lastOpenFiles": [
-    "Untitled.md",
+    "6 - Full Notes/SWE/Backend - web development explained.md",
     "6 - Full Notes/SWE/Making a Plugin.md",
+    "Untitled.md",
     "6 - Full Notes/SWE/Javascript - ES6 Modules.md",
     "6 - Full Notes/SWE/Javascript - Destructuring.md",
     "6 - Full Notes/SWE/Typescript - Interfaces.md",
@@ -209,7 +224,6 @@
     "6 - Full Notes/SWE/Swift - Enums.md",
     "6 - Full Notes/SWE/Swift - Control Flow.md",
     "6 - Full Notes/SWE/Swift - Functions and Closures.md",
-    "6 - Full Notes/SWE/Swift - Basic Syntax.md",
     "Assets/Screenshot 2025-06-03 at 10.54.00 AM.png",
     "Assets/Screenshot 2025-06-02 at 11.17.51 PM.png",
     "Assets/Screenshot 2025-06-02 at 9.55.24 PM.png",

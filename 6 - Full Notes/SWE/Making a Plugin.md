@@ -34,7 +34,7 @@ ___________________________________________________________________________
 	- Use `getLeavesOfType()` to access instances of view
 	- **Factory function:** creates and returns an object
 		- I.e. `(leaf) => new ExampleView(leaf)` 
-- **Parents:** one of the two types of nodes (workspace items) in the [visible content](https://docs.obsidian.md/Plugins/User+interface/Workspace) 
+- **Parents:** one of the two types of nodes (workspace items) in the [visible content](https://docs.Aobsidian.md/Plugins/User+interface/Workspace) 
 	- Can contain leafs and other parents
 	- **Splits:** type of parent that shows child items side by side
 	- **Tabs:** type of parent that shows only one child item at a time
@@ -59,6 +59,9 @@ ___________________________________________________________________________
 
 *Note:* Use arrow functions instead of regular
 - Preserves `this.` to reference the plugin instance
+
+**Publishing the plugin:** 
+- https://docs.obsidian.md/Plugins/Releasing/Submit+your+plugin
 
 # References
 - [Video](https://www.youtube.com/watch?v=AgXa03ZxJ88) 
