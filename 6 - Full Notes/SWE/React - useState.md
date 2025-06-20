@@ -14,6 +14,7 @@ ___________________________________________________________________________
 **State:** is a [[React - Hooks]] 
 - Allows you to keep track of a variable's value within the virtual DOM
 	- This means that it doesn't need to refresh everything and can just update that one variable by calculating difference between virtual and actual DOM
+- Useful because local variables don’t persist between rerenders
 
 **Updating a Variable's state:**
 - Define the useState object (i.e. `const [name, setName] = useState('')`)
@@ -43,7 +44,6 @@ ___________________________________________________________________________
 	- `setCars(c => [...c, newCar]` 
 - Removal is same as above
 	- `setCars(c => c.filter((_, i) => i !=== index))` where index is passed in
-
 
 # References
 

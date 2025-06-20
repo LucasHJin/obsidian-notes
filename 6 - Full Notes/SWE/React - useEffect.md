@@ -11,7 +11,14 @@ Tags:
 ___________________________________________________________________________
 # React - useEffect
 
-**UseEffect:** Tells React to do something when:
+**Useful** → [[React - Lifecycles]] 
+
+**Effects:** let you run some code to synchronize your component as necessary, on rendering or a reactive/state value change rather than on a particular event
+- Interactions with things outside React → ie. a server
+
+**Note:** Mounting is initial, rendering is initial + all other times
+
+**UseEffect:** Let’s you run code **after** a component has rendered → Tells React to do something when:
 - A component re-renders (i.e. when state changes)
 	- `useEffect(() => {})` (every re-render)
 - A component is mounted (created and appended to the DOM) 
@@ -22,7 +29,23 @@ ___________________________________________________________________________
 	- Write the side code in a function + optional dependencies array
 		- `useEffect(function, [dependencies])` 
 - **Note:**
-	- Strict mode makes it run twice (2x)
+	- Strict mode makes it run twice (2x) 
+		- App components are mounted, unmounted and then mounted again
+		- **Solution** → clean up function
+			- Can return a function in the callback of `useEffect` to be run each time before next effect and before unmount
+I.e. 
+```js
+useEffect(() => {
+    const key = setInterval(() => {
+      setCounter(count => count + 1)
+    }, 1000);
+
+	// clean up function
+    return () => {
+      clearInterval(key);
+    };
+  }, [])
+```
 
 **Usecases:** 
 - Event listeners
@@ -30,6 +53,7 @@ ___________________________________________________________________________
 - Subscriptions (realtime updates)
 - Fetching data from an API
 - Cleaning up when a component unmounts (removed from DOM) 
+- **BASICALLY** → if there are any such external systems that need to be synced with
 
 **Benefits:** 
 - Keeps code more organized

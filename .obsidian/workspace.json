@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ab57f29a17f5e94",
+            "id": "71808d1870712d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/Making a Plugin.md",
+                "file": "6 - Full Notes/SWE/React explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Making a Plugin"
+              "title": "React explained"
+            }
+          },
+          {
+            "id": "0e56f52a02c66cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SWE/React - Lifecycles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "React - Lifecycles"
+            }
+          },
+          {
+            "id": "042f46cd280f7c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SWE/React - useEffect.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "React - useEffect"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "callback",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +133,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 352.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -191,13 +239,20 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-pets:Toggle pet view": false
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "7ab57f29a17f5e94",
+  "active": "0e56f52a02c66cb3",
   "lastOpenFiles": [
-    "6 - Full Notes/SWE/Backend - web development explained.md",
+    "6 - Full Notes/SWE/React - useEffect.md",
+    "6 - Full Notes/SWE/React - Lifecycles.md",
+    "6 - Full Notes/SWE/React explained.md",
+    "6 - Full Notes/SWE/React - State.md",
+    "6 - Full Notes/SWE/React - Rendering.md",
+    "6 - Full Notes/SWE/React - useState.md",
+    "6 - Full Notes/SWE/React - Hooks.md",
     "6 - Full Notes/SWE/Making a Plugin.md",
+    "6 - Full Notes/SWE/Backend - web development explained.md",
     "Untitled.md",
     "6 - Full Notes/SWE/Javascript - ES6 Modules.md",
     "6 - Full Notes/SWE/Javascript - Destructuring.md",
@@ -214,16 +269,9 @@
     "6 - Full Notes/SWE/Swift explained.md",
     "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
     "6 - Full Notes/SWE/SQL explained.md",
-    "6 - Full Notes/SWE/React - useState.md",
-    "6 - Full Notes/SWE/React explained.md",
-    "6 - Full Notes/SWE/React - State.md",
-    "6 - Full Notes/SWE/React - Hooks.md",
     "6 - Full Notes/SWE/Swift - Generics and Extensions.md",
     "6 - Full Notes/SWE/Swift - Protocols and POP.md",
     "6 - Full Notes/SWE/Swift - Strong vs Weak Self.md",
-    "6 - Full Notes/SWE/Swift - Enums.md",
-    "6 - Full Notes/SWE/Swift - Control Flow.md",
-    "6 - Full Notes/SWE/Swift - Functions and Closures.md",
     "Assets/Screenshot 2025-06-03 at 10.54.00 AM.png",
     "Assets/Screenshot 2025-06-02 at 11.17.51 PM.png",
     "Assets/Screenshot 2025-06-02 at 9.55.24 PM.png",

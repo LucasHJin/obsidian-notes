@@ -1,5 +1,4 @@
 [
-  "url-into-selection",
   "dataview",
   "obsidian-minimal-settings",
   "obsidian-full-calendar",
@@ -11,5 +10,7 @@
   "templater-obsidian",
   "sample-plugin",
   "temp-obsidian",
-  "obsidian-pets"
+  "obsidian-pets",
+  "url-into-selection",
+  "pixel-pets"
 ]
