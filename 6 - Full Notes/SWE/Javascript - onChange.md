@@ -9,7 +9,7 @@ Tags:
 
 
 ___________________________________________________________________________
-# React - onChange
+# Javascript - onChange
 
 **onChange:** event handler that is used to capture and respond to changes in input fields
 - I.e. text inputs, checkboxes, and dropdowns
@@ -18,6 +18,14 @@ ___________________________________________________________________________
 - Put it in the input field
 	- I.e. `<input type="text" value={inputValue} onChange={handleChange} />` 
 
+I.e. 
+```js
+function handleChange(event) {
+  console.log(event.target.value); // Accessing the new value
+}
+
+<input type="text" onChange={handleChange} />
+```
 
 
 # References

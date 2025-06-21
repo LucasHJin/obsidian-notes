@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "0e56f52a02c66cb3",
+            "id": "1e3bc03d439e35ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/React - Lifecycles.md",
+                "file": "6 - Full Notes/SWE/React - Components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React - Lifecycles"
+              "title": "React - Components"
             }
           },
           {
-            "id": "042f46cd280f7c68",
+            "id": "210fc4dc5fffe560",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/React - useEffect.md",
+                "file": "6 - Full Notes/SWE/React - Class Based Components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React - useEffect"
+              "title": "React - Class Based Components"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 312.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -242,14 +242,24 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "0e56f52a02c66cb3",
+  "active": "210fc4dc5fffe560",
   "lastOpenFiles": [
-    "6 - Full Notes/SWE/React - useEffect.md",
-    "6 - Full Notes/SWE/React - Lifecycles.md",
     "6 - Full Notes/SWE/React explained.md",
+    "6 - Full Notes/SWE/React - Components.md",
+    "6 - Full Notes/SWE/React - Class Based Components.md",
+    "6 - Full Notes/SWE/Javascript Explained.md",
+    "6 - Full Notes/SWE/Javascript - onChange.md",
+    "6 - Full Notes/SWE/Javascript - Functions.md",
+    "6 - Full Notes/SWE/Javascript - Variables.md",
+    "6 - Full Notes/SWE/Javascript - Linting.md",
     "6 - Full Notes/SWE/React - State.md",
-    "6 - Full Notes/SWE/React - Rendering.md",
+    "6 - Full Notes/SWE/React - Updater Functions.md",
     "6 - Full Notes/SWE/React - useState.md",
+    "6 - Full Notes/SWE/React - useContext.md",
+    "6 - Full Notes/SWE/React - useRef.md",
+    "6 - Full Notes/SWE/React - Lifecycles.md",
+    "6 - Full Notes/SWE/React - useEffect.md",
+    "6 - Full Notes/SWE/React - Rendering.md",
     "6 - Full Notes/SWE/React - Hooks.md",
     "6 - Full Notes/SWE/Making a Plugin.md",
     "6 - Full Notes/SWE/Backend - web development explained.md",
@@ -259,19 +269,9 @@
     "6 - Full Notes/SWE/Typescript - Interfaces.md",
     "6 - Full Notes/SWE/Typescript explained.md",
     "6 - Full Notes/SWE/Typescript - Interfaces 1.md",
-    "6 - Full Notes/SWE/Javascript - Functions.md",
     "6 - Full Notes/SWE/Javascript - Objects.md",
-    "6 - Full Notes/SWE/Javascript - APIs.md",
-    "6 - Full Notes/High School/Math/Maclaurin Series Expansion.md",
-    "6 - Full Notes/High School/Math/Untitled.md",
     "Assets/Pasted image 20250608105056.png",
     "Assets/Pasted image 20250608105055.png",
-    "6 - Full Notes/SWE/Swift explained.md",
-    "6 - Full Notes/SWE/Swift - Concurrency and Threading.md",
-    "6 - Full Notes/SWE/SQL explained.md",
-    "6 - Full Notes/SWE/Swift - Generics and Extensions.md",
-    "6 - Full Notes/SWE/Swift - Protocols and POP.md",
-    "6 - Full Notes/SWE/Swift - Strong vs Weak Self.md",
     "Assets/Screenshot 2025-06-03 at 10.54.00 AM.png",
     "Assets/Screenshot 2025-06-02 at 11.17.51 PM.png",
     "Assets/Screenshot 2025-06-02 at 9.55.24 PM.png",

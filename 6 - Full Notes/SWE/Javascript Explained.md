@@ -22,6 +22,7 @@ Higher level programming language that allows dynamically updating content on th
 - [[Javascript - Variables]] 
 - [[Javascript - Data Types and Conditionals]] 
 - [[Javascript - Functions]] 
+	- [[Javascript - onChange]] 
 - [[Javascript - Errors]] 
 - [[Javascript - Loops and Arrays]] 
 - [[Javascript - DOM Manipulation & Events]] 

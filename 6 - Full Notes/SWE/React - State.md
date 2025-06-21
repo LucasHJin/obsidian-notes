@@ -57,7 +57,7 @@ const handleIncreaseAge = () => {
 
 **Note:** within a single render’s event handlers (i.e. onClick) → state value is fixed
 - Even if you wait on a timer or smth
-- **Accessing future state update** → [State updater function](https://react.dev/learn/queueing-a-series-of-state-updates) 
+- **Accessing future state update** → [State updater function](https://react.dev/learn/queueing-a-series-of-state-updates) ([[React - Updater Functions|NOTE]]) 
 	- Is just an arrow function (gets added onto queue → everything else replaces queue)
 		- I.e. `e => !e` (use first letters of state names)
 

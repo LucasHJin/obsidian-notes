@@ -18,6 +18,7 @@ ___________________________________________________________________________
 **Component concepts:** 
 - [[React - Keys]]
 - [[React - Props]] 
+- [[React - Class Based Components]] 
 
 
 

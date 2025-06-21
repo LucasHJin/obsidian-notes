@@ -40,15 +40,18 @@ ___________________________________________________________________________
 	- [[React - Keys]] 
 	- [[React - Props]] 
 	- [[React - Lifecycles]]
-- [[React - State]] 
-	- [[React - Hooks]]
-	- [[React - useState]] 
-	- [[React - Rendering]] 
-- [[React - useEffect]] 
-- [[React - onChange]]
-- [[React - Updater Functions]] 
-- [[React - useContext]] 
-- [[React - useRef]]
+	- [[React - Class Based Components]] 
+- [[React - Hooks]] 
+	- [[React - State]] 
+		- [[React - useState]] 
+		- [[React - Rendering]] 
+		- [[React - Updater Functions]] 
+	- [[React - useEffect]] 
+	- [[React - useContext]] 
+	- [[React - useRef]]
+
+**Less Key** 
+- [[Javascript - onChange]]
 - [[Javascript - Linting]] 
 
 ___
