@@ -39,8 +39,10 @@ ___________________________________________________________________________
 - [[React - Components]] 
 	- [[React - Keys]] 
 	- [[React - Props]] 
+		- [[React - PropTypes]] 
 	- [[React - Lifecycles]]
 	- [[React - Class Based Components]] 
+		- [[React - Component Lifecycle Methods]] 
 - [[React - Hooks]] 
 	- [[React - State]] 
 		- [[React - useState]] 
@@ -48,7 +50,10 @@ ___________________________________________________________________________
 		- [[React - Updater Functions]] 
 	- [[React - useEffect]] 
 	- [[React - useContext]] 
-	- [[React - useRef]]
+	- [[React - useRef]] 
+- [[React - Routing]] 
+- [[React - fetch]] 
+- [[React - Context]]
 
 **Less Key** 
 - [[Javascript - onChange]]

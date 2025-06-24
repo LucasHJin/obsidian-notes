@@ -18,8 +18,6 @@ ___________________________________________________________________________
 Just pass all the attributes you want to the component and then accept as props/destructure
 - 
 
-
-
 **Common practices:** 
 1. **Default props**
 	1. Default values/fallback values for the props
@@ -29,7 +27,7 @@ ChildComponent.defaultProps = {
     message: 'Default Message'
 };
 ```
-2. **Prop types**
+2. **[[React - PropTypes|PropTypes]]**  
 	1. Enforce type of prop for debugging
 ```js
 import PropTypes from 'prop-types';
