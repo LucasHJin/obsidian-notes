@@ -50,10 +50,12 @@ ___________________________________________________________________________
 		- [[React - Updater Functions]] 
 	- [[React - useEffect]] 
 	- [[React - useContext]] 
+		- - [[React - Context]]
 	- [[React - useRef]] 
+	- [[React - useMemo]] 
+	- [[React - Reducing State]]
 - [[React - Routing]] 
 - [[React - fetch]] 
-- [[React - Context]]
 
 **Less Key** 
 - [[Javascript - onChange]]

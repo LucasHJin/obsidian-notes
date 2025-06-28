@@ -60,7 +60,8 @@ ___________________________________________________________________________
 **Backend languages/databases and [[Frameworks explained|frameworks]]:**
 - Python and [[Django explained |Django]]
 - [[Firebase]]
-- [[Express explained]] 
+- [[Node explained]] 
+	- [[Express explained]] 
 
 # References
 https://www.codecademy.com/article/back-end-architecture

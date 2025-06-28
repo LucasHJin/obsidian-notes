@@ -25,13 +25,14 @@ ___________________________________________________________________________
 	- I.e. putting client information onto a database like user information
 
 **Types:**
-- **Relational Databases (SQL databases):**
+- **Relational Databases ([[SQL explained|SQL]] databases):**
 	- **Structure:**
 		- Organized in tables (relations) with rows and columns
 		- Each table has a defined **schema** specifying columns and datatypes
 			- **Column:** Attributes/fields
 			- **Row:** Records/entries into these fields + primary key
 		- Relationships between tables are made with keys
+			- Helps reduce duplicate entries
 	- **Keys explained:**
 		- **Key:** a unique identifier which can be assigned to a row of data contained within a table
 			- Is called primary key when in original table, foreign key when linked in another table
@@ -52,7 +53,14 @@ ___________________________________________________________________________
 		- Customer ID is a primary key in customer database, for the order database it becomes the foreign key
 	- **Software:**
 		- SQL Server Express, PostgreSQL, SQLite, MySQL and MariaDB
-	
+
+**Key example**
+![[Screenshot 2025-06-27 at 10.41.28 AM.png]]
+- ID → primary keys
+- PublisherID, PlatformID → secondary keys
+	- **Referential integrity**: can’t insert a Video Game with a PublisherID or PlatformID that doesn’t exist in their respective tables
+	- 1 to many → 1 publisher/platform can have multiple VGs
+
 - **Non-Relational Databases (NoSQL databases):**
 	- Uses a storage model optimized for specific requirements of the type of data being stored (no keys, tables, etc.)
 		- Use various query languages or APIs to query them (no one specific)
