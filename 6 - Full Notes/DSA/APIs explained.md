@@ -21,10 +21,12 @@ ___________________________________________________________________________
 		- "Google Maps API"
 		- "HealthKit API"
 - Adhere to specific standards:
-	- [[REST explained]]
-	- [[HTTP explained]]
-
-
+	- [[REST vs HTTP vs CRUD explained]] 
+		- [[REST explained]] 
+			- [[cURL explained]]
+		- [[HTTP explained]] 
+		- [[CRUD explained]] 
+	- [[CORS explained]] 
 
 
 # References

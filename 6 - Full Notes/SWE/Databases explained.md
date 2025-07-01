@@ -23,6 +23,7 @@ ___________________________________________________________________________
 - [[HTTP explained |Requests]] may require database queries
 	- I.e. getting client information from a database like a previous purchase
 	- I.e. putting client information onto a database like user information
+- Interactions → all follow [[HTTP explained|CRUD]] actions
 
 **Types:**
 - **Relational Databases ([[SQL explained|SQL]] databases):**
@@ -52,7 +53,7 @@ ___________________________________________________________________________
 	- **Example:**
 		- Customer ID is a primary key in customer database, for the order database it becomes the foreign key
 	- **Software:**
-		- SQL Server Express, PostgreSQL, SQLite, MySQL and MariaDB
+		- SQL Server Express, [[PostgresSQL explained|PostgreSQL]], SQLite, MySQL and MariaDB
 
 **Key example**
 ![[Screenshot 2025-06-27 at 10.41.28 AM.png]]

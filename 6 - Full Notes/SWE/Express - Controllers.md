@@ -24,6 +24,7 @@ ___________________________________________________________________________
 - **Router level middleware:** bound to an instance of the Express router with `router.METHOD` 
 	- Only runs when request matches and goes through router
 - *NOTE* → the order in which middleware functions are placed matters!!!
+	- A lot of the time → middleware is just 
 Example:
 ```js
 function myMiddleware(req, res, next) {
@@ -40,6 +41,11 @@ function myMiddleware(req, res, next) {
 app.use(myMiddleware);
 ```
 - Middleware after this can access the `req.customProperty` 
+- [[Express - Important Middleware]]
+
+*Note:* **ROUTES ARE NOT THE SAME AS MIDDLEWARE** 
+- Both same syntax → `func(req, res, next)` ([source](https://medium.com/@viral_shah/express-middlewares-demystified-f0c2c37ea6a1)) 
+- Route will process the information and send a response while middleware modifies the request or response in some way
 
 **Controller:** functions that are also classified as a middleware but ==used by route handlers== 
 - Act as a middleman between the server and the browser
@@ -56,6 +62,7 @@ const db = require("../db");
 async function getAuthorById(req, res) {
   const { authorId } = req.params;
 
+  // getAuthorById is a utility/helper function that can be a part of a class 
   const author = await db.getAuthorById(Number(authorId));
 
   if (!author) {
@@ -78,6 +85,10 @@ const authorRouter = Router();
 // ... other route handlers
 authorRouter.get("/:authorId", getAuthorById);
 ```
+- **IMPORTANT**:
+	- Generally → you want to be able to keep your route handlers as one-liners
+	- Best practices → use an [[ORMs explained|ORM]] or use [[Express - Repository Pattern|Repository Pattern]]
+
 
 **Handling responses:** 
 - `res.send` → general purpose method for sending back a response
@@ -90,7 +101,23 @@ authorRouter.get("/:authorId", getAuthorById);
 
 **Handling errors:** 
 - Use `try/catch` inside the controllers
-- **Error middleware handler:** 
+- `next(error)` → automatically catches any thrown errors and passes control to a special **Error middleware handler** 
+	- **Error middleware handler:** handles all errors in code (place at bottom) (NEED ALL 4 PARAMS)
+```js
+app.use((err, req, res, next) => {
+  console.error(err);
+  res.status(500).send(err);
+});
+```
+- Create custom errors → extend the Error object to make a custom class
+
+**Notes on `next`:** 
+- `next()` → pass control to next middleware function
+- `next(new Error())` → pass control to error middleware function
+- `next('route')` → pass control to the next route handler with the same matching path (if there is one)
+	- Does not work for `.use()` 
+- `next('router')` → skip all middleware functions attached to the specific router instance and pass control back out of the router instance
+	- Exit out of current router and go to parent (`app`) 
 
 
 # References

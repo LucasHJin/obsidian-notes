@@ -11,8 +11,9 @@ Tags:
 ___________________________________________________________________________
 # REST explained
 
-**Representational State Transfer**
+**Representational State Transfer (REST)**
 - Architectural style for providing standards between computer systems on the web -> makes it easier for systems to communicate (**Method of designing [[APIs explained |APIs]]**)
+	- Basically → how to organize your APIs and routes to correspond with [[CRUD explained|CRUD]] actions
 - **Explained in simple terms:** 
 	- Everything is a resource (users, posts, products, etc.)
 		- All resources have a specific url/link
@@ -38,12 +39,14 @@ ___________________________________________________________________________
 				- audio — audio/wav, audio/mpeg
 				- video — video/mp4, video/ogg
 				- application — application/json, application/pdf, application/xml, application/octet-stream
-	- **Paths:**
-		- Path to a resource that the operation should be performed on
+	- **Paths (endpoint URIs):**
+		- Resource based → should be a noun describing the resource, not the action 
 		- Should be descriptive and **first part** should be plural form of the resource
 			- I.e. "fashionboutique.com/customers/223/orders/12"
 				- order id = 12
 				- customer id = 223
+		- Typically 2 URI’s per instance → single object and collection
+		- Use [[HTTP explained|HTTP verbs]] to describe action (when specifying which action it is)
 	- **Specify the HTTP version:**
 		- Generally **HTTP/1.1** works for everything
 		- **HTTP/2** and **HTTP/3** can be faster

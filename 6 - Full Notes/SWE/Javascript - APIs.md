@@ -69,7 +69,7 @@ try {
 ```
 
 
-**CORS (Cross Origin Resource Sharing):** enables you to avoid the problem of browsers implementing restrictions on HTTP requests to outside sources
+**[[CORS explained|CORS]] (Cross Origin Resource Sharing):** enables you to avoid the problem of browsers implementing restrictions on HTTP requests to outside sources
 - **Solutions:**
 	- `{mode: 'cors'}` within the fetch
 	- On backend → install CORS

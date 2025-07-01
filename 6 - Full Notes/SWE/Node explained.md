@@ -34,6 +34,12 @@ Often used to build backend services ([[APIs explained|APIs]])
 		- I.e. the callback → stuff inside the `setTimeout`
 	- **Event loop** checks → if call stack is empty, run the callback queue
 
+**Framework:** 
+- [[Express explained]] → provides an [[MVC explained|MVC]] layout on which to use node.js (more organized + simpler to use)
+
+**ORMs:** 
+- [[ORMs explained]] 
+	- [[Prisma ORM explained]]
 
 
 # References

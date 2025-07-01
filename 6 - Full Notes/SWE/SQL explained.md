@@ -57,9 +57,8 @@ ___________________________________________________________________________
 		- `SELECT MAX(users.age) AS highest_age FROM users` → returns column called `highest_age` with max age
 	- `HAVING` → where but for aggregates
 	- `GROUP BY` → group rows that have the same value in one or more columns (to be able to perform aggregate functions on them)
-	- 
 
-
+**Alternative** → [[ORMs explained]] 
 
 
 # References
