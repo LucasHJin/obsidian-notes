@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "161cca70452d7b20",
+        "id": "e747259387306237",
         "type": "tabs",
         "children": [
           {
-            "id": "96599a3d7988c690",
+            "id": "a606b3c21af80f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/Docker explained.md",
+                "file": "6 - Full Notes/AI/AI explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Docker explained"
-            }
-          },
-          {
-            "id": "8419b832e371c967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/SWE/Docker - Docker Compose.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Docker - Docker Compose"
+              "title": "AI explained"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backend",
+                "query": "web server",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,54 +193,54 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "8419b832e371c967",
+  "active": "a606b3c21af80f99",
   "lastOpenFiles": [
+    "3 - Tags/rl.md",
+    "6 - Full Notes/AI/AI explained.md",
+    "6 - Full Notes/AI/NN - Resources.md",
+    "3 - Tags/ai.md",
+    "3 - Tags/nn.md",
+    "3 - Tags/llm.md",
+    "3 - Tags/ml.md",
+    "3 - Tags/art.md",
+    "6 - Full Notes/Machine Learning/Untitled.md",
+    "1 - Rough Notes/School Notes.md",
+    "6 - Full Notes/Obsidian Basics/Setting up Git for Obsidian.md",
+    "6 - Full Notes/Obsidian Basics/Need to know shortcuts and formatting.md",
+    "6 - Full Notes/Obsidian Basics/Need to know personal changes to obsidian.md",
+    "6 - Full Notes/Obsidian Basics/Integrating Obsidian into Personal Website.md",
+    "6 - Full Notes/Random/Powerlifting.md",
+    "6 - Full Notes/Random/How to learn how to draw.md",
+    "6 - Full Notes/SWE/Full Stack explained.md",
+    "6 - Full Notes/Random",
+    "6 - Full Notes/Dev Journal",
+    "6 - Full Notes/Untitled.md",
+    "6 - Full Notes/SWE/Nginx explained.md",
+    "Assets/Screenshot 2025-07-03 at 7.27.24 PM.png",
     "6 - Full Notes/SWE/Docker explained.md",
-    "6 - Full Notes/SWE/Docker - Dockerfile Commands.md",
     "6 - Full Notes/SWE/Docker - Docker Compose.md",
+    "6 - Full Notes/SWE/Docker - Dockerfile Commands.md",
     "6 - Full Notes/SWE/Kubernetes explained.md",
     "6 - Full Notes/SWE/Docker - Desktop.md",
     "6 - Full Notes/SWE/Docker Compose.md",
     "6 - Full Notes/SWE/Docker - Commands.md",
     "Assets/Screenshot 2025-06-30 at 10.54.03 AM.png",
-    "6 - Full Notes/DSA/CORS explained.md",
-    "6 - Full Notes/SWE/Full Stack explained.md",
-    "6 - Full Notes/SWE/Backend - web development explained.md",
-    "6 - Full Notes/SWE/Express - Auth.md",
     "Assets/Screenshot 2025-06-29 at 9.18.08 PM.png",
-    "6 - Full Notes/DSA/APIs explained.md",
-    "3 - Tags/list.md",
-    "6 - Full Notes/SWE/Express - Controllers.md",
-    "6 - Full Notes/SWE/Express - Important Middleware.md",
     "Assets/Screenshot 2025-06-29 at 9.04.48 PM.png",
-    "6 - Full Notes/SWE/HTTP explained.md",
-    "6 - Full Notes/DSA/cURL explained.md",
-    "6 - Full Notes/SWE/Javascript - APIs.md",
-    "6 - Full Notes/SWE/REST explained.md",
-    "6 - Full Notes/DSA/REST vs HTTP vs CRUD explained.md",
-    "6 - Full Notes/SWE/CRUD explained.md",
-    "6 - Full Notes/SWE/Organizing full stack explained.md",
-    "6 - Full Notes/SWE/Express - Routes.md",
-    "6 - Full Notes/SWE/Prisma ORM explained.md",
     "Assets/Screenshot 2025-06-29 at 6.44.17 PM.png",
-    "6 - Full Notes/SWE/Express explained.md",
-    "6 - Full Notes/SWE/ORMs explained.md",
     "Assets/Screenshot 2025-06-28 at 8.11.38 PM.png",
     "Assets/Screenshot 2025-06-28 at 8.11.25 PM.png",
     "Assets/Screenshot 2025-06-28 at 8.10.59 PM.png",
     "Assets/Screenshot 2025-06-27 at 10.41.28 AM.png",
     "Assets/Pasted image 20250608105056.png",
-    "Assets/Pasted image 20250608105055.png",
     "6 - Full Notes/High School/ICS4U",
     "6 - Full Notes/High School",
     "6 - Full Notes/University",
-    "6 - Full Notes/Neural Networks",
+    "6 - Full Notes/AI",
     "5.5 - Scripts/colorizeBooleans.js",
     "5.5 - Scripts",
     "7 - IMPORTANT",
     "6 - Full Notes/Obsidian Basics",
-    "6 - Full Notes/Gym",
-    "6 - Full Notes/Robotics",
     "Untitled.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",

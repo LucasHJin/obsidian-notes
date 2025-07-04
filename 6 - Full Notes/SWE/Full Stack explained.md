@@ -22,7 +22,8 @@ Can have tech stacks:
 - **MERN** 
 
 **Useful tools:** 
-- [[Docker explained]]
+- [[Docker explained]] 
+- [[Nginx explained]]
 
 
 

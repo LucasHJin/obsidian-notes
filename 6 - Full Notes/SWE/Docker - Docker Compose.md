@@ -46,6 +46,10 @@ ___________________________________________________________________________
 | `docker-compose ps`                       | List running services                  |
 | `docker-compose exec <service> <command>` | Run command inside a running container |
 | `docker-compose logs`                     | View logs                              |
+- `-d` → run it detached 
+- `docker compose up --build` → combines the up and build commands
+	- Only need `--build` when you changed something that goes into the image
+	- I.e. Dockerfile, dependencies, `.env`, etc.
 
 *Example:* PERN stack (docker compose file points towards the Dockerfiles and follows the instructions in there)
 ```yaml
@@ -56,7 +60,7 @@ services:
   frontend:
     build: ./frontend
     ports:
-      - "3000:3000"
+      - "3000:3000" #take traffic that comes on port X on computer and send to port Y in container
     environment:
       - NEXT_PUBLIC_API_URL=http://localhost:4000
     depends_on:
