@@ -12,7 +12,24 @@ ___________________________________________________________________________
 # AI explained
 
 ### AI vs ML vs NNs vs LLMs vs RL
-- 
+**Artificial Intelligence:** refers to machines designed to simulate human intelligence (encompasses everything)
+- Anything with rule based systems / learning algorithms
+- **Machine Learning:** algorithms that learn patterns from data instead of being explicitly programmed
+	- Goal → improve performance over time using more data
+	- **Neural Networks:** learning algorithm inspired by the brain → made up of layers of “neurons” that learn from representations of data
+		- Subset of ML
+		- Used for ==image recognition, speech, natural language processing, etc.== 
+		- **Large Language Models:** type of neural network specialized for language
+			- Trained on massive text datasets
+			- Generate/understand language
+			- Based on → ***Transformers*** 
+				- Neural network architecture designed to process sequential data, like text, much more efficiently than older models
+				- Decide which words to focus on before processing + parallel processing (all tokens)
+	- **Reinforcement Learning:** learning algorithm where agents learn through rewards/punishments
+		- Trial and error learning
+- **Generative AI:** any AI system that creates new content (i.e. text, music, images, code, etc.) by learning from patterns in data (cross-cuts multiple subfields)
+	- Not just classifying/predicting
+	- *LLMs* → text generation, *GANs* → image, video generation, *Diffusion models* → image, video generation
 
 
 
