@@ -85,6 +85,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "bf20c8d6d8139298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dc9b296a92d5188",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "Pet View"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +209,7 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "a606b3c21af80f99",
+  "active": "6dc9b296a92d5188",
   "lastOpenFiles": [
     "3 - Tags/rl.md",
     "6 - Full Notes/AI/AI explained.md",
