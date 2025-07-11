@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/AI explained.md",
+                "file": "6 - Full Notes/SWE/Mobile development explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI explained"
+              "title": "Mobile development explained"
+            }
+          },
+          {
+            "id": "a42a9012cf2b95c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SWE/React Native explained.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "React Native explained"
+            }
+          },
+          {
+            "id": "99b065fd68d3fd5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/SWE/Javascript Explained.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Explained"
+            }
+          },
+          {
+            "id": "02630af44f35336f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RN - Responsive Styling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RN - Responsive Styling"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,8 +136,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web server",
-                "matchingCase": true,
+                "query": "typescript",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -193,10 +266,19 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "a606b3c21af80f99",
+  "active": "1996955d879f9461",
   "lastOpenFiles": [
-    "3 - Tags/rl.md",
+    "6 - Full Notes/SWE/Typescript explained.md",
+    "6 - Full Notes/SWE/Javascript Explained.md",
+    "6 - Full Notes/SWE/React explained.md",
+    "6 - Full Notes/SWE/React - Components.md",
+    "6 - Full Notes/SWE/React - Hooks.md",
+    "Expo - Setting up.md",
+    "6 - Full Notes/SWE/React Native explained.md",
+    "RN - Responsive Styling.md",
+    "6 - Full Notes/SWE/Mobile development explained.md",
     "6 - Full Notes/AI/AI explained.md",
+    "3 - Tags/rl.md",
     "6 - Full Notes/AI/NN - Resources.md",
     "3 - Tags/ai.md",
     "3 - Tags/nn.md",
@@ -214,16 +296,7 @@
     "6 - Full Notes/SWE/Full Stack explained.md",
     "6 - Full Notes/Random",
     "6 - Full Notes/Dev Journal",
-    "6 - Full Notes/Untitled.md",
-    "6 - Full Notes/SWE/Nginx explained.md",
     "Assets/Screenshot 2025-07-03 at 7.27.24 PM.png",
-    "6 - Full Notes/SWE/Docker explained.md",
-    "6 - Full Notes/SWE/Docker - Docker Compose.md",
-    "6 - Full Notes/SWE/Docker - Dockerfile Commands.md",
-    "6 - Full Notes/SWE/Kubernetes explained.md",
-    "6 - Full Notes/SWE/Docker - Desktop.md",
-    "6 - Full Notes/SWE/Docker Compose.md",
-    "6 - Full Notes/SWE/Docker - Commands.md",
     "Assets/Screenshot 2025-06-30 at 10.54.03 AM.png",
     "Assets/Screenshot 2025-06-29 at 9.18.08 PM.png",
     "Assets/Screenshot 2025-06-29 at 9.04.48 PM.png",

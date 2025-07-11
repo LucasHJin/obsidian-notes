@@ -24,7 +24,10 @@ ___________________________________________________________________________
 - Need to use mobile specific APIs (and can’t query DOM with selectors)
 
 **Frameworks:** 
-- [[RN - Expo]]
+- [[RN - Expo]] 
+	- [[Expo - Setting up]]
+
+[[RN - Responsive Styling]]
 
 # References
 https://www.youtube.com/watch?v=0-S5a0eXPoc 

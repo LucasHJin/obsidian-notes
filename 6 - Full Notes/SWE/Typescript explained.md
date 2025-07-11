@@ -23,7 +23,11 @@ ___________________________________________________________________________
 - Expressed explicitly by the user
 - **Type annotation** → `: type` 
 	- **BUT** → don’t always need to annotate type always (type inference → can infer the type)
-		- ==Can’t change the type after it is infered==
+		- ==Can’t change the type after it is infered== 
+	- Also → you have angle brackets `<>` for type annotation of state
+		- I.e. `const [data, setData] = useState<T | null>(null);` 
+			- Can either be T or null
+			- `T` is a generic placeholder value → want to be flexible but still have type safety
 
 **Differences:** 
 - **Variables** → add type annotation

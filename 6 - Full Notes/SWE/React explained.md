@@ -57,6 +57,14 @@ ___________________________________________________________________________
 - [[React - Routing]] 
 - [[React - fetch]] 
 
+*Important notes:* 
+- For custom hooks in components:
+	- Can only be called inside React function components or other custom hooks
+	- Cannot be called inside conditions, loops, or nested functions
+	- Must be at the top level of the function component.
+
+
+
 **Less Key** 
 - [[Javascript - onChange]]
 - [[Javascript - Linting]] 
