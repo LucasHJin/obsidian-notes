@@ -103,8 +103,7 @@
               "title": "RN - Responsive Styling"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,10 +265,10 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "1996955d879f9461",
+  "active": "a606b3c21af80f99",
   "lastOpenFiles": [
-    "6 - Full Notes/SWE/Typescript explained.md",
     "6 - Full Notes/SWE/Javascript Explained.md",
+    "6 - Full Notes/SWE/Typescript explained.md",
     "6 - Full Notes/SWE/React explained.md",
     "6 - Full Notes/SWE/React - Components.md",
     "6 - Full Notes/SWE/React - Hooks.md",
