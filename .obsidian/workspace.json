@@ -157,6 +157,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "ad9530073d01c592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bbc33402cec210f",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "Pet view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,7 +281,7 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "a606b3c21af80f99",
+  "active": "9bbc33402cec210f",
   "lastOpenFiles": [
     "6 - Full Notes/SWE/Javascript Explained.md",
     "6 - Full Notes/SWE/Typescript explained.md",
