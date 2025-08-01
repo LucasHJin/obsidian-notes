@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/SWE/Mobile development explained.md",
+                "file": "6 - Full Notes/University/m135 - Language of Mathematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mobile development explained"
+              "title": "m135 - Language of Mathematics"
             }
           },
           {
@@ -159,11 +159,11 @@
         ]
       },
       {
-        "id": "ad9530073d01c592",
+        "id": "0b91cace5fb95c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "9bbc33402cec210f",
+            "id": "b35c5afe72f5c0c9",
             "type": "leaf",
             "state": {
               "type": "pet-view",
@@ -281,8 +281,18 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "9bbc33402cec210f",
+  "active": "b35c5afe72f5c0c9",
   "lastOpenFiles": [
+    "6 - Full Notes/AI/Quant Books.md",
+    "6 - Full Notes/University/m135 - Language of Mathematics.md",
+    "6 - Full Notes/University/REMINDER FOR FUTURE.md",
+    "6 - Full Notes/University/IMPORTANT - Proof Notation.md",
+    "3 - Tags/commst223.md",
+    "3 - Tags/econ101.md",
+    "3 - Tags/cs145.md",
+    "3 - Tags/m137.md",
+    "3 - Tags/m145.md",
+    "6 - Full Notes/SWE/Mobile development explained.md",
     "6 - Full Notes/SWE/Javascript Explained.md",
     "6 - Full Notes/SWE/Typescript explained.md",
     "6 - Full Notes/SWE/React explained.md",
@@ -291,7 +301,6 @@
     "Expo - Setting up.md",
     "6 - Full Notes/SWE/React Native explained.md",
     "RN - Responsive Styling.md",
-    "6 - Full Notes/SWE/Mobile development explained.md",
     "6 - Full Notes/AI/AI explained.md",
     "3 - Tags/rl.md",
     "6 - Full Notes/AI/NN - Resources.md",
@@ -300,15 +309,6 @@
     "3 - Tags/llm.md",
     "3 - Tags/ml.md",
     "3 - Tags/art.md",
-    "6 - Full Notes/Machine Learning/Untitled.md",
-    "1 - Rough Notes/School Notes.md",
-    "6 - Full Notes/Obsidian Basics/Setting up Git for Obsidian.md",
-    "6 - Full Notes/Obsidian Basics/Need to know shortcuts and formatting.md",
-    "6 - Full Notes/Obsidian Basics/Need to know personal changes to obsidian.md",
-    "6 - Full Notes/Obsidian Basics/Integrating Obsidian into Personal Website.md",
-    "6 - Full Notes/Random/Powerlifting.md",
-    "6 - Full Notes/Random/How to learn how to draw.md",
-    "6 - Full Notes/SWE/Full Stack explained.md",
     "6 - Full Notes/Random",
     "6 - Full Notes/Dev Journal",
     "Assets/Screenshot 2025-07-03 at 7.27.24 PM.png",
