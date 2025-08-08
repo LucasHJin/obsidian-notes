@@ -14,7 +14,9 @@ ___________________________________________________________________________
 [[m135 - Truth Tables]] 
 [[m135 - Conjunction and Disjunction]] 
 [[m135 - Logical Operators and Algebra]] 
-[[m135 - Implications]]
+[[m135 - Implications]] 
+[[m135 - Converse and Contrapositive]] 
+[[m135 - If and Only If]] 
 
 
 

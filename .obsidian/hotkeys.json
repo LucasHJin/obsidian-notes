@@ -33,5 +33,23 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-excalidraw-plugin:toggle-excalidraw-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:convert-to-excalidraw": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

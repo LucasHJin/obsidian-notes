@@ -17,13 +17,16 @@ ___________________________________________________________________________
 	- $B$ → conclusion
 - For an implication to be true → truthiness of hypothesis must be accompanied by that of the conclusion
 	- Only false when $A$ is true and $B$ is false
-		- Can still be true if $A$ is true but $B$ is false (**vacuously true**) 
+		- Can still be true if $A$ is false but $B$ is true (**vacuously true**) 
 			- → i.e. if I am the King of Canada, then 2+2=4 (can still be true)
+		- Only first two rows (where $A$ is true) of a [[m135 - Truth Tables|truth table]] matter
 - *Note:* Viewed as a timeline starting at A then leading logically to B
 	- I.e. If $A$ (is true), then $B$ (must be true)
+- *Note:* Both the hypothesis and conclusion can be compound statements
+	- I.e. $(A\land B)\implies C$ 
 
-
-
+Rules:
+- $((A\vee B)\implies C)\equiv ((A\implies C)\land (B\implies C))$  
 
 
 # References

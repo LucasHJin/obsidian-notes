@@ -1,16 +1,14 @@
 [
   "dataview",
-  "obsidian-minimal-settings",
   "obsidian-full-calendar",
   "quick-latex",
-  "obsidian-style-settings",
   "obsidian-git",
   "obsidian-smart-typography",
   "table-editor-obsidian",
-  "templater-obsidian",
   "sample-plugin",
   "temp-obsidian",
   "obsidian-pets",
   "url-into-selection",
-  "pixel-pets"
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings"
 ]

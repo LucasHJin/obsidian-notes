@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14f379186a56c1ea",
+        "id": "1ac21e38938bb298",
         "type": "tabs",
         "children": [
           {
-            "id": "aebe7a718699e7d1",
+            "id": "8c26375bc560f75f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+                "file": "6 - Full Notes/University/m135 - Proofs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Logical Analysis of Mathematical Statements"
+              "title": "m135 - Proofs"
             }
           },
           {
-            "id": "257e6cdd4eca065c",
+            "id": "6b8b13f91dc20f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Implications.md",
+                "file": "6 - Full Notes/University/m135 - Proving Implications.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Implications"
+              "title": "m135 - Proving Implications"
             }
           }
         ],
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 371.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -214,50 +214,50 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "pixel-pets:Toggle pet view": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "257e6cdd4eca065c",
+  "active": "6b8b13f91dc20f23",
   "lastOpenFiles": [
-    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Proving Implications.md",
+    "6 - Full Notes/University/m135 - Proofs.md",
+    "6 - Full Notes/University/m135 - Proving Existentially Quantified Statements.md",
+    "Screenshot 2025-08-07 at 10.51.24 PM.png",
+    "6 - Full Notes/University/m135 - Proving Universally Quantified Statements.md",
+    "Assets/Screenshot 2025-08-07 at 2.39.51 PM.png",
+    "Assets/Screenshot 2025-08-07 at 10.22.24 PM.png",
+    "3 - Tags/math.md",
+    "6 - Full Notes/University/m135 - Homework.md",
+    "6 - Full Notes/University/m135 - Homework.svg",
+    "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Implications.md",
-    "6 - Full Notes/University/m135 - Conjunction and Disjunction.md",
-    "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
-    "Screenshot 2025-08-06 at 8.38.17 PM.png",
-    "Screenshot 2025-08-06 at 3.14.57 PM.png",
-    "6 - Full Notes/University/m135 - Truth Tables.md",
-    "Screenshot 2025-08-06 at 2.55.14 PM.png",
     "6 - Full Notes/University/m135 - Language of Mathematics.md",
-    "6 - Full Notes/University/m135 - Statements.md",
-    "6 - Full Notes/University/Untitled.md",
+    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
     "6 - Full Notes/University/m135 - Quantifiers.md",
     "6 - Full Notes/University/m135 - Sets.md",
-    "6 - Full Notes/SWE/RN - Responsive Styling.md",
-    "6 - Full Notes/SWE/Expo - Setting up.md",
-    "6 - Full Notes/SWE/Javascript Explained.md",
-    "6 - Full Notes/SWE/React Native explained.md",
-    "6 - Full Notes/High School/Chemistry/Calculating changes in energy explained.md",
-    "6 - Full Notes/AI/Quant Books.md",
-    "6 - Full Notes/University/REMINDER FOR FUTURE.md",
-    "6 - Full Notes/University/IMPORTANT - Proof Notation.md",
-    "3 - Tags/commst223.md",
-    "3 - Tags/econ101.md",
-    "3 - Tags/cs145.md",
-    "3 - Tags/m137.md",
-    "3 - Tags/m145.md",
-    "6 - Full Notes/SWE/Mobile development explained.md",
-    "6 - Full Notes/SWE/Typescript explained.md",
-    "6 - Full Notes/SWE/React explained.md",
+    "Assets/Screenshot 2025-08-07 at 2.42.05 PM.png",
+    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
+    "6 - Full Notes/University/m135 - Statements.md",
+    "6 - Full Notes/University/m135 - Truth Tables.md",
+    "7 - IMPORTANT/Exalidraw Hotkeys.md",
+    "6 - Full Notes/High School/Physics/Electromagnetic Fields - RIGHT HAND RULES.md",
+    "6 - Full Notes/High School/Physics/Electromagnetic Fields - RIGHT HAND RULES.svg",
+    "5 - Template/Main Note.md",
+    "5 - Template/Handwritten Note.md",
+    "5 - Template/Typed Existing Note.md",
+    "7 - IMPORTANT/Exalidraw Hotkeys.svg",
+    "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
+    "Assets/Pasted image 20240801201114.png",
+    "6 - Full Notes/Obsidian Basics/Setting up Git for Obsidian.md",
+    "6 - Full Notes/Obsidian Basics/Integrating Obsidian into Personal Website.md",
+    "6 - Full Notes/Robotics/Pathplanner explained.md",
+    "Untitled.md",
+    "Untitled.svg",
+    "Untitled 2.svg",
+    "Excalidraw",
     "6 - Full Notes/Random",
     "6 - Full Notes/Dev Journal",
-    "Assets/Screenshot 2025-07-03 at 7.27.24 PM.png",
-    "Assets/Screenshot 2025-06-30 at 10.54.03 AM.png",
-    "Assets/Screenshot 2025-06-29 at 9.18.08 PM.png",
-    "Assets/Screenshot 2025-06-29 at 9.04.48 PM.png",
-    "Assets/Screenshot 2025-06-29 at 6.44.17 PM.png",
-    "Assets/Screenshot 2025-06-28 at 8.11.38 PM.png",
-    "Assets/Screenshot 2025-06-28 at 8.11.25 PM.png",
     "6 - Full Notes/High School/ICS4U",
     "6 - Full Notes/High School",
     "6 - Full Notes/University",
@@ -265,7 +265,6 @@
     "5.5 - Scripts/colorizeBooleans.js",
     "5.5 - Scripts",
     "7 - IMPORTANT",
-    "6 - Full Notes/Obsidian Basics",
     "Untitled.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
