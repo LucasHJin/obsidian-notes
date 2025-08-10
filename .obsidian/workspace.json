@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac21e38938bb298",
+        "id": "00a23825b48bd1cd",
         "type": "tabs",
         "children": [
           {
-            "id": "8c26375bc560f75f",
+            "id": "c196689e646b5ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "6b8b13f91dc20f23",
+            "id": "85c1c2262826cfa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Proving Implications.md",
+                "file": "6 - Full Notes/University/m135 - Homework.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Proving Implications"
+              "title": "m135 - Homework"
+            }
+          },
+          {
+            "id": "461afe0a1b13d777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/m135 - Induction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "m135 - Induction"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typescript",
+                "query": "existential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,23 +241,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b8b13f91dc20f23",
+  "active": "461afe0a1b13d777",
   "lastOpenFiles": [
-    "6 - Full Notes/University/m135 - Proving Implications.md",
+    "6 - Full Notes/University/m135 - Induction.md",
+    "6 - Full Notes/University/m135 - Homework.md",
     "6 - Full Notes/University/m135 - Proofs.md",
+    "6 - Full Notes/University/m135 - Proving If and Only If Statements.md",
+    "6 - Full Notes/University/m135 - If and Only If.md",
+    "6 - Full Notes/University/m135 - Proving Uniqueness.md",
+    "Screenshot 2025-08-09 at 9.09.53 PM.png",
+    "6 - Full Notes/University/m135 - Proof by Contradiction.md",
+    "6 - Full Notes/University/m135 - Proof by Contrapositive.md",
+    "Screenshot 2025-08-09 at 5.51.49 PM.png",
+    "6 - Full Notes/University/m135 - Divisibility of Integers.md",
     "6 - Full Notes/University/m135 - Proving Existentially Quantified Statements.md",
-    "Screenshot 2025-08-07 at 10.51.24 PM.png",
+    "6 - Full Notes/University/m135 - Implications.md",
+    "6 - Full Notes/University/m135 - Proving Implications.md",
+    "Screenshot 2025-08-09 at 2.40.07 PM.png",
+    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
     "6 - Full Notes/University/m135 - Proving Universally Quantified Statements.md",
+    "Screenshot 2025-08-08 at 11.10.24 PM.png",
+    "Screenshot 2025-08-07 at 10.51.24 PM.png",
     "Assets/Screenshot 2025-08-07 at 2.39.51 PM.png",
     "Assets/Screenshot 2025-08-07 at 10.22.24 PM.png",
     "3 - Tags/math.md",
-    "6 - Full Notes/University/m135 - Homework.md",
     "6 - Full Notes/University/m135 - Homework.svg",
-    "6 - Full Notes/University/m135 - If and Only If.md",
-    "6 - Full Notes/University/m135 - Implications.md",
     "6 - Full Notes/University/m135 - Language of Mathematics.md",
-    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
-    "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
     "6 - Full Notes/University/m135 - Quantifiers.md",
     "6 - Full Notes/University/m135 - Sets.md",
     "Assets/Screenshot 2025-08-07 at 2.42.05 PM.png",
@@ -245,16 +279,6 @@
     "6 - Full Notes/High School/Physics/Electromagnetic Fields - RIGHT HAND RULES.svg",
     "5 - Template/Main Note.md",
     "5 - Template/Handwritten Note.md",
-    "5 - Template/Typed Existing Note.md",
-    "7 - IMPORTANT/Exalidraw Hotkeys.svg",
-    "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
-    "Assets/Pasted image 20240801201114.png",
-    "6 - Full Notes/Obsidian Basics/Setting up Git for Obsidian.md",
-    "6 - Full Notes/Obsidian Basics/Integrating Obsidian into Personal Website.md",
-    "6 - Full Notes/Robotics/Pathplanner explained.md",
-    "Untitled.md",
-    "Untitled.svg",
-    "Untitled 2.svg",
     "Excalidraw",
     "6 - Full Notes/Random",
     "6 - Full Notes/Dev Journal",

@@ -17,15 +17,6 @@
       "key": "U"
     }
   ],
-  "editor:insert-table": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
   "app:reload": [
     {
       "modifiers": [
