@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Proofs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "m135 - Proofs"
-            }
-          },
-          {
-            "id": "85c1c2262826cfa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "6 - Full Notes/University/m135 - Homework.md",
                 "mode": "source",
                 "source": false,
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "461afe0a1b13d777",
+            "id": "ee0bbe5424479f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Induction.md",
+                "file": "6 - Full Notes/University/m135 - Language of Mathematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,82 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Induction"
+              "title": "m135 - Language of Mathematics"
+            }
+          },
+          {
+            "id": "397036bf6f42ca56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/m135 - Statements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "m135 - Statements"
+            }
+          },
+          {
+            "id": "a411629ec6e6bf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/m135 - Quantifiers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "m135 - Quantifiers"
+            }
+          },
+          {
+            "id": "cac0130db07f4e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/m135 - Sets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "m135 - Sets"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "existential",
+                "query": "proposition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 218.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -241,44 +288,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "461afe0a1b13d777",
+  "active": "c196689e646b5ba2",
   "lastOpenFiles": [
-    "6 - Full Notes/University/m135 - Induction.md",
+    "6 - Full Notes/University/m135 - Quantifiers.md",
+    "6 - Full Notes/University/m135 - Statements.md",
+    "6 - Full Notes/University/m135 - Language of Mathematics.md",
+    "6 - Full Notes/University/m135 - Sets.md",
     "6 - Full Notes/University/m135 - Homework.md",
+    "6 - Full Notes/University/m135 - Homework.svg",
+    "6 - Full Notes/University/m135 - Induction.md",
+    "6 - Full Notes/University/m135 - Binomial Theorem.md",
+    "Assets/MATH 135 Course Notes.pdf",
+    "Assets/Screenshot 2025-08-10 at 3.43.31 PM.png",
+    "6 - Full Notes/University/m135 - Summation, Product, Recurrence Notation.md",
+    "Assets/Screenshot 2025-08-10 at 3.46.24 PM.png",
     "6 - Full Notes/University/m135 - Proofs.md",
+    "Assets/Screenshot 2025-08-07 at 10.51.24 PM.png",
     "6 - Full Notes/University/m135 - Proving If and Only If Statements.md",
     "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Proving Uniqueness.md",
-    "Screenshot 2025-08-09 at 9.09.53 PM.png",
+    "Assets/Screenshot 2025-08-09 at 9.09.53 PM.png",
     "6 - Full Notes/University/m135 - Proof by Contradiction.md",
     "6 - Full Notes/University/m135 - Proof by Contrapositive.md",
-    "Screenshot 2025-08-09 at 5.51.49 PM.png",
+    "Assets/Screenshot 2025-08-09 at 5.51.49 PM.png",
     "6 - Full Notes/University/m135 - Divisibility of Integers.md",
     "6 - Full Notes/University/m135 - Proving Existentially Quantified Statements.md",
     "6 - Full Notes/University/m135 - Implications.md",
     "6 - Full Notes/University/m135 - Proving Implications.md",
-    "Screenshot 2025-08-09 at 2.40.07 PM.png",
+    "Assets/Screenshot 2025-08-09 at 2.40.07 PM.png",
     "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
     "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
     "6 - Full Notes/University/m135 - Proving Universally Quantified Statements.md",
-    "Screenshot 2025-08-08 at 11.10.24 PM.png",
-    "Screenshot 2025-08-07 at 10.51.24 PM.png",
+    "Assets/Screenshot 2025-08-08 at 11.10.24 PM.png",
     "Assets/Screenshot 2025-08-07 at 2.39.51 PM.png",
     "Assets/Screenshot 2025-08-07 at 10.22.24 PM.png",
     "3 - Tags/math.md",
-    "6 - Full Notes/University/m135 - Homework.svg",
-    "6 - Full Notes/University/m135 - Language of Mathematics.md",
-    "6 - Full Notes/University/m135 - Quantifiers.md",
-    "6 - Full Notes/University/m135 - Sets.md",
-    "Assets/Screenshot 2025-08-07 at 2.42.05 PM.png",
     "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
-    "6 - Full Notes/University/m135 - Statements.md",
     "6 - Full Notes/University/m135 - Truth Tables.md",
     "7 - IMPORTANT/Exalidraw Hotkeys.md",
-    "6 - Full Notes/High School/Physics/Electromagnetic Fields - RIGHT HAND RULES.md",
-    "6 - Full Notes/High School/Physics/Electromagnetic Fields - RIGHT HAND RULES.svg",
-    "5 - Template/Main Note.md",
-    "5 - Template/Handwritten Note.md",
     "Excalidraw",
     "6 - Full Notes/Random",
     "6 - Full Notes/Dev Journal",
@@ -288,7 +335,6 @@
     "6 - Full Notes/AI",
     "5.5 - Scripts/colorizeBooleans.js",
     "5.5 - Scripts",
-    "7 - IMPORTANT",
     "Untitled.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
