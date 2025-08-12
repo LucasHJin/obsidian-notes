@@ -11,10 +11,24 @@
             "id": "0d8b2e46bdf98ede",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/m135 - Homework.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "m135 - Homework"
             }
           }
         ]
@@ -94,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "6 - Full Notes/University/m135 - Homework.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,5 +166,11 @@
     }
   },
   "active": "0d8b2e46bdf98ede",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "6 - Full Notes/University/Untitled.md",
+    "6 - Full Notes/University/m135 - Homework.md",
+    "Excalidraw/Drawing 2025-08-10 19.57.13.md",
+    "Untitled",
+    "6 - Full Notes/University/m135 - Homework.svg"
+  ]
 }
