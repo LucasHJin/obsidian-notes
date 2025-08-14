@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee0bbe5424479f06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/m135 - Homework.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "m135 - Homework"
-            }
-          },
-          {
-            "id": "397036bf6f42ca56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/m135 - Statements.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "m135 - Statements"
-            }
-          },
-          {
-            "id": "a411629ec6e6bf12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/m135 - Quantifiers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "m135 - Quantifiers"
-            }
-          },
-          {
             "id": "cac0130db07f4e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Sets.md",
+                "file": "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Sets"
+              "title": "m135 - Logical Operators and Algebra"
             }
           }
         ]
@@ -135,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proposition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -260,19 +189,24 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee0bbe5424479f06",
+  "active": "cac0130db07f4e26",
   "lastOpenFiles": [
-    "6 - Full Notes/University/m135 - Homework.svg",
-    "6 - Full Notes/University/m135 - Homework.md",
-    "Assets/Screenshot 2024-08-11 at 12.04.53 PM.png",
-    "6 - Full Notes/University/m135 - Quantifiers.md",
+    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
     "6 - Full Notes/University/m135 - Statements.md",
-    "6 - Full Notes/University/m135 - Language of Mathematics.md",
+    "6 - Full Notes/University/m135 - Quantifiers.md",
+    "6 - Full Notes/University/m135 - Homework.md",
+    "6 - Full Notes/University/m135 - Homework.svg",
     "6 - Full Notes/University/m135 - Sets.md",
+    "6 - Full Notes/SWE/Javascript - Asynchronous Code.md",
+    "Excalidraw/Drawing 2025-08-12 22.41.40.md",
+    "6 - Full Notes/SWE/Javascript Explained.md",
+    "6 - Full Notes/SWE/Javascript - Async + Await.md",
+    "Assets/Screenshot 2024-08-11 at 12.04.53 PM.png",
+    "6 - Full Notes/University/m135 - Language of Mathematics.md",
     "6 - Full Notes/University/m135 - Induction.md",
     "6 - Full Notes/University/m135 - Binomial Theorem.md",
     "Assets/MATH 135 Course Notes.pdf",
@@ -293,15 +227,10 @@
     "6 - Full Notes/University/m135 - Implications.md",
     "6 - Full Notes/University/m135 - Proving Implications.md",
     "Assets/Screenshot 2025-08-09 at 2.40.07 PM.png",
-    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
     "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
     "6 - Full Notes/University/m135 - Proving Universally Quantified Statements.md",
     "Assets/Screenshot 2025-08-08 at 11.10.24 PM.png",
     "Assets/Screenshot 2025-08-07 at 2.39.51 PM.png",
-    "3 - Tags/math.md",
-    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
-    "6 - Full Notes/University/m135 - Truth Tables.md",
-    "7 - IMPORTANT/Exalidraw Hotkeys.md",
     "Excalidraw",
     "6 - Full Notes/Random",
     "6 - Full Notes/Dev Journal",
