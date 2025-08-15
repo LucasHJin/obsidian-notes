@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cac0130db07f4e26",
+            "id": "067df9c5cc653535",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
+                "file": "6 - Full Notes/University/m135 - Overall.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Logical Operators and Algebra"
+              "title": "m135 - Overall"
+            }
+          },
+          {
+            "id": "5c4f4cc6ed69f776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/m135 - Greatest Common Divisor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "m135 - Greatest Common Divisor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,45 +216,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cac0130db07f4e26",
+  "active": "5c4f4cc6ed69f776",
   "lastOpenFiles": [
-    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Greatest Common Divisor.md",
+    "6 - Full Notes/University/m135 - Overall.md",
+    "6 - Full Notes/University/m135 - Subsets.md",
+    "6 - Full Notes/University/m135 - Sets.md",
+    "6 - Full Notes/University/m135 - Set Operations.md",
+    "6 - Full Notes/University/m135 - Set Equality and Implications.md",
+    "Screenshot 2025-08-15 at 10.29.43 AM.png",
+    "Pasted image 20250814205407.png",
+    "6 - Full Notes/University/m135 - Sets Introduction.md",
+    "6 - Full Notes/University/m135 - Proofs.md",
+    "6 - Full Notes/University/m135 - Induction.md",
+    "6 - Full Notes/University/m135 - Proving Uniqueness.md",
+    "6 - Full Notes/University/m135 - Proof by Contradiction.md",
+    "6 - Full Notes/University/m135 - Proving Universally Quantified Statements.md",
     "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
+    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Conjunction and Disjunction.md",
+    "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
+    "6 - Full Notes/University/m135 - Implications.md",
+    "6 - Full Notes/University/m135 - Proving Implications.md",
+    "6 - Full Notes/University/m135 - Proving Existentially Quantified Statements.md",
+    "6 - Full Notes/University/m135 - Homework.svg",
     "6 - Full Notes/University/m135 - Statements.md",
     "6 - Full Notes/University/m135 - Quantifiers.md",
-    "6 - Full Notes/University/m135 - Homework.md",
-    "6 - Full Notes/University/m135 - Homework.svg",
-    "6 - Full Notes/University/m135 - Sets.md",
     "6 - Full Notes/SWE/Javascript - Asynchronous Code.md",
     "Excalidraw/Drawing 2025-08-12 22.41.40.md",
     "6 - Full Notes/SWE/Javascript Explained.md",
     "6 - Full Notes/SWE/Javascript - Async + Await.md",
     "Assets/Screenshot 2024-08-11 at 12.04.53 PM.png",
     "6 - Full Notes/University/m135 - Language of Mathematics.md",
-    "6 - Full Notes/University/m135 - Induction.md",
-    "6 - Full Notes/University/m135 - Binomial Theorem.md",
     "Assets/MATH 135 Course Notes.pdf",
     "Assets/Screenshot 2025-08-10 at 3.43.31 PM.png",
-    "6 - Full Notes/University/m135 - Summation, Product, Recurrence Notation.md",
     "Assets/Screenshot 2025-08-10 at 3.46.24 PM.png",
-    "6 - Full Notes/University/m135 - Proofs.md",
     "Assets/Screenshot 2025-08-07 at 10.51.24 PM.png",
-    "6 - Full Notes/University/m135 - Proving If and Only If Statements.md",
-    "6 - Full Notes/University/m135 - If and Only If.md",
-    "6 - Full Notes/University/m135 - Proving Uniqueness.md",
     "Assets/Screenshot 2025-08-09 at 9.09.53 PM.png",
-    "6 - Full Notes/University/m135 - Proof by Contradiction.md",
-    "6 - Full Notes/University/m135 - Proof by Contrapositive.md",
     "Assets/Screenshot 2025-08-09 at 5.51.49 PM.png",
-    "6 - Full Notes/University/m135 - Divisibility of Integers.md",
-    "6 - Full Notes/University/m135 - Proving Existentially Quantified Statements.md",
-    "6 - Full Notes/University/m135 - Implications.md",
-    "6 - Full Notes/University/m135 - Proving Implications.md",
     "Assets/Screenshot 2025-08-09 at 2.40.07 PM.png",
-    "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
-    "6 - Full Notes/University/m135 - Proving Universally Quantified Statements.md",
-    "Assets/Screenshot 2025-08-08 at 11.10.24 PM.png",
-    "Assets/Screenshot 2025-08-07 at 2.39.51 PM.png",
     "Excalidraw",
     "6 - Full Notes/Random",
     "6 - Full Notes/Dev Journal",

@@ -15,6 +15,7 @@ _______
 - So, you just need to show that for a statement/implication two contradicting things must both be true which means it must be false
 - Oftentimes:
 	- $\neg (A\implies B)\equiv (A\land (\neg B))$ 
+	- Aka → assume opposite of conclusion and show how it violates hypothesis
 
 *Note:* very similar to [[m135 - Proof by Contrapositive]] 
 - Assume $A\land \neg B$ to deduce $A$ is false is very similar to prove $\neg B\implies \neg A$ 

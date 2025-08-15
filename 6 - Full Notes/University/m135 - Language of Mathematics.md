@@ -15,7 +15,7 @@ ___________________________________________________________________________
 **Logical expression:** a full statement that evaluates to a boolean value and often uses one or more logical operators
 - I.e. $\neg A$ 
 
-[[m135 - Sets]]
+[[m135 - Sets Introduction]]
 [[m135 - Statements]] 
 
 

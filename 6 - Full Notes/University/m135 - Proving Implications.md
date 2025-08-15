@@ -9,7 +9,7 @@ Tags:
 
 
 _______
-# m135 - Proving Implications
+# m135 - Proving [[m135 - Implications|Implications]]
 
 **General method:**
 - To prove $A\implies B$:
