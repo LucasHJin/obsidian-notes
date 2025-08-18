@@ -31,14 +31,20 @@ ___________________________________________________________________________
 - [[BFS explained]] 
 - [[DFS explained]] 
 - [[Backtracking explained]] 
-- [[Priority queue or Heaps explained]]
+- [[Priority queue or Heaps explained]] 
+- [[Bucket sort explained]] 
+- [[Prefix sum explained]]
 
 **Problems:** 
 - [[LC - Contains Duplicate]] 
 - [[LC - Valid Anagram]] 
 - [[LC - Two Sum]] 
 - [[LC - Group Anagrams]] 
-- [[LC - Top K Frequent Elements]]
+- [[LC - Top K Frequent Elements]] 
+- [[LC - Encode and Decode Strings]] 
+- [[LC - Product of Array Except Self]] 
+- [[LC - Valid Sudoku]] 
+- [[LC - Longest Consecutive Sequence]] 
 
 
 

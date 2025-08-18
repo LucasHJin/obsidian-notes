@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "283eacb759e7d2ea",
+            "id": "1c04c95847a0d415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Top K Frequent Elements.md",
+                "file": "6 - Full Notes/DSA/LC - Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Top K Frequent Elements"
+              "title": "LC - Longest Consecutive Sequence"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heaps",
+                "query": "prefix sum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,10 +216,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "283eacb759e7d2ea",
+  "active": "1c04c95847a0d415",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Top K Frequent Elements.md",
+    "6 - Full Notes/DSA/LC - Longest Consecutive Sequence.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Valid Sudoku.md",
+    "6 - Full Notes/DSA/Prefix sum explained.md",
+    "6 - Full Notes/DSA/Prefix DP explained.md",
+    "6 - Full Notes/DSA/LC - Product of Array Except Self.md",
+    "6 - Full Notes/DSA/LC - Encode and Decode Strings.md",
+    "6 - Full Notes/DSA/LC - Top K Frequent Elements.md",
+    "6 - Full Notes/DSA/Bucket sort explained.md",
     "6 - Full Notes/DSA/LC - Group Anagrams.md",
     "5 - Template/2 - LC Note.md",
     "6 - Full Notes/DSA/LC - Two Sum.md",
@@ -240,18 +247,11 @@
     "Screenshot 2025-08-16 at 5.49.48 PM.png",
     "6 - Full Notes/DSA/DFS explained.md",
     "6 - Full Notes/DSA/BFS explained.md",
-    "6 - Full Notes/DSA/Binary search explained.md",
     "Screenshot 2025-08-16 at 4.10.27 PM.png",
-    "6 - Full Notes/University/m135 - Binomial Theorem.md",
-    "3 - Tags/m135.md",
-    "6 - Full Notes/DSA/Sliding window explained.md",
-    "6 - Full Notes/DSA/Two pointers explained.md",
-    "6 - Full Notes/DSA/Hashmaps explained.md",
     "Screenshot 2025-08-16 at 3.54.46 PM.png",
     "Screenshot 2025-08-16 at 3.53.54 PM.png",
     "Screenshot 2025-08-16 at 3.51.36 PM.png",
     "Screenshot 2025-08-16 at 3.50.27 PM.png",
-    "6 - Full Notes/DSA/Control flow and looping explained.md",
     "Screenshot 2025-08-15 at 10.29.43 AM.png",
     "Pasted image 20250814205407.png",
     "6 - Full Notes/University/m135 - Homework.svg",

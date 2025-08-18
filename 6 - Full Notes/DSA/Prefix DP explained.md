@@ -21,7 +21,7 @@ ___________________________________________________________________________
 	- Just add on recursively `dp[i-1]` to get `dp[i]` 
 - (Consider each prefix (each individual state))
 
-
+Relates to → [[Prefix sum explained]] 
 
 
 # References
