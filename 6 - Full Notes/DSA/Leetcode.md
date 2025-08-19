@@ -45,8 +45,8 @@ ___________________________________________________________________________
 - [[LC - Product of Array Except Self]] 
 - [[LC - Valid Sudoku]] 
 - [[LC - Longest Consecutive Sequence]] 
-
-
+- [[LC - Valid Parentheses]] 
+- [[LC - Min Stack]]
 
 # References
 - https://neetcode.io/

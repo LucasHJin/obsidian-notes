@@ -39,6 +39,7 @@ _______
 	- Also called a **HASH SET** 
 - **Stack:** last in first out (LIFO)
 	- Usually implemented with array or linked list
+		- Deque uses more memory and is unneeded for front access
 	- Appending to end, removing from end, checking top or size → **O(1)** 
 	- [[DFS explained]] 
 - **Queue:** first in first out (FIFO)
