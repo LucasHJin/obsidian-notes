@@ -46,7 +46,13 @@ ___________________________________________________________________________
 - [[LC - Valid Sudoku]] 
 - [[LC - Longest Consecutive Sequence]] 
 - [[LC - Valid Parentheses]] 
-- [[LC - Min Stack]]
+- [[LC - Min Stack]] 
+- [[LC - Evaluate Reverse Polish Notation]] 
+- [[LC - Generate Parentheses]] 
+- [[LC - Daily Temperatures]] 
+- [[LC - Car Fleet]] 
+- [[LC - Largest Rectangle in Histogram]] 
+- [[LC - Valid Palindrome]]
 
 # References
 - https://neetcode.io/

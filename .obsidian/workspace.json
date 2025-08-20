@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "82881cda2643b79d",
+            "id": "390979a0146a88f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Min Stack.md",
+                "file": "6 - Full Notes/DSA/LC - Valid Palindrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Min Stack"
+              "title": "LC - Valid Palindrome"
             }
           }
         ],
@@ -216,10 +216,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82881cda2643b79d",
+  "active": "390979a0146a88f0",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Min Stack.md",
+    "6 - Full Notes/DSA/LC - Valid Palindrome.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Largest Rectangle in Histogram.md",
+    "6 - Full Notes/DSA/LC - Car Fleet.md",
+    "6 - Full Notes/DSA/LC - Daily Temperatures.md",
+    "6 - Full Notes/DSA/LC - Generate Parentheses.md",
+    "6 - Full Notes/DSA/LC - Evaluate Reverse Polish Notation.md",
+    "6 - Full Notes/DSA/LC - Min Stack.md",
     "6 - Full Notes/DSA/LC - Valid Parentheses.md",
     "6 - Full Notes/DSA/Data structures explained.md",
     "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
@@ -238,12 +244,6 @@
     "6 - Full Notes/DSA/LC - Valid Anagram.md",
     "5 - Template/Typed Existing Note.md",
     "5 - Template/1 - Main Note.md",
-    "5 - Template/Handwritten Note.md",
-    "3 - Tags/hard.md",
-    "3 - Tags/medium.md",
-    "3 - Tags/easy.md",
-    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
-    "Priority queue/Heaps explained.md",
     "Priority queue",
     "Screenshot 2025-08-16 at 5.55.14 PM.png",
     "Screenshot 2025-08-16 at 5.49.48 PM.png",
