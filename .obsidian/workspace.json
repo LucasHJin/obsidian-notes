@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Leetcode"
             }
-          },
-          {
-            "id": "390979a0146a88f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/DSA/LC - Valid Palindrome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LC - Valid Palindrome"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 362.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -213,10 +188,11 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "390979a0146a88f0",
+  "active": "683778ec95aa870e",
   "lastOpenFiles": [
     "6 - Full Notes/DSA/LC - Valid Palindrome.md",
     "6 - Full Notes/DSA/Leetcode.md",

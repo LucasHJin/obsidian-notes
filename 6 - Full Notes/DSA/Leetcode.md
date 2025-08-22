@@ -52,7 +52,8 @@ ___________________________________________________________________________
 - [[LC - Daily Temperatures]] 
 - [[LC - Car Fleet]] 
 - [[LC - Largest Rectangle in Histogram]] 
-- [[LC - Valid Palindrome]]
+- [[LC - Valid Palindrome]] 
+- 
 
 # References
 - https://neetcode.io/
