@@ -17,6 +17,7 @@ ___________________________________________________________________________
 **Leetcode:** popular online platform for practicing coding problems (typically for interviews)
 - Problems are categorized by difficulty (easy, medium, hard)
 - As well as type (i.e. graph, dp, systems design)
+- [[LEETCODE - TO REVIEW]] 
 
 **General:**
 - [[Data structures explained]] 
@@ -53,7 +54,9 @@ ___________________________________________________________________________
 - [[LC - Car Fleet]] 
 - [[LC - Largest Rectangle in Histogram]] 
 - [[LC - Valid Palindrome]] 
-- 
+- [[LC - Two Sum 2 (Input Array is Sorted)]] 
+- [[LC - Three Sum]] 
+- [[LC - Container With Most Water]]
 
 # References
 - https://neetcode.io/
