@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00a23825b48bd1cd",
+        "id": "94cc82133c8756ac",
         "type": "tabs",
         "children": [
           {
-            "id": "683778ec95aa870e",
+            "id": "367e720dbe61b78f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Leetcode"
             }
+          },
+          {
+            "id": "39a49ece47b92153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/DSA/LC - Find Minimum in Rotated Sorted Array.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LC - Find Minimum in Rotated Sorted Array"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +107,22 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "31a99d1ffbbf8594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd9e7babf2f92f1",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "Pet view"
             }
           }
         ]
@@ -192,10 +233,16 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "683778ec95aa870e",
+  "active": "9bd9e7babf2f92f1",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "5 - Template/2 - LC Note.md",
+    "6 - Full Notes/DSA/LC - Find Minimum in Rotated Sorted Array.md",
+    "6 - Full Notes/DSA/LC - Koko Eating Bananas.md",
+    "6 - Full Notes/DSA/LC - Search a 2D Matrix.md",
+    "6 - Full Notes/DSA/LC - Binary Search.md",
+    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
+    "6 - Full Notes/DSA/LC - Trapping Rain Water.md",
     "6 - Full Notes/DSA/LC - Three Sum.md",
     "6 - Full Notes/DSA/LC - Container With Most Water.md",
     "6 - Full Notes/DSA/LC - Two Sum 2 (Input Array is Sorted).md",
@@ -214,12 +261,6 @@
     "6 - Full Notes/DSA/Prefix DP explained.md",
     "6 - Full Notes/DSA/LC - Product of Array Except Self.md",
     "6 - Full Notes/DSA/LC - Encode and Decode Strings.md",
-    "6 - Full Notes/DSA/LC - Top K Frequent Elements.md",
-    "6 - Full Notes/DSA/Bucket sort explained.md",
-    "6 - Full Notes/DSA/LC - Group Anagrams.md",
-    "5 - Template/2 - LC Note.md",
-    "6 - Full Notes/DSA/LC - Two Sum.md",
-    "6 - Full Notes/DSA/LC - Contains Duplicate.md",
     "Priority queue",
     "Screenshot 2025-08-16 at 5.55.14 PM.png",
     "Screenshot 2025-08-16 at 5.49.48 PM.png",

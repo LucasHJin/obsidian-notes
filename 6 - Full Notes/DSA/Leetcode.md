@@ -56,7 +56,13 @@ ___________________________________________________________________________
 - [[LC - Valid Palindrome]] 
 - [[LC - Two Sum 2 (Input Array is Sorted)]] 
 - [[LC - Three Sum]] 
-- [[LC - Container With Most Water]]
+- [[LC - Container With Most Water]] 
+- [[LC - Trapping Rain Water]] 
+- [[LC - Binary Search]] 
+- [[LC - Search a 2D Matrix]] 
+- [[LC - Koko Eating Bananas]] 
+- [[LC - Find Minimum in Rotated Sorted Array]] 
+- [[LC - Search in Rotated Sorted Array]] 
 
 # References
 - https://neetcode.io/
