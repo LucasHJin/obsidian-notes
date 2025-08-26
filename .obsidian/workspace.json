@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Leetcode"
             }
-          },
-          {
-            "id": "39a49ece47b92153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/DSA/LC - Find Minimum in Rotated Sorted Array.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LC - Find Minimum in Rotated Sorted Array"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,22 +82,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "31a99d1ffbbf8594",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9bd9e7babf2f92f1",
-            "type": "leaf",
-            "state": {
-              "type": "pet-view",
-              "state": {},
-              "icon": "cat",
-              "title": "Pet view"
             }
           }
         ]
@@ -229,19 +188,22 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pixel-pets:Toggle pet view": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bd9e7babf2f92f1",
+  "active": "367e720dbe61b78f",
   "lastOpenFiles": [
+    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
     "6 - Full Notes/DSA/Leetcode.md",
-    "5 - Template/2 - LC Note.md",
+    "6 - Full Notes/DSA/LC - Median of Two Sorted Arrays.md",
+    "Screenshot 2025-08-25 at 4.07.55 PM.png",
+    "6 - Full Notes/DSA/LC - Time Based Key-Value Store.md",
+    "6 - Full Notes/DSA/LC - Search in Rotated Sorted Array.md",
     "6 - Full Notes/DSA/LC - Find Minimum in Rotated Sorted Array.md",
+    "5 - Template/2 - LC Note.md",
     "6 - Full Notes/DSA/LC - Koko Eating Bananas.md",
     "6 - Full Notes/DSA/LC - Search a 2D Matrix.md",
     "6 - Full Notes/DSA/LC - Binary Search.md",
-    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
     "6 - Full Notes/DSA/LC - Trapping Rain Water.md",
     "6 - Full Notes/DSA/LC - Three Sum.md",
     "6 - Full Notes/DSA/LC - Container With Most Water.md",
@@ -257,10 +219,6 @@
     "6 - Full Notes/DSA/Data structures explained.md",
     "6 - Full Notes/DSA/LC - Longest Consecutive Sequence.md",
     "6 - Full Notes/DSA/LC - Valid Sudoku.md",
-    "6 - Full Notes/DSA/Prefix sum explained.md",
-    "6 - Full Notes/DSA/Prefix DP explained.md",
-    "6 - Full Notes/DSA/LC - Product of Array Except Self.md",
-    "6 - Full Notes/DSA/LC - Encode and Decode Strings.md",
     "Priority queue",
     "Screenshot 2025-08-16 at 5.55.14 PM.png",
     "Screenshot 2025-08-16 at 5.49.48 PM.png",
@@ -271,7 +229,6 @@
     "Screenshot 2025-08-16 at 3.50.27 PM.png",
     "Screenshot 2025-08-15 at 10.29.43 AM.png",
     "Pasted image 20250814205407.png",
-    "6 - Full Notes/University/m135 - Homework.svg",
     "Assets/MATH 135 Course Notes.pdf",
     "Excalidraw",
     "6 - Full Notes/Random",

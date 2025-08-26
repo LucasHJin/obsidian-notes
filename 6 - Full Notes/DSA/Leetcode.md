@@ -63,6 +63,8 @@ ___________________________________________________________________________
 - [[LC - Koko Eating Bananas]] 
 - [[LC - Find Minimum in Rotated Sorted Array]] 
 - [[LC - Search in Rotated Sorted Array]] 
+- [[LC - Time Based Key-Value Store]] 
+- [[LC - Median of Two Sorted Arrays]]
 
 # References
 - https://neetcode.io/
