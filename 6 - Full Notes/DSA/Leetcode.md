@@ -64,7 +64,10 @@ ___________________________________________________________________________
 - [[LC - Find Minimum in Rotated Sorted Array]] 
 - [[LC - Search in Rotated Sorted Array]] 
 - [[LC - Time Based Key-Value Store]] 
-- [[LC - Median of Two Sorted Arrays]]
+- [[LC - Median of Two Sorted Arrays]] 
+- [[LC - Best Time to Buy and Sell Stocks]] 
+- [[LC - Longest Substring Without Repeating Characters]] 
+- [[LC - Longest Repeating Character Replacement]] 
 
 # References
 - https://neetcode.io/

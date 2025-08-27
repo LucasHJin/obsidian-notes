@@ -85,6 +85,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "cf60e6546032d6d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918fc1228d4a8a45",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "Pet view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,13 +204,18 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "367e720dbe61b78f",
+  "active": "918fc1228d4a8a45",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
+    "6 - Full Notes/DSA/LC - Longest Repeating Character Replacement.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Longest Substring Without Repeating Characters.md",
+    "6 - Full Notes/DSA/LC - Best Time to Buy and Sell Stocks.md",
+    "6 - Full Notes/DSA/Sliding window explained.md",
+    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
     "6 - Full Notes/DSA/LC - Median of Two Sorted Arrays.md",
     "Screenshot 2025-08-25 at 4.07.55 PM.png",
     "6 - Full Notes/DSA/LC - Time Based Key-Value Store.md",
@@ -216,9 +237,6 @@
     "6 - Full Notes/DSA/LC - Evaluate Reverse Polish Notation.md",
     "6 - Full Notes/DSA/LC - Min Stack.md",
     "6 - Full Notes/DSA/LC - Valid Parentheses.md",
-    "6 - Full Notes/DSA/Data structures explained.md",
-    "6 - Full Notes/DSA/LC - Longest Consecutive Sequence.md",
-    "6 - Full Notes/DSA/LC - Valid Sudoku.md",
     "Priority queue",
     "Screenshot 2025-08-16 at 5.55.14 PM.png",
     "Screenshot 2025-08-16 at 5.49.48 PM.png",
