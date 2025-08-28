@@ -68,6 +68,9 @@ ___________________________________________________________________________
 - [[LC - Best Time to Buy and Sell Stocks]] 
 - [[LC - Longest Substring Without Repeating Characters]] 
 - [[LC - Longest Repeating Character Replacement]] 
+- [[LC - Permutation in String]] 
+- [[LC - Minimum Window Substring]] 
+- [[LC - Sliding Window Maximum]] 
 
 # References
 - https://neetcode.io/

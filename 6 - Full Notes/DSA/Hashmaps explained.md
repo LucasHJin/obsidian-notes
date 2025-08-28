@@ -31,6 +31,8 @@ _______
 - **Keys must be hashable:** the keys must be immutable (unchanged)
 	- Can be → numbers, strings, tuples
 	- Cannot be → lists, dictionaries
+- If you make a hashmap for alphabet using list:
+	- **FIXED SIZE → comparison is O(1)** 
 
 
 
