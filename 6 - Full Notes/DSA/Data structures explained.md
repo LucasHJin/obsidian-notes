@@ -23,6 +23,14 @@ _______
 - **Linked lists:** every element points to the next one (don’t need to all be beside each other in memory)
 	- Reading → **O(n)**
 	- Insert/delete → **O(1)**
+	- **Terminology:** 
+		- *Node:* each individual element in linked list (value + pointer)
+			- *None/Null:* marker indicating end of list
+		- *Head:* Pointer to first node in linked list
+		- *Tail:* Last node in a linked list
+		- *Singly LL:* each node points to next node only
+		- *Doubly LL:* each node references next node and previous node
+		- *Circularly LL:* tail node points back to the head
 - **Strings:** basically an array of characters (but immutable → create a new string every modification)
 	- Used in:
 		- Longest substring without repeating characters

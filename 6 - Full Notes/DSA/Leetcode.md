@@ -71,6 +71,9 @@ ___________________________________________________________________________
 - [[LC - Permutation in String]] 
 - [[LC - Minimum Window Substring]] 
 - [[LC - Sliding Window Maximum]] 
+- [[LC - Reverse Linked List]] 
+- [[LC - Merge Two Sorted Lists]] 
+- [[LC - Linked List Cycle]] 
 
 # References
 - https://neetcode.io/
