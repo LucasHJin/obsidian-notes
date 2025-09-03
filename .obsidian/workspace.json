@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dbd821aa2101287",
+            "id": "3475e164c290f322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/Practical Deep Learning for Coders.md",
+                "file": "6 - Full Notes/DSA/Leetcode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Practical Deep Learning for Coders"
+              "title": "Leetcode"
             }
           },
           {
-            "id": "3eef886e1fff692f",
+            "id": "c7167b88b4c9ffd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL 1 - Getting Started.md",
+                "file": "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL 1 - Getting Started"
-            }
-          },
-          {
-            "id": "0ad829a8f810b46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/AI/PDL - Machine Learning Models.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PDL - Machine Learning Models"
+              "title": "LC - Find the Duplicate Number"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,45 +216,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ad829a8f810b46e",
+  "active": "c7167b88b4c9ffd4",
   "lastOpenFiles": [
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/AI/PDL - Terminology.md",
+    "6 - Full Notes/AI/PDL - Resources.md",
+    "6 - Full Notes/AI/PDL 1 - Getting Started.md",
+    "6 - Full Notes/AI/Practical Deep Learning for Coders.md",
+    "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
+    "6 - Full Notes/DSA/LC - Add Two Numbers.md",
+    "6 - Full Notes/DSA/LC - Copy List with Random Pointers.md",
+    "6 - Full Notes/DSA/LC - Reorder List.md",
+    "6 - Full Notes/DSA/LC - Remove Nth Node From End of List.md",
+    "6 - Full Notes/AI/Untitled.md",
+    "6 - Full Notes/AI/PDL - Background Info.md",
+    "6 - Full Notes/AI/AI explained.md",
+    "Screenshot 2025-08-30 at 1.41.04 PM.png",
+    "6 - Full Notes/AI/PDL - Computer vision syntax.md",
+    "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
+    "6 - Full Notes/AI/PDL - Neural Networks.md",
+    "Screenshot 2025-08-29 at 10.46.29 PM.png",
+    "6 - Full Notes/AI/PDL - Machine Learning Models.md",
     "Screenshot 2025-08-29 at 4.59.46 PM.png",
     "Screenshot 2025-08-29 at 4.57.16 PM.png",
     "Screenshot 2025-08-29 at 4.56.36 PM.png",
     "Screenshot 2025-08-29 at 4.56.24 PM.png",
-    "6 - Full Notes/AI/PDL - Machine Learning Models.md",
-    "6 - Full Notes/AI/PDL 1 - Getting Started.md",
-    "6 - Full Notes/AI/PDL - Background Info.md",
-    "6 - Full Notes/AI/PDL - FastAI Sytnax.md",
-    "6 - Full Notes/AI/PDL - Resources.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "6 - Full Notes/DSA/LC - Linked List Cycle.md",
-    "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
     "6 - Full Notes/DSA/LC - Reverse Linked List.md",
     "6 - Full Notes/DSA/Data structures explained.md",
-    "6 - Full Notes/AI/Practical Deep Learning for Coders.md",
     "Screenshot 2025-08-28 at 2.52.22 PM.png",
-    "6 - Full Notes/AI/AI explained.md",
     "6 - Full Notes/DSA/LC - Sliding Window Maximum.md",
     "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
     "6 - Full Notes/DSA/LC - Minimum Window Substring.md",
     "6 - Full Notes/DSA/LC - Permutation in String.md",
     "6 - Full Notes/DSA/Hashmaps explained.md",
     "6 - Full Notes/DSA/LC - Longest Repeating Character Replacement.md",
-    "6 - Full Notes/DSA/LC - Longest Substring Without Repeating Characters.md",
-    "6 - Full Notes/DSA/LC - Best Time to Buy and Sell Stocks.md",
-    "6 - Full Notes/DSA/Sliding window explained.md",
-    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
-    "6 - Full Notes/DSA/LC - Median of Two Sorted Arrays.md",
     "Screenshot 2025-08-25 at 4.07.55 PM.png",
-    "6 - Full Notes/DSA/LC - Time Based Key-Value Store.md",
-    "6 - Full Notes/DSA/LC - Search in Rotated Sorted Array.md",
     "Priority queue",
     "Screenshot 2025-08-16 at 5.55.14 PM.png",
     "Screenshot 2025-08-16 at 5.49.48 PM.png",
-    "Screenshot 2025-08-16 at 4.10.27 PM.png",
-    "Screenshot 2025-08-16 at 3.54.46 PM.png",
-    "Screenshot 2025-08-16 at 3.53.54 PM.png",
     "Assets/MATH 135 Course Notes.pdf",
     "Excalidraw",
     "6 - Full Notes/Random",

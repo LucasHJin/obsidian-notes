@@ -74,6 +74,11 @@ ___________________________________________________________________________
 - [[LC - Reverse Linked List]] 
 - [[LC - Merge Two Sorted Lists]] 
 - [[LC - Linked List Cycle]] 
+- [[LC - Reorder List]] 
+- [[LC - Remove Nth Node From End of List]] 
+- [[LC - Copy List with Random Pointers]] 
+- [[LC - Add Two Numbers]] 
+- [[LC - Find the Duplicate Number]] 
 
 # References
 - https://neetcode.io/

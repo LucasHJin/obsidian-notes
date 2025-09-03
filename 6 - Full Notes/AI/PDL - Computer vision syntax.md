@@ -21,9 +21,12 @@ _______
 	- `get_items` → function that returns a list of the items to train the model on
 	- `splitter` → function to create a validation set
 		- Need to set aside data (not train on it) to test your model afterwards
+		- `pct` → how much to set aside
+		- `seed` → keeps the validation set the SAME (changes in model aren’t from validation set changing)
 	- `get_y` → function that returns the labels for the data (parent folder of each file)
 	- `item_tfms` → code that will run on every item in the data set
 		- I.e. to resize the images
+		- *Note* → batch transforming is faster, run by GPU
 - `dataloaders` → class that PyTorch iterates through to grab data
 	- Feeds the training algorithm with **batches** of data simultaneously
 - [API](https://docs.fast.ai/data.block.html) 
@@ -38,6 +41,7 @@ _______
 **`DataLoaders:`** similar to datablocks but allows you to use even less code
 - Information providing is very similar (i.e. the data, the classification, etc.)
 
+*Note* → label for data is typically in file names or folder path (parent folder)
 
 # References
 

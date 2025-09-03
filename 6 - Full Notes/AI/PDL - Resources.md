@@ -29,7 +29,9 @@ _______
 - **Book:** https://github.com/fastai/fastbook?tab=readme-ov-file
 
 
-
+*Note* → for Jupyter notebook, order of cells matters (i.e. if you change something but dont update it matters)
+- Use `0+0` to restart 
+- Use `run all above` to run to current position
 
 
 

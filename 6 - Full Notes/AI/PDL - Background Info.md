@@ -11,10 +11,8 @@ Tags:
 _______
 # PDL - Background Info
 
-
-**Why deep learning?** 
-- Can do image generation
-- *Pathways Language Model (PaLM):* Can take any english question and make an answer + explain thinking
+**What is deep learning?** 
+- Specialty within machine learning that uses neural networks with multiple layers (i.e. image classificationw)
 
 **Modern vs Old Machine Learning:** 
 - You no longer need to build features → [[AI explained|Neural networks]] can learn/build the features themselves
@@ -26,6 +24,7 @@ _______
 - *Note:* foundational techniques can be used in all types of NN
 	- I.e. image classifier can be used to classify sounds (i.e. convert one set of data into an image form to classify even if not originally image data)
 	- **Segmentation:** colour in pixels based on what each object is
+- *Note* → Deep learning is a specific part of the more general discipline of *[[PDL - Machine Learning Models|machine learning]]* 
 
 **Current deep learning usecases:** 
 - Natural language processing, Computer vision, Medicine, Biology, Image generation, Recommendation systems, Playing games, Robotics, etc.
