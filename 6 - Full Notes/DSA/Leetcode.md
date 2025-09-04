@@ -79,6 +79,7 @@ ___________________________________________________________________________
 - [[LC - Copy List with Random Pointers]] 
 - [[LC - Add Two Numbers]] 
 - [[LC - Find the Duplicate Number]] 
+- [[LC - LRU Cache]] 
 
 # References
 - https://neetcode.io/

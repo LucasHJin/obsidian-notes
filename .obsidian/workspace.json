@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/Leetcode.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leetcode"
+              "title": "1A OVERALL - cs145"
             }
           },
           {
-            "id": "c7167b88b4c9ffd4",
+            "id": "f59056dd2f739e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
+                "file": "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,58 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Find the Duplicate Number"
+              "title": "cs145 - Racket Syntax and Numbers"
+            }
+          },
+          {
+            "id": "a97735a35eccb7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - DrRacket.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - DrRacket"
+            }
+          },
+          {
+            "id": "581f10a638c33755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/DSA/LC - LRU Cache.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LC - LRU Cache"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monotonic",
+                "query": "negation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,48 +260,49 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "c7167b88b4c9ffd4",
+  "active": "3475e164c290f322",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Assignments.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
+    "6 - Full Notes/University/cs145 - DrRacket.md",
+    "Screenshot 2025-09-04 at 10.51.11 AM.png",
+    "Screenshot 2025-09-04 at 10.42.55 AM.png",
+    "Screenshot 2025-09-04 at 10.38.57 AM.png",
+    "6 - Full Notes/University/1A Important Notes.md",
+    "6 - Full Notes/University/1A OVERALL - m137.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - LRU Cache.md",
+    "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
+    "Screenshot 2025-09-03 at 7.14.00 PM.png",
+    "6 - Full Notes/University/1A OVERALL - m135.md",
+    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
+    "6 - Full Notes/University/m135 - Statements.md",
+    "6 - Full Notes/University/m135 - Quantifiers.md",
+    "6 - Full Notes/University/m135 - Language of Mathematics.md",
+    "6 - Full Notes/University/m135 - Sets.md",
+    "6 - Full Notes/University/m135 - Set Operations.md",
+    "6 - Full Notes/University/m135 - Sets Introduction.md",
     "6 - Full Notes/AI/PDL - Terminology.md",
     "6 - Full Notes/AI/PDL - Resources.md",
     "6 - Full Notes/AI/PDL 1 - Getting Started.md",
     "6 - Full Notes/AI/Practical Deep Learning for Coders.md",
-    "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
     "6 - Full Notes/DSA/LC - Add Two Numbers.md",
     "6 - Full Notes/DSA/LC - Copy List with Random Pointers.md",
     "6 - Full Notes/DSA/LC - Reorder List.md",
     "6 - Full Notes/DSA/LC - Remove Nth Node From End of List.md",
     "6 - Full Notes/AI/Untitled.md",
-    "6 - Full Notes/AI/PDL - Background Info.md",
-    "6 - Full Notes/AI/AI explained.md",
     "Screenshot 2025-08-30 at 1.41.04 PM.png",
-    "6 - Full Notes/AI/PDL - Computer vision syntax.md",
-    "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
-    "6 - Full Notes/AI/PDL - Neural Networks.md",
     "Screenshot 2025-08-29 at 10.46.29 PM.png",
-    "6 - Full Notes/AI/PDL - Machine Learning Models.md",
     "Screenshot 2025-08-29 at 4.59.46 PM.png",
     "Screenshot 2025-08-29 at 4.57.16 PM.png",
     "Screenshot 2025-08-29 at 4.56.36 PM.png",
     "Screenshot 2025-08-29 at 4.56.24 PM.png",
-    "6 - Full Notes/DSA/LC - Linked List Cycle.md",
-    "6 - Full Notes/DSA/LC - Reverse Linked List.md",
-    "6 - Full Notes/DSA/Data structures explained.md",
-    "Screenshot 2025-08-28 at 2.52.22 PM.png",
-    "6 - Full Notes/DSA/LC - Sliding Window Maximum.md",
-    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
-    "6 - Full Notes/DSA/LC - Minimum Window Substring.md",
-    "6 - Full Notes/DSA/LC - Permutation in String.md",
-    "6 - Full Notes/DSA/Hashmaps explained.md",
-    "6 - Full Notes/DSA/LC - Longest Repeating Character Replacement.md",
-    "Screenshot 2025-08-25 at 4.07.55 PM.png",
     "Priority queue",
-    "Screenshot 2025-08-16 at 5.55.14 PM.png",
-    "Screenshot 2025-08-16 at 5.49.48 PM.png",
     "Assets/MATH 135 Course Notes.pdf",
     "Excalidraw",
     "6 - Full Notes/Random",
