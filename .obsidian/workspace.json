@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94cc82133c8756ac",
+        "id": "fbb1f4a54a3fc665",
         "type": "tabs",
         "children": [
           {
-            "id": "3475e164c290f322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
-            }
-          },
-          {
-            "id": "f59056dd2f739e8b",
+            "id": "d9bcfd4669621751",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,54 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "cs145 - Racket Syntax and Numbers"
-            }
-          },
-          {
-            "id": "a97735a35eccb7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - DrRacket.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - DrRacket"
-            }
-          },
-          {
-            "id": "581f10a638c33755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/DSA/LC - LRU Cache.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LC - LRU Cache"
             }
           }
         ]
@@ -135,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "negation",
+                "query": "racket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,26 +188,26 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pixel-pets:Toggle pet view": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3475e164c290f322",
+  "active": "1996955d879f9461",
   "lastOpenFiles": [
-    "6 - Full Notes/University/cs145 - Assignments.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
+    "6 - Full Notes/University/1A OVERALL - econ101.md",
+    "6 - Full Notes/DSA/LC - LRU Cache.md",
+    "6 - Full Notes/University/1A OVERALL - m137.md",
+    "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/cs145 - DrRacket.md",
+    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
+    "6 - Full Notes/University/cs145 - Assignments.md",
     "Screenshot 2025-09-04 at 10.51.11 AM.png",
     "Screenshot 2025-09-04 at 10.42.55 AM.png",
     "Screenshot 2025-09-04 at 10.38.57 AM.png",
     "6 - Full Notes/University/1A Important Notes.md",
-    "6 - Full Notes/University/1A OVERALL - m137.md",
     "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/DSA/LC - LRU Cache.md",
     "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
     "Screenshot 2025-09-03 at 7.14.00 PM.png",
-    "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
     "6 - Full Notes/University/m135 - Statements.md",
     "6 - Full Notes/University/m135 - Quantifiers.md",
@@ -295,7 +223,6 @@
     "6 - Full Notes/DSA/LC - Copy List with Random Pointers.md",
     "6 - Full Notes/DSA/LC - Reorder List.md",
     "6 - Full Notes/DSA/LC - Remove Nth Node From End of List.md",
-    "6 - Full Notes/AI/Untitled.md",
     "Screenshot 2025-08-30 at 1.41.04 PM.png",
     "Screenshot 2025-08-29 at 10.46.29 PM.png",
     "Screenshot 2025-08-29 at 4.59.46 PM.png",
