@@ -80,6 +80,7 @@ ___________________________________________________________________________
 - [[LC - Add Two Numbers]] 
 - [[LC - Find the Duplicate Number]] 
 - [[LC - LRU Cache]] 
+- [[LC - Merge K Sorted Lists]] 
 
 # References
 - https://neetcode.io/

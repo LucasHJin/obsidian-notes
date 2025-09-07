@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb1f4a54a3fc665",
+        "id": "8db834859d049d95",
         "type": "tabs",
         "children": [
           {
-            "id": "d9bcfd4669621751",
+            "id": "26098e918d93fcb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
+                "file": "6 - Full Notes/DSA/Leetcode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Racket Syntax and Numbers"
+              "title": "Leetcode"
+            }
+          },
+          {
+            "id": "17a14c06ae4588c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LC - Merge K Sorted Lists"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,21 +216,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1996955d879f9461",
+  "active": "17a14c06ae4588c2",
   "lastOpenFiles": [
+    "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
+    "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
+    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/1A OVERALL - econ101.md",
     "6 - Full Notes/DSA/LC - LRU Cache.md",
     "6 - Full Notes/University/1A OVERALL - m137.md",
     "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/cs145 - DrRacket.md",
-    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
     "6 - Full Notes/University/cs145 - Assignments.md",
     "Screenshot 2025-09-04 at 10.51.11 AM.png",
     "Screenshot 2025-09-04 at 10.42.55 AM.png",
     "Screenshot 2025-09-04 at 10.38.57 AM.png",
     "6 - Full Notes/University/1A Important Notes.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
     "Screenshot 2025-09-03 at 7.14.00 PM.png",
     "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
@@ -220,9 +248,6 @@
     "6 - Full Notes/AI/PDL 1 - Getting Started.md",
     "6 - Full Notes/AI/Practical Deep Learning for Coders.md",
     "6 - Full Notes/DSA/LC - Add Two Numbers.md",
-    "6 - Full Notes/DSA/LC - Copy List with Random Pointers.md",
-    "6 - Full Notes/DSA/LC - Reorder List.md",
-    "6 - Full Notes/DSA/LC - Remove Nth Node From End of List.md",
     "Screenshot 2025-08-30 at 1.41.04 PM.png",
     "Screenshot 2025-08-29 at 10.46.29 PM.png",
     "Screenshot 2025-08-29 at 4.59.46 PM.png",
