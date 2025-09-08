@@ -54,9 +54,57 @@
               "icon": "lucide-file",
               "title": "LC - Merge K Sorted Lists"
             }
+          },
+          {
+            "id": "0bf5607d0a006d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/1A OVERALL - commst223.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1A OVERALL - commst223"
+            }
+          },
+          {
+            "id": "ed65276651f0210a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/commst223 - sep 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "commst223 - sep 8"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,15 +264,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17a14c06ae4588c2",
+  "active": "ed65276651f0210a",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
+    "6 - Full Notes/University/commst223 - sep 8.md",
+    "6 - Full Notes/University/1A OVERALL - commst223.md",
+    "6 - Full Notes/University/1A OVERALL - econ101.md",
     "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
+    "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
     "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
     "6 - Full Notes/DSA/Leetcode.md",
     "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/1A OVERALL - econ101.md",
     "6 - Full Notes/DSA/LC - LRU Cache.md",
     "6 - Full Notes/University/1A OVERALL - m137.md",
     "6 - Full Notes/University/1A OVERALL - m135.md",
@@ -246,8 +296,6 @@
     "6 - Full Notes/AI/PDL - Terminology.md",
     "6 - Full Notes/AI/PDL - Resources.md",
     "6 - Full Notes/AI/PDL 1 - Getting Started.md",
-    "6 - Full Notes/AI/Practical Deep Learning for Coders.md",
-    "6 - Full Notes/DSA/LC - Add Two Numbers.md",
     "Screenshot 2025-08-30 at 1.41.04 PM.png",
     "Screenshot 2025-08-29 at 10.46.29 PM.png",
     "Screenshot 2025-08-29 at 4.59.46 PM.png",
