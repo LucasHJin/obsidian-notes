@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8db834859d049d95",
+        "id": "90c658941e1d72a8",
         "type": "tabs",
         "children": [
           {
-            "id": "26098e918d93fcb4",
+            "id": "77a048af7295925f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/Leetcode.md",
+                "file": "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leetcode"
+              "title": "m135 - Converse and Contrapositive"
             }
           },
           {
-            "id": "17a14c06ae4588c2",
+            "id": "efc210d198d982bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
+                "file": "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Merge K Sorted Lists"
+              "title": "m135 - Logical Analysis of Mathematical Statements"
             }
           },
           {
-            "id": "0bf5607d0a006d8f",
+            "id": "1f1e4c15d51293ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - commst223.md",
+                "file": "6 - Full Notes/University/m135 - Proofs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1A OVERALL - commst223"
-            }
-          },
-          {
-            "id": "ed65276651f0210a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/commst223 - sep 8.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "commst223 - sep 8"
+              "title": "m135 - Proofs"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "racket",
+                "query": "converse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,8 +240,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed65276651f0210a",
+  "active": "1996955d879f9461",
   "lastOpenFiles": [
+    "6 - Full Notes/University/1A OVERALL - m135.md",
+    "6 - Full Notes/University/m135 - Statements.md",
+    "6 - Full Notes/University/m135 - Language of Mathematics.md",
+    "6 - Full Notes/University/m135 - Sets Introduction.md",
+    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
+    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Recursion.md",
+    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
+    "6 - Full Notes/University/cs145 - DrRacket.md",
+    "6 - Full Notes/University/m135 - If and Only If.md",
+    "6 - Full Notes/University/m135 - Implications.md",
+    "6 - Full Notes/University/m135 - Proving Implications.md",
+    "6 - Full Notes/University/m135 - Proofs.md",
+    "6 - Full Notes/University/1A Important Notes.md",
     "6 - Full Notes/University/commst223 - sep 8.md",
     "6 - Full Notes/University/1A OVERALL - commst223.md",
     "6 - Full Notes/University/1A OVERALL - econ101.md",
@@ -273,29 +265,13 @@
     "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
     "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
     "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/DSA/LC - LRU Cache.md",
     "6 - Full Notes/University/1A OVERALL - m137.md",
-    "6 - Full Notes/University/1A OVERALL - m135.md",
-    "6 - Full Notes/University/cs145 - DrRacket.md",
     "6 - Full Notes/University/cs145 - Assignments.md",
     "Screenshot 2025-09-04 at 10.51.11 AM.png",
     "Screenshot 2025-09-04 at 10.42.55 AM.png",
     "Screenshot 2025-09-04 at 10.38.57 AM.png",
-    "6 - Full Notes/University/1A Important Notes.md",
-    "6 - Full Notes/DSA/LC - Find the Duplicate Number.md",
     "Screenshot 2025-09-03 at 7.14.00 PM.png",
-    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
-    "6 - Full Notes/University/m135 - Statements.md",
-    "6 - Full Notes/University/m135 - Quantifiers.md",
-    "6 - Full Notes/University/m135 - Language of Mathematics.md",
-    "6 - Full Notes/University/m135 - Sets.md",
-    "6 - Full Notes/University/m135 - Set Operations.md",
-    "6 - Full Notes/University/m135 - Sets Introduction.md",
-    "6 - Full Notes/AI/PDL - Terminology.md",
-    "6 - Full Notes/AI/PDL - Resources.md",
-    "6 - Full Notes/AI/PDL 1 - Getting Started.md",
     "Screenshot 2025-08-30 at 1.41.04 PM.png",
     "Screenshot 2025-08-29 at 10.46.29 PM.png",
     "Screenshot 2025-08-29 at 4.59.46 PM.png",

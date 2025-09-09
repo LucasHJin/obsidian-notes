@@ -66,24 +66,65 @@ _______
 		- I.e. will get the actual value on second step
 		- `(f 7) -> (+ 7 7) -> 14` 
 - Evaluate either inner most (nested) or left most expression first
+- **Expression:** when it’s not a single value
 
-**Technical details:** 
-- `;;` → to add comments
-- Spaces/newlines don’t matter (don’t impact function/argument)
-	- Racket indents nicely
-- Multiple arguments → use parentheses each time
-- [Documentation](https://docs.racket-lang.org/) 
-	- *Note* → search for the proper “beginner” section
-
-***Notes:*** 
+***Data types:*** 
 - You can write any integer in Racket (no size limit/overflow + pos or neg)
-- Stores rational numbers exactly
+- Stores *rational numbers* exactly
 	- Overlines for repeating numbers → i.e. ![[Screenshot 2025-09-04 at 10.38.57 AM.png|100]]  
 	- ==Not approximated → exact== (allows us to get exact values from things like 3 times 1/3)
-- Inexact numbers → denoted by `#i` 
+- *Inexact numbers* → denoted by `#i` 
 	- Means there is no fraction that can represent (it’s irrational)
 	- I.e. ![[Screenshot 2025-09-04 at 10.42.55 AM.png|300]] 
 	- Means that once inexact, it’s hard to convert back to exact
+- *Complex numbers* → do exist in racket as well
+- *Symbols* → use a `'` at the front of the symbol
+	- Are technically values (no spaces)
+	- Indicate a small set of potential values
+- *Strings* → use `""` around them
+	- Note → strings can have whatever characters you want in them
+	- Store larger universe of possibilities
+- *Booleans* → true or false
+
+**Boolean functions:** 
+- `<, <=, >, >=, =` → comparison functions for numbers
+	- = sign is only for numbers
+- *Logical operators* → `and`, `or`, `not` 
+	- `and` → [[m135 - Conjunction and Disjunction|conjunctive]] (all values need to be true)
+	- `or` → [[m135 - Conjunction and Disjunction|disjunctive]] (at least one value needs to be true)
+	- **NOTE:** → not all arguments are evaluated for `and` and `or` 
+		- I.e. `(and true false (> (/ 0 0) 3))` → will evaluate false because it already sees the `false` at the second step
+		- *short circuit* logic
+- *Predicates* → tell us something about argument (produce boolean values)
+	- `string?`, `number?`, `symbol?`, `symbol=?`, `zero?`, `integer?` 
+	- I.e. `(number? 6)` is true because it is a number
+	- `symbol=?` → used to compare equality of two symbols
+
+**Conditional operators:** 
+- If statement → `(if test true-exprs false-exprs)` 
+	- Short circuits again → doesn’t go through everything
+	- *Note* → there is no `elif` 
+		- Nesting loops gets complicated
+- Cond statement → like a switch in [[Swift explained|Swift]] 
+```js
+(cond (question-expression answer-expression)
+      ...
+      (else answer-expression))
+```
+- Also short circuits → doesn’t go past answer expression if the question is true
+	- Doesn’t evaluate the answer expression if it’s false
+	- `else` → guarantees that something is always evaluated
+
+**Syntax:** means structure/form
+- All racket functions have the syntax: `(<fn-name> <arg1> ... <argN>)` 
+- **Syntax errors:** always going to be because it doesn’t look like the above
+**Semantics:** means meaning
+- Can have right syntax but wrong meaning 
+- [Semantic rules](https://student.cs.uwaterloo.ca/~cs145/handouts/slides/lec02.pdf) (slides 5, 6)
+- *Note* → `(and) => true`, `(or) => false` 
+	- This is not what the stepper does in racket
+		- No more args → they were all true or not a single true encountered
+	- ==BUT → THIS IS ON QUIZ 1 (DO THIS STEP)== 
 
 
 # References

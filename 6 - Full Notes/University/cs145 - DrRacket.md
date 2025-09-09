@@ -25,7 +25,13 @@ _______
 	- *Auto indent* → select everything and hit tab
 		- Indents nicely for you
 
-
+**Technical details:** 
+- `;;` → to add comments
+- Spaces/newlines don’t matter (don’t impact function/argument)
+	- Racket indents nicely
+- Multiple arguments → use parentheses each time
+- [Documentation](https://docs.racket-lang.org/) 
+	- *Note* → search for the proper “beginner” section
 
 
 # References

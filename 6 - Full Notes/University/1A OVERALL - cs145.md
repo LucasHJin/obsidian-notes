@@ -14,6 +14,7 @@ _______
 **General** → [[cs145 - Assignments]]
 
 1. [[cs145 - Racket Syntax and Numbers]] 
+2. [[cs145 - Recursion]]  
 
 
 
