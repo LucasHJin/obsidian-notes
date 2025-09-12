@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77a048af7295925f",
+            "id": "97648741d151cb1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
+                "file": "6 - Full Notes/University/cs145 - Recursion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Converse and Contrapositive"
+              "title": "cs145 - Recursion"
             }
           },
           {
-            "id": "efc210d198d982bb",
+            "id": "ff20ca873c3243c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+                "file": "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Logical Analysis of Mathematical Statements"
-            }
-          },
-          {
-            "id": "1f1e4c15d51293ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/m135 - Proofs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "m135 - Proofs"
+              "title": "cs145 - Measuring Efficiency"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,23 +215,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1996955d879f9461",
+  "active": "97648741d151cb1c",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
+    "6 - Full Notes/University/cs145 - Recursion.md",
+    "Screenshot 2025-09-11 at 11.19.40 AM.png",
+    "6 - Full Notes/University/cs145 - Efficiency Examples.md",
+    "Screenshot 2025-09-11 at 11.01.56 AM.png",
+    "Screenshot 2025-09-11 at 10.55.07 AM.png",
+    "Screenshot 2025-09-11 at 10.46.44 AM.png",
+    "Screenshot 2025-09-11 at 10.45.05 AM.png",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
+    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/m135 - Proofs.md",
     "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/m135 - Statements.md",
     "6 - Full Notes/University/m135 - Language of Mathematics.md",
     "6 - Full Notes/University/m135 - Sets Introduction.md",
-    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
     "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
-    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Recursion.md",
     "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
     "6 - Full Notes/University/cs145 - DrRacket.md",
     "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Implications.md",
     "6 - Full Notes/University/m135 - Proving Implications.md",
-    "6 - Full Notes/University/m135 - Proofs.md",
     "6 - Full Notes/University/1A Important Notes.md",
     "6 - Full Notes/University/commst223 - sep 8.md",
     "6 - Full Notes/University/1A OVERALL - commst223.md",
@@ -265,19 +247,11 @@
     "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
     "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
     "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/DSA/LC - LRU Cache.md",
-    "6 - Full Notes/University/1A OVERALL - m137.md",
-    "6 - Full Notes/University/cs145 - Assignments.md",
     "Screenshot 2025-09-04 at 10.51.11 AM.png",
     "Screenshot 2025-09-04 at 10.42.55 AM.png",
     "Screenshot 2025-09-04 at 10.38.57 AM.png",
     "Screenshot 2025-09-03 at 7.14.00 PM.png",
     "Screenshot 2025-08-30 at 1.41.04 PM.png",
-    "Screenshot 2025-08-29 at 10.46.29 PM.png",
-    "Screenshot 2025-08-29 at 4.59.46 PM.png",
-    "Screenshot 2025-08-29 at 4.57.16 PM.png",
-    "Screenshot 2025-08-29 at 4.56.36 PM.png",
-    "Screenshot 2025-08-29 at 4.56.24 PM.png",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
     "Excalidraw",
