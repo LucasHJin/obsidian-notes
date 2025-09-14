@@ -36,7 +36,7 @@ _______
 		- **Tests:** more advanced cases + edge cases (put after function)
 - I.e. 
 ```
-check-expect (square 3) 9)
+(check-expect (square 3) 9)
 (check-expect (square 4) 16)
 ```
 - Should output “All tests passed!” if done properly

@@ -34,6 +34,7 @@ _______
 	- `fib(n) = fib(n-1) + fib(n-2)` 
 		- Save these values in parameters for fast computation
 ![[Screenshot 2025-09-11 at 11.19.40 AM.png]] 
+- Just iterates forward 
 
 | N   | (fib N) | (fib-steps N) |
 | --- | ------- | ------------- |

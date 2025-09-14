@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "cs145 - Recursion"
             }
-          },
-          {
-            "id": "ff20ca873c3243c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Measuring Efficiency"
-            }
           }
         ]
       }
@@ -87,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "converse",
+                "query": "check-expect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,17 +194,19 @@
   },
   "active": "97648741d151cb1c",
   "lastOpenFiles": [
+    "6 - Full Notes/University/m135 - If and Only If.md",
+    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
     "6 - Full Notes/University/cs145 - Recursion.md",
+    "6 - Full Notes/University/cs145 - Stepping.md",
     "Screenshot 2025-09-11 at 11.19.40 AM.png",
     "6 - Full Notes/University/cs145 - Efficiency Examples.md",
     "Screenshot 2025-09-11 at 11.01.56 AM.png",
     "Screenshot 2025-09-11 at 10.55.07 AM.png",
     "Screenshot 2025-09-11 at 10.46.44 AM.png",
     "Screenshot 2025-09-11 at 10.45.05 AM.png",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
-    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
     "6 - Full Notes/University/m135 - Proofs.md",
     "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/m135 - Statements.md",
@@ -236,7 +215,6 @@
     "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
     "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
     "6 - Full Notes/University/cs145 - DrRacket.md",
-    "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Implications.md",
     "6 - Full Notes/University/m135 - Proving Implications.md",
     "6 - Full Notes/University/1A Important Notes.md",
