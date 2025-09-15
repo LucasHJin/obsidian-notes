@@ -46,7 +46,8 @@ to be proven true or demonstrated false by a valid argument
 - [[m135 - Proving If and Only If Statements]] 
 - [[m135 - Induction]] 
 
-
+**Class notes:** 
+- [[proofs_note.pdf]] 
 
 
 # References

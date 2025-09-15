@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Recursion.md",
+                "file": "6 - Full Notes/University/m135 - Proofs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Recursion"
+              "title": "m135 - Proofs"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "check-expect",
+                "query": "equivalent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,13 +192,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97648741d151cb1c",
+  "active": "a49d2650b5e15539",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Recursion.md",
+    "Assets/proofs_note.pdf",
     "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
-    "6 - Full Notes/University/cs145 - Recursion.md",
     "6 - Full Notes/University/cs145 - Stepping.md",
     "Screenshot 2025-09-11 at 11.19.40 AM.png",
     "6 - Full Notes/University/cs145 - Efficiency Examples.md",
@@ -224,7 +225,6 @@
     "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
     "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
     "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "Screenshot 2025-09-04 at 10.51.11 AM.png",
     "Screenshot 2025-09-04 at 10.42.55 AM.png",
     "Screenshot 2025-09-04 at 10.38.57 AM.png",
@@ -239,7 +239,6 @@
     "6 - Full Notes/High School",
     "6 - Full Notes/University",
     "6 - Full Notes/AI",
-    "5.5 - Scripts/colorizeBooleans.js",
     "Untitled.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
