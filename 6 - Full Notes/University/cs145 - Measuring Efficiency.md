@@ -25,7 +25,17 @@ _______
 **Tail recursion:** writing a function in such a way such that you never do anything with the recursive call
 - **KEY IDEA:** the recursive call cannot be an argument of any computation
 	- Calcs must happen before the recursive call
+	- Can’t have some expression surrounding the subcall (used in subexpression)
 - **KEY IDEA:** must have at least 1 accumulator that stores intermediate results
+- Explanation:
+	- Recursion → need to go inwards and the back out (>)
+		- Memory increases (more parentheses)
+	- Tail recursion → only go forwards
+		- When you are done (iteration is at 0) → **return the accumulator** 
+		- ==LENGTH STAYS THE SAME (FIXED AMOUNT OF MEMORY/PARENTHESES)== 
+- [[cs145 - Tail Recursion Examples]]
+	- **NOTE:** if you have a repeated calculations, use a helper to avoid repeating that calculation of the same expression
+
 
 **Example helper:** 
 - Original Fib –> [[cs145 - Efficiency Examples]] 

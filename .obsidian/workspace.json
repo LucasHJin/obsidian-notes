@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/m135 - Proofs.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "m135 - Proofs"
+              "title": "1A OVERALL - cs145"
+            }
+          },
+          {
+            "id": "93d9d321eb5364a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Data Structures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Data Structures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,15 +216,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a49d2650b5e15539",
+  "active": "93d9d321eb5364a5",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Data Structures.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Assignments.md",
+    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
+    "6 - Full Notes/University/cs145 - Tail Recursion Examples.md",
+    "6 - Full Notes/University/cs145 - Stepping.md",
+    "6 - Full Notes/University/m135 - Proofs.md",
     "6 - Full Notes/University/cs145 - Recursion.md",
     "Assets/proofs_note.pdf",
     "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
-    "6 - Full Notes/University/cs145 - Stepping.md",
     "Screenshot 2025-09-11 at 11.19.40 AM.png",
     "6 - Full Notes/University/cs145 - Efficiency Examples.md",
     "Screenshot 2025-09-11 at 11.01.56 AM.png",
@@ -208,7 +236,6 @@
     "Screenshot 2025-09-11 at 10.46.44 AM.png",
     "Screenshot 2025-09-11 at 10.45.05 AM.png",
     "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
-    "6 - Full Notes/University/m135 - Proofs.md",
     "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/m135 - Statements.md",
     "6 - Full Notes/University/m135 - Language of Mathematics.md",
@@ -223,8 +250,6 @@
     "6 - Full Notes/University/1A OVERALL - commst223.md",
     "6 - Full Notes/University/1A OVERALL - econ101.md",
     "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
-    "6 - Full Notes/DSA/LC - Merge Two Sorted Lists.md",
-    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
     "Screenshot 2025-09-04 at 10.51.11 AM.png",
     "Screenshot 2025-09-04 at 10.42.55 AM.png",
     "Screenshot 2025-09-04 at 10.38.57 AM.png",
