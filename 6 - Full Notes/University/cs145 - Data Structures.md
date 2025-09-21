@@ -12,6 +12,8 @@ Tags:
 _______
 # cs145 - Data Structures
 
+**MORE DEEP:** → [[cs145 - Trees]] 
+
 **Atomic types:** only represent one thing
 - I.e. numbers, strings → only thing they can store is characters
 	- No way to connect 2 of these atomic types together in a meaningful way
@@ -48,10 +50,22 @@ _______
 	- Allows to work more generally
 	- Allows collaboration
 	- Allows protection/hiding information
-**Bunch ADT:** allows us to store a multiset of values
-- `singleton-bunch` → bunch with a single value
-- `combine-bunches` → combines bunches together into a singular bunch
-- 
+**Bunch ADT:** allows us to store a multiset of values (with the following operations)
+- **Constructors:** 
+	- `singleton-bunch` → bunch with a single value
+	- `combine-bunches` → combines bunches together into a singular bunch
+	- ![[Untitled_Artwork.png]] 
+		- And `empty-bunch` 
+- **Queries:** 
+	- `empty-bunch?` → is the bunch empty
+	- `count-bunch` → total amount of elements in the bunch
+	- `(count-in-bunch x y)` → amount of `x` in the bunch `y` 
+- **Removal:** 
+	- `remove-from-bunch` → remove ALL instances from the bunch
+- *NOTE* → need to consider efficiency
+	- YOU NEED TO IMPLEMENT THIS YOURSELF
+		- GIVEN AN ABSTRACT DATA TYPE → on a test
+- ![[Untitled_Artwork 2.png]] 
 
 # References
 

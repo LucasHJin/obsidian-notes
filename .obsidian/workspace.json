@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "93d9d321eb5364a5",
+            "id": "7d6df476952cdee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Data Structures.md",
+                "file": "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,15 +48,14 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Data Structures"
+              "title": "cs145 - Measuring Efficiency"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,16 +215,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93d9d321eb5364a5",
+  "active": "97648741d151cb1c",
   "lastOpenFiles": [
-    "6 - Full Notes/University/cs145 - Data Structures.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Assignments.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Recursion.md",
+    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
+    "6 - Full Notes/University/cs145 - Trees.md",
     "6 - Full Notes/University/cs145 - Tail Recursion Examples.md",
     "6 - Full Notes/University/cs145 - Stepping.md",
+    "Untitled_Artwork 5.png",
+    "Untitled_Artwork 4.png",
+    "Untitled_Artwork 3.png",
+    "6 - Full Notes/University/cs145 - Data Structures.md",
+    "Untitled_Artwork 2.png",
+    "Untitled_Artwork.png",
+    "6 - Full Notes/University/cs145 - Assignments.md",
     "6 - Full Notes/University/m135 - Proofs.md",
-    "6 - Full Notes/University/cs145 - Recursion.md",
     "Assets/proofs_note.pdf",
     "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
@@ -241,20 +247,12 @@
     "6 - Full Notes/University/m135 - Language of Mathematics.md",
     "6 - Full Notes/University/m135 - Sets Introduction.md",
     "6 - Full Notes/University/m135 - Logical Operators and Algebra.md",
-    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
     "6 - Full Notes/University/cs145 - DrRacket.md",
     "6 - Full Notes/University/m135 - Implications.md",
     "6 - Full Notes/University/m135 - Proving Implications.md",
     "6 - Full Notes/University/1A Important Notes.md",
     "6 - Full Notes/University/commst223 - sep 8.md",
     "6 - Full Notes/University/1A OVERALL - commst223.md",
-    "6 - Full Notes/University/1A OVERALL - econ101.md",
-    "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
-    "Screenshot 2025-09-04 at 10.51.11 AM.png",
-    "Screenshot 2025-09-04 at 10.42.55 AM.png",
-    "Screenshot 2025-09-04 at 10.38.57 AM.png",
-    "Screenshot 2025-09-03 at 7.14.00 PM.png",
-    "Screenshot 2025-08-30 at 1.41.04 PM.png",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
     "Excalidraw",
