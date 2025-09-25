@@ -19,7 +19,7 @@ _______
 **Binary tree:** either an empty tree (`empty` or `'()`) or a *node* containing two trees as *children* 
 - **Children** → distinguished by `left` and `right` 
 - **Undecorated BT:** has just the structure (i.e. just shows the nodes)
-- **Decorated BT:** has data in addition to just structure (i.e. a number at each node)
+- **[[cs145 - Specific Trees|Decorated BT]]:** has data in addition to just structure (i.e. a number at each node)
 - **Implementation:** 
 	- ![[Untitled_Artwork 3.png|500]] 
 - **Anatomy of a tree:** 
