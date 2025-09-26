@@ -20,6 +20,7 @@ _______
 4. [[cs145 - Data Structures]] 
 5. [[cs145 - Trees]]
 6. [[cs145 - Specific Trees]] 
+7. [[cs145 - Lists]] 
 
 
 

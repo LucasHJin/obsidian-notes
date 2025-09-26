@@ -80,6 +80,15 @@ _______
 		- Use a helper
 			- Keep going right in the left subtree until you find the stopping point `(find-max)` 
 
+**Other BST Functions:** 
+- `(bst? t)` → produces true if the tree is a binary search tree
+	- Good helper for A4
+- `(bst-min-height? t)` → Check if it’s a binary search tree + min height
+- `(bst-delete-min t)` → find the minimum and delete
+- `(bst-nth-largest n)` → find the nth largest thing in the binary search tree
+	- On A5
+	- *Note* → can’t just delete max n times to find nth largest
+
 ![[Untitled_Artwork 6.png|350]]  ![[Untitled_Artwork 7.png|300]]
 
 
