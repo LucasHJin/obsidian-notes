@@ -21,6 +21,7 @@ _______
 5. [[cs145 - Trees]]
 6. [[cs145 - Specific Trees]] 
 7. [[cs145 - Lists]] 
+8. [[cs145 - Heaps]] 
 
 
 

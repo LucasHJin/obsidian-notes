@@ -72,6 +72,8 @@ _______
 - Deleting a node in the middle with 2 children
 	- Find max of left subtree and then overwrite by deleting the max and then moving it up to be the new root
 	- Then if it has a left subtree → just do one child strategy (promote its child to take up the place)
+		- Call delete again
+	- Just make the key of the node you create equal to the max key you find (that’s how you move it up)
 - **Pseudo code:** 
 	- If leaf → just delete
 	- If one child → promote
