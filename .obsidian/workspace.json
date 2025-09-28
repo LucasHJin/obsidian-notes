@@ -79,8 +79,7 @@
               "title": "1A OVERALL - cs145"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +239,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac4458634da4089e",
+  "active": "97648741d151cb1c",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Specific Trees.md",
     "6 - Full Notes/AI/RL Basics.md",
     "Pasted image 20250926133500.png",
     "Screenshot 2025-09-26 at 11.53.42 AM.png",
@@ -251,7 +251,6 @@
     "Pasted image 20250926113448.png",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Heaps.md",
-    "6 - Full Notes/University/cs145 - Specific Trees.md",
     "6 - Full Notes/University/cs145 - Trees.md",
     "6 - Full Notes/University/cs145 - Lists.md",
     "Screenshot 2025-09-25 at 10.54.16 AM.png",
