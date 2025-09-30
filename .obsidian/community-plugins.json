@@ -1,7 +1,6 @@
 [
   "dataview",
   "obsidian-full-calendar",
-  "quick-latex",
   "obsidian-git",
   "obsidian-smart-typography",
   "table-editor-obsidian",
@@ -9,5 +8,7 @@
   "temp-obsidian",
   "obsidian-pets",
   "url-into-selection",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "quick-latex",
+  "pixel-pets"
 ]

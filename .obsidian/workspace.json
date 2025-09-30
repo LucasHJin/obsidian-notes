@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97648741d151cb1c",
+            "id": "a2344820b4eb8011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/RL Basics.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RL Basics"
-            }
-          },
-          {
-            "id": "ac4458634da4089e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Specific Trees.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Specific Trees"
-            }
-          },
-          {
-            "id": "a871009b0bca3f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
+              "title": "Untitled"
             }
           }
         ]
@@ -136,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 359.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -236,13 +188,15 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "97648741d151cb1c",
+  "active": "a2344820b4eb8011",
   "lastOpenFiles": [
-    "6 - Full Notes/University/cs145 - Specific Trees.md",
+    "Untitled.md",
     "6 - Full Notes/AI/RL Basics.md",
+    "6 - Full Notes/University/cs145 - Specific Trees.md",
     "Pasted image 20250926133500.png",
     "Screenshot 2025-09-26 at 11.53.42 AM.png",
     "Screenshot 2025-09-26 at 11.52.17 AM.png",
