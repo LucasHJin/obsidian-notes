@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90c658941e1d72a8",
+        "id": "a85cc637e51ce879",
         "type": "tabs",
         "children": [
           {
-            "id": "a2344820b4eb8011",
+            "id": "d65a3526ac47bca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "6 - Full Notes/University/cs145 - Lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "cs145 - Lists"
+            }
+          },
+          {
+            "id": "9d42a588124a992f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1A OVERALL - cs145"
+            }
+          },
+          {
+            "id": "35e75bc98389bbea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,12 +222,16 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pixel-pets:Toggle pet view": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2344820b4eb8011",
+  "active": "d65a3526ac47bca4",
   "lastOpenFiles": [
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
+    "6 - Full Notes/University/cs145 - Lists.md",
+    "Untitled_Artwork 10.png",
+    "6 - Full Notes/University/cs145 - Types.md",
     "Untitled.md",
     "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/University/cs145 - Specific Trees.md",
@@ -203,16 +241,13 @@
     "Screenshot 2025-09-26 at 11.51.48 AM.png",
     "Pasted image 20250926113739.png",
     "Pasted image 20250926113448.png",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Heaps.md",
     "6 - Full Notes/University/cs145 - Trees.md",
-    "6 - Full Notes/University/cs145 - Lists.md",
     "Screenshot 2025-09-25 at 10.54.16 AM.png",
     "Untitled_Artwork 9.png",
     "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
     "7 - IMPORTANT/Exalidraw Hotkeys.md",
     "Assets/Screenshot 2025-09-25 at 10.17.43 AM.png",
-    "Assets/Pasted image 20250814205407.png",
     "6 - Full Notes/DSA/LC - Linked List Cycle.md",
     "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
@@ -228,9 +263,6 @@
     "6 - Full Notes/University/m135 - If and Only If.md",
     "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
     "6 - Full Notes/University/cs145 - Efficiency Examples.md",
-    "6 - Full Notes/University/m135 - Converse and Contrapositive.md",
-    "6 - Full Notes/University/m135 - Statements.md",
-    "6 - Full Notes/University/m135 - Language of Mathematics.md",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
     "Excalidraw",

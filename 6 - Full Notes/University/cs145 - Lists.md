@@ -80,6 +80,18 @@ _______
     (else (add1 (my-length (rest L))))))
 ```
 
+**List Types:** 
+- **Contracts:** formalizes the name, the number and type of arguments, and the type of the produced value
+	- I.e. `;; func-name: type-arg1 ... type-argn -> produced-type` 
+	- Defining input and output types
+- Just like how you can do `(listof Nat)` to only have natural numbers
+- EX:
+	- `;; length: (listof Any) -> Nat` 
+	- `;; bst-insert: Num BST -> BST` 
+	- `;; add1: Num -> Num` 
+	- `;; member?: Any (listof Any) -> Boolean` 
+
+**Beginner Student with List Abbreviations** → just list instead of cons…
 
 
  ![[Untitled_Artwork 8.png|340]]  ![[Untitled_Artwork 9.png|340]] 
