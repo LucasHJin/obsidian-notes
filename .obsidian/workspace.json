@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d65a3526ac47bca4",
+            "id": "9d42a588124a992f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Lists.md",
+                "file": "6 - Full Notes/University/econ101 - Midterm Review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Lists"
+              "title": "econ101 - Midterm Review"
             }
           },
           {
-            "id": "9d42a588124a992f",
+            "id": "d4fc2e84376e0221",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,16 +56,31 @@
             }
           },
           {
-            "id": "35e75bc98389bbea",
+            "id": "403d749ec6ca2a4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Abstract List Functions and lambda.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cs145 - Abstract List Functions and lambda"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linked list",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,10 +240,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d65a3526ac47bca4",
+  "active": "1996955d879f9461",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Abstract List Functions and lambda.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
+    "6 - Full Notes/University/econ101 - Midterm Review.md",
+    "6 - Full Notes/University/cs145 - Trees.md",
+    "Pasted image 20251001210554.png",
+    "6 - Full Notes/University/1A OVERALL - econ101.md",
+    "3 - Tags/tests.md",
     "6 - Full Notes/University/cs145 - Lists.md",
     "Untitled_Artwork 10.png",
     "6 - Full Notes/University/cs145 - Types.md",
@@ -242,12 +263,10 @@
     "Pasted image 20250926113739.png",
     "Pasted image 20250926113448.png",
     "6 - Full Notes/University/cs145 - Heaps.md",
-    "6 - Full Notes/University/cs145 - Trees.md",
     "Screenshot 2025-09-25 at 10.54.16 AM.png",
     "Untitled_Artwork 9.png",
     "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
     "7 - IMPORTANT/Exalidraw Hotkeys.md",
-    "Assets/Screenshot 2025-09-25 at 10.17.43 AM.png",
     "6 - Full Notes/DSA/LC - Linked List Cycle.md",
     "6 - Full Notes/University/1A OVERALL - m135.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
@@ -260,9 +279,6 @@
     "6 - Full Notes/University/cs145 - Assignments.md",
     "6 - Full Notes/University/m135 - Proofs.md",
     "Assets/proofs_note.pdf",
-    "6 - Full Notes/University/m135 - If and Only If.md",
-    "6 - Full Notes/University/m135 - Logical Analysis of Mathematical Statements.md",
-    "6 - Full Notes/University/cs145 - Efficiency Examples.md",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
     "Excalidraw",

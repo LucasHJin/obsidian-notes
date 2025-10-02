@@ -11,7 +11,8 @@ Tags:
 _______
 # 1A OVERALL - econ101
 
-1. 
+**Review Notes:** 
+- [[econ101 - Midterm Review]] 
 
 
 

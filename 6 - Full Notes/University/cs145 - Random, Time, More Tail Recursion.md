@@ -43,13 +43,25 @@ _______
 - You take up space in memory as you recurse and function calls/returns get stacked on top of each other
 - Tail recursion → no extra space in memory because it doesn’t need to remember values for any future operations
 - ![[Untitled_Artwork 10.png]] 
-
 *Note* → when constructing lists for testing (i.e. making big list)
 - Using append of a larger list onto a single element list → MUCH SLOWER
 	- Proportional to size of first list because you need to transfer over every element from first list to second
 - Fastest to just use `cons` 
 	- Rarely use append
 
+**Reversing a list:** 
+- Very slow if you do normal recursion
+- `reverse` built in function → fast because uses tail recursion
+
+**Building a big tree:** 
+- Need to use random numbers (more fairly balanced)
+	- Or else it just makes a line down one side
+- Probably around minimal height
+
+**Traversing trees:** `count 1 2 3`
+- **Pre-order** → counting by if they are the root
+- **In-order** → by left and then root node and then right (in between)
+- **Post order** → count left and right before root node
 
 # References
 
