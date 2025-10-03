@@ -20,7 +20,7 @@ _______
 - Don’t need to compute permanently → can store once and use forever
 	- I.e. don’t need to count every node for height → can just look at value stored
 - **Memoizing:** storing computed values to be used many times (instead of recalculating)
-	- New structure → `(define struct node (size height left right))` 
+	- New structure → `(define-struct node (size height left right))` 
 	- Computing height:
 		- `(define (height t) (if (empty? t) 0 (note-height t)))` 
 	- Creating a new tree:

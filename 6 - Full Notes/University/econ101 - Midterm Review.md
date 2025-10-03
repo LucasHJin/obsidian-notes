@@ -41,10 +41,16 @@ _______
 		- Decrease in demand → curve shifts to left (less quantity demanded at each price)
 	- *Factors:* 
 		- Income (*normal vs inferior goods*)
+			- Normal → want more as more income
+			- Inferior → want less as more income
 		- Preferences
 		- Prices of related goods (*complementary vs substitute goods*)
+			- Complimentary → goods used together
+			- Substitute → goods that replace one another
 		- Expectations
 		- Congestion / network effects (value depends on people using it)
+			- Congestion → more ppl = worse
+			- Network effects → more ppl = better
 		- Type and number of buyers in market (doesn’t shift individual)
 	- ==CHANGE IN QUANTITY DEMANDED → HOW MUCH A SINGLE PERSON WANTS== 
 	- ==CHANGE IN DEMAND → HOW MUCH MARKET WANTS PER PRICE WANTS== 
@@ -86,7 +92,30 @@ _______
 	- Small change in price → leads to big change in quantity supplied/demanded
 - *High friction/cost of trading:* 
 	- Buying + selling requires significant time, effort, financial cot
-- *Market economy:* 
+- *Market economy:* individuals make their own choice about production/consumption
+	- I.e. working a job, going to a bazaar, etc.
+- *Planned economy:* decisions about production and distribution are centralized in a central power (not in individuals)
+- *Market:* setting that brings together buyers and sellers for transactions
+	- Not all have prices
+- *Equilibrium* → supply and demand are balanced
+	- *Equilibrium price* → price where quantity supplied = quantity demanded
+	- *Equilibrium quantity* → quantity at the price
+		- Amount sold is limited by the lower one based on vertical line (supply vs demand)
+	- *Surplus* → supply > demand
+		- I.e. gas stations offer gas at lower prices to attract more customers
+	- *Shortage* → demand > supply
+		- I.e. customers offer to pay more to get it first
+	- *Symptoms of non-equilibrium:* 
+		- Quickly changing prices
+		- Queuing for goods
+		- Secondary markets
+- *Diamond water paradox* → price is determined at equilibrium, that’s why diamonds > water cost
+- *Equilibrium changes:* (Note that it takes time to transition)
+	- *Demand ↑:* equilibrium price increases
+	- *Demand ↓:* equilibrium price decreases
+	- *Supply ↑:* equilibrium price decreases
+	- *Supply ↓:* equilibrium price increases
+- 
 
 
 
