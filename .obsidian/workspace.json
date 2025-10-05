@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9de1e92c4bba817c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Trees.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Trees"
-            }
-          },
-          {
-            "id": "89e364490e8ee285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Data Structures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Data Structures"
-            }
-          },
-          {
             "id": "9d42a588124a992f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "file": "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
-            }
-          },
-          {
-            "id": "50dd1ae98890b02a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Lists.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Lists"
+              "title": "cs145 - Random, Time, More Tail Recursion"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,17 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50dd1ae98890b02a",
+  "active": "9d42a588124a992f",
   "lastOpenFiles": [
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and lambda.md",
+    "6 - Full Notes/University/cs145 - Lists.md",
     "6 - Full Notes/University/cs145 - Trees.md",
     "6 - Full Notes/University/cs145 - Data Structures.md",
     "6 - Full Notes/University/cs145 - Heaps.md",
-    "6 - Full Notes/University/cs145 - Lists.md",
     "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
     "6 - Full Notes/University/cs145 - Specific Trees.md",
     "6 - Full Notes/University/econ101 - Midterm Review.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and lambda.md",
     "Pasted image 20251001210554.png",
     "6 - Full Notes/University/1A OVERALL - econ101.md",
     "3 - Tags/tests.md",
