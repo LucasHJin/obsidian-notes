@@ -23,7 +23,7 @@ _______
 7. [[cs145 - Lists]] 
 8. [[cs145 - Heaps]] 
 9. [[cs145 - Random, Time, More Tail Recursion]] 
-10. [[cs145 - Abstract List Functions and lambda]] 
+10. [[cs145 - Abstract List Functions and Lambda]] 
 
 
 ***NOTE:* format past assignment 5:**
@@ -33,11 +33,15 @@ _______
 ;; body
 ;; tests
 ```
-
-Quiz 2:
+ 
+**Quiz 2:** 
 - 25 minutes
 - 3 questions
 - Structures + trees (including BSTs)
+
+**NOTE:** midterm question (oct 27)
+- 
+
 
 
 # References

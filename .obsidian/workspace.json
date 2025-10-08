@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
+                "file": "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Random, Time, More Tail Recursion"
+              "title": "cs145 - Abstract List Functions and Lambda"
             }
           }
         ]
@@ -194,12 +194,21 @@
   "active": "9d42a588124a992f",
   "lastOpenFiles": [
     "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and lambda.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL Basics.md",
+    "6 - Full Notes/AI/RL - Reinforce Algorithm.md",
+    "6 - Full Notes/AI/Reinforce.md",
+    "Pasted image 20251006220902.png",
+    "Pasted image 20251006220859.png",
+    "Pasted image 20251006220603.png",
+    "Pasted image 20251006215856.png",
+    "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
     "6 - Full Notes/University/cs145 - Lists.md",
     "6 - Full Notes/University/cs145 - Trees.md",
     "6 - Full Notes/University/cs145 - Data Structures.md",
     "6 - Full Notes/University/cs145 - Heaps.md",
-    "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
     "6 - Full Notes/University/cs145 - Specific Trees.md",
     "6 - Full Notes/University/econ101 - Midterm Review.md",
     "Pasted image 20251001210554.png",
@@ -208,15 +217,10 @@
     "Untitled_Artwork 10.png",
     "6 - Full Notes/University/cs145 - Types.md",
     "Untitled.md",
-    "6 - Full Notes/AI/RL Basics.md",
     "Pasted image 20250926133500.png",
     "Screenshot 2025-09-26 at 11.53.42 AM.png",
     "Screenshot 2025-09-26 at 11.52.17 AM.png",
     "Screenshot 2025-09-26 at 11.51.48 AM.png",
-    "Pasted image 20250926113739.png",
-    "Pasted image 20250926113448.png",
-    "Screenshot 2025-09-25 at 10.54.16 AM.png",
-    "Untitled_Artwork 9.png",
     "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
     "7 - IMPORTANT/Exalidraw Hotkeys.md",
     "6 - Full Notes/DSA/LC - Linked List Cycle.md",
@@ -225,10 +229,6 @@
     "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
     "6 - Full Notes/University/cs145 - Recursion.md",
     "3 - Tags/ai.md",
-    "6 - Full Notes/University/cs145 - Tail Recursion Examples.md",
-    "6 - Full Notes/University/cs145 - Stepping.md",
-    "6 - Full Notes/University/cs145 - Assignments.md",
-    "6 - Full Notes/University/m135 - Proofs.md",
     "Assets/proofs_note.pdf",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
