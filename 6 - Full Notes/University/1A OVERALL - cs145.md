@@ -24,6 +24,8 @@ _______
 8. [[cs145 - Heaps]] 
 9. [[cs145 - Random, Time, More Tail Recursion]] 
 10. [[cs145 - Abstract List Functions and Lambda]] 
+11. [[cs145 - Running Time and Big O Notation]] 
+12. [[cs145 - Information Hiding, Modules and Packages]] 
 
 
 ***NOTE:* format past assignment 5:**

@@ -7,6 +7,7 @@ Tags:
 [[cs]] 
 [[ai]] 
 [[rl]] 
+[[ml]] 
 
 
 _______
@@ -14,7 +15,13 @@ _______
 
 **Important files:**
 - [[RL Basics]] 
+	- [[RL - Key Words]] 
 - [[RL - Proximal Policy Optimization (PPO)]] 
+- [[RL - Custom Environments (Gym)]] 
+
+**Drone Specific:** 
+- [[RL - PAPER Decentralized Control of Quadrotor Swarms]]
+- [[RL - PAPER Decentralized UAV Swarm Control]] 
 
 
 

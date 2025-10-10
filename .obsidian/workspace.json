@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d42a588124a992f",
+            "id": "ec3405894aa4b032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+                "file": "6 - Full Notes/AI/RL - Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Abstract List Functions and Lambda"
+              "title": "RL - Overview"
+            }
+          },
+          {
+            "id": "f73e95287e576e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RL - PAPER Decentralized Control of Quadrotor Swarms"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-progress",
+                "query": "tag:#lang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 358.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -191,12 +216,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d42a588124a992f",
+  "active": "f73e95287e576e32",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
-    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
+    "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
+    "Untitled_Artwork 11.png",
+    "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
+    "Screenshot 2025-10-09 at 10.25.52 AM.png",
+    "6 - Full Notes/University/cs145 - Assignments.md",
     "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
+    "6 - Full Notes/AI/RL - A.md",
+    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
+    "6 - Full Notes/AI/Untitled 1.md",
+    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
+    "6 - Full Notes/AI/RL - Key Words.md",
+    "Screenshot 2025-10-08 at 11.38.49 AM.png",
+    "Screenshot 2025-10-08 at 11.23.02 AM.png",
+    "Screenshot 2025-10-08 at 11.02.59 AM.png",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/AI/RL - Reinforce Algorithm.md",
     "6 - Full Notes/AI/Reinforce.md",
@@ -214,21 +253,7 @@
     "Pasted image 20251001210554.png",
     "6 - Full Notes/University/1A OVERALL - econ101.md",
     "3 - Tags/tests.md",
-    "Untitled_Artwork 10.png",
     "6 - Full Notes/University/cs145 - Types.md",
-    "Untitled.md",
-    "Pasted image 20250926133500.png",
-    "Screenshot 2025-09-26 at 11.53.42 AM.png",
-    "Screenshot 2025-09-26 at 11.52.17 AM.png",
-    "Screenshot 2025-09-26 at 11.51.48 AM.png",
-    "7 - IMPORTANT/Internship Tracker Spreadsheet.md",
-    "7 - IMPORTANT/Exalidraw Hotkeys.md",
-    "6 - Full Notes/DSA/LC - Linked List Cycle.md",
-    "6 - Full Notes/University/1A OVERALL - m135.md",
-    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
-    "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
-    "6 - Full Notes/University/cs145 - Recursion.md",
-    "3 - Tags/ai.md",
     "Assets/proofs_note.pdf",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
