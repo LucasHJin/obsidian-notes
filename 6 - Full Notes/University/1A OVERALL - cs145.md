@@ -16,17 +16,19 @@ _______
 1. [[cs145 - Racket Syntax and Numbers]] 
 2. [[cs145 - Recursion]]  
 3. [[cs145 - Measuring Efficiency]] 
-	1. [[cs145 - Stepping]] 
 4. [[cs145 - Data Structures]] 
-5. [[cs145 - Trees]]
+5. [[cs145 - Trees]] 
 6. [[cs145 - Specific Trees]] 
 7. [[cs145 - Lists]] 
-8. [[cs145 - Heaps]] 
-9. [[cs145 - Random, Time, More Tail Recursion]] 
-10. [[cs145 - Abstract List Functions and Lambda]] 
-11. [[cs145 - Running Time and Big O Notation]] 
-12. [[cs145 - Information Hiding, Modules and Packages]] 
+8. [[cs145 - Random, Time, More Tail Recursion]] 
+9. [[cs145 - Abstract List Functions and Lambda]] 
+10. [[cs145 - Running Time and Big O Notation]] 
+11. [[cs145 - Information Hiding, Modules and Packages]] 
 
+**Tutorials:** 
+1. [[cs145 - Stepping]] 
+2. [[cs145 - Heaps]] 
+3. [[cs145 - More Info]] 
 
 ***NOTE:* format past assignment 5:**
 ```

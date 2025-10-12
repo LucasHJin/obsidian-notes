@@ -21,7 +21,6 @@ _______
 
 **Drone Specific:** 
 - [[RL - PAPER Decentralized Control of Quadrotor Swarms]]
-- [[RL - PAPER Decentralized UAV Swarm Control]] 
 
 
 
