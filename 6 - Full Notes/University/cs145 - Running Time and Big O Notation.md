@@ -27,7 +27,7 @@ _______
 		- $a+b \text{ in } O(f) \text{ if } O(g) \subset O(f)$  
 		- $a+b \text{ in } O(g) \text{ if } O(f) \subset O(g)$  
 		- $a+b \text{ in } O(f)=O(g) \text{ if } O(f)=O(g)$  
-- **Big O Classes:** 
+- **Big O Classes:** So
 	- Constant
 	- Logarithmic
 	- Square root

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Random/Testing RAG.md",
+                "file": "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Testing RAG"
+              "title": "cs145 - Running Time and Big O Notation"
             }
           }
         ]
@@ -85,26 +85,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "0721526c09308dfa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "750568e15aed437a",
-            "type": "leaf",
-            "state": {
-              "type": "pet-view",
-              "state": {},
-              "icon": "cat",
-              "title": "Pet view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 367.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -208,25 +192,26 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "750568e15aed437a",
+  "active": "5de16fb9f308e4ca",
   "lastOpenFiles": [
-    "Assets/Pasted image 20250926113448.png",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
+    "6 - Full Notes/University/cs145 - Efficiency Examples.md",
+    "6 - Full Notes/University/cs145 - Assignments.md",
+    "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
     "6 - Full Notes/Random/Testing RAG.md",
+    "Assets/Pasted image 20250926113448.png",
     "6 - Full Notes/AI/LLM - Retrieval Augmented Generation (RAG).md",
     "6 - Full Notes/AI/LLM Basics.md",
     "6 - Full Notes/AI/Untitled.md",
     "6 - Full Notes/AI/RL - Overview.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Stepping.md",
-    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
     "6 - Full Notes/University/cs145 - Data Structures.md",
     "6 - Full Notes/University/cs145 - More Info.md",
-    "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
     "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
     "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
     "Assets/Untitled_Artwork 11.png",
     "Assets/Screenshot 2025-10-09 at 10.25.52 AM.png",
-    "6 - Full Notes/University/cs145 - Assignments.md",
     "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
     "6 - Full Notes/AI/RL - A.md",
     "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
@@ -245,7 +230,6 @@
     "Assets/Pasted image 20251006220603.png",
     "Assets/Pasted image 20251006215856.png",
     "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
-    "Assets/Pasted image 20251001210554.png",
     "Assets/proofs_note.pdf",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
