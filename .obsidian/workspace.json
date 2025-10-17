@@ -85,10 +85,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "8048e97413096463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "922ee702ec36d0fb",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "Pet view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 365.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -192,7 +208,7 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "5de16fb9f308e4ca",
+  "active": "922ee702ec36d0fb",
   "lastOpenFiles": [
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
