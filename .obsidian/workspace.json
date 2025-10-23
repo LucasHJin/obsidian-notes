@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5de16fb9f308e4ca",
+            "id": "80a5f3bda56b1000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/LLM - Retrieval Augmented Generation (RAG).md",
+                "file": "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LLM - Retrieval Augmented Generation (RAG)"
+              "title": "cs145 - Abstract List Functions and Lambda"
             }
           },
           {
-            "id": "13b79c14c302ebc8",
+            "id": "0cf8ccf38a0a30f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Lists.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Lists"
+              "title": "1A OVERALL - cs145"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,26 +216,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1996955d879f9461",
+  "active": "0cf8ccf38a0a30f8",
   "lastOpenFiles": [
-    "6 - Full Notes/AI/LLM Basics.md",
-    "6 - Full Notes/Random/Testing RAG.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/cs145 - Lists.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
+    "Screenshot 2025-10-21 at 1.56.34 PM.png",
     "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
+    "6 - Full Notes/AI/LLM - Retrieval Augmented Generation (RAG).md",
+    "6 - Full Notes/AI/LLM Basics.md",
+    "6 - Full Notes/Random/Testing RAG.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
     "6 - Full Notes/University/cs145 - Efficiency Examples.md",
     "6 - Full Notes/University/cs145 - Assignments.md",
     "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
     "Assets/Pasted image 20250926113448.png",
-    "6 - Full Notes/AI/LLM - Retrieval Augmented Generation (RAG).md",
     "6 - Full Notes/AI/Untitled.md",
     "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/University/cs145 - Stepping.md",
     "6 - Full Notes/University/cs145 - Data Structures.md",
     "6 - Full Notes/University/cs145 - More Info.md",
-    "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
     "Assets/Untitled_Artwork 11.png",
     "Assets/Screenshot 2025-10-09 at 10.25.52 AM.png",
     "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
@@ -248,11 +250,9 @@
     "Assets/Screenshot 2025-10-08 at 11.02.59 AM.png",
     "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/AI/RL - Reinforce Algorithm.md",
-    "6 - Full Notes/AI/Reinforce.md",
     "Assets/Pasted image 20251006220902.png",
     "Assets/Pasted image 20251006220859.png",
     "Assets/Pasted image 20251006220603.png",
-    "Assets/Pasted image 20251006215856.png",
     "Assets/proofs_note.pdf",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",

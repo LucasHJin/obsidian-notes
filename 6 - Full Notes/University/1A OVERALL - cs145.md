@@ -44,7 +44,18 @@ _______
 - Structures + trees (including BSTs)
 
 **NOTE:** midterm question (oct 27)
-- 
+- TOPICS: (up to A6 - lecture 10 inclusive)
+	- Stepping
+	- Lists, structures
+	- Write racket functions
+	- Contracts
+	- Examples + tests
+	- Trees → binary + BST
+	- Running time & Big 0
+	- ADTs → implementing + interfaces
+	- Lambda + abstract list functions
+- REVIEW:
+	- 2-4:50 on saturday
 
 
 
