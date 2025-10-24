@@ -5,6 +5,7 @@ Status:
 
 Tags:
 [[cs]] 
+[[cs145]] 
 [[uni]] 
 
 
@@ -24,11 +25,13 @@ _______
 9. [[cs145 - Abstract List Functions and Lambda]] 
 10. [[cs145 - Running Time and Big O Notation]] 
 11. [[cs145 - Information Hiding, Modules and Packages]] 
+12. [[cs145 - Total Order and Sorting]] 
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 
 2. [[cs145 - Heaps]] 
 3. [[cs145 - More Info]] 
+4. [[cs145 - Midterm Help]] 
 
 ***NOTE:* format past assignment 5:**
 ```
