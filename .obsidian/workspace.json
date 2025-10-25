@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80a5f3bda56b1000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
-            }
-          },
-          {
-            "id": "9c9fe080f614ff56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Abstract List Functions and Lambda"
-            }
-          },
-          {
             "id": "37a88fc8f3e82b6d",
             "type": "leaf",
             "state": {
@@ -78,9 +30,33 @@
               "icon": "lucide-file",
               "title": "cs145 - Midterm Help"
             }
+          },
+          {
+            "id": "9dcd4a8e5bb3a552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1A OVERALL - cs145"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,12 +216,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37a88fc8f3e82b6d",
+  "active": "9dcd4a8e5bb3a552",
   "lastOpenFiles": [
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
     "6 - Full Notes/University/cs145 - Midterm Help.md",
+    "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "Pasted image 20251023140631.png",
     "Untitled.canvas",

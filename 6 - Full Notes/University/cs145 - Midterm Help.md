@@ -37,5 +37,8 @@ _______
 	3. $a^{n_{0}}\geq a^{\log_{a}c}\cdot a^{n_{0}\log_{a}b}=a^{n_{0}\log_{a}b+\log_{a}c}$ 
 		1. … you can find $n_{0}>\frac{\log_{a}c}{1-\log_{a}b}$ and then reverse
 
+**PRACTICE:** 
+- 
+
 # References
 
