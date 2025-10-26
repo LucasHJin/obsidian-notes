@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "file": "6 - Full Notes/AI/RL - Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
+              "title": "RL - Overview"
+            }
+          },
+          {
+            "id": "0d0be51f7621cdea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/RL - Building a Simulator (Visualization).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RL - Building a Simulator (Visualization)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,8 +240,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9dcd4a8e5bb3a552",
+  "active": "0d0be51f7621cdea",
   "lastOpenFiles": [
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL - Building a Simulator (Visualization).md",
+    "6 - Full Notes/AI/RL - Key Words.md",
+    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Midterm Help.md",
     "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
@@ -241,16 +269,12 @@
     "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
     "Assets/Pasted image 20250926113448.png",
     "6 - Full Notes/AI/Untitled.md",
-    "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/University/cs145 - Stepping.md",
     "6 - Full Notes/University/cs145 - Data Structures.md",
     "6 - Full Notes/University/cs145 - More Info.md",
     "Assets/Untitled_Artwork 11.png",
     "Assets/Screenshot 2025-10-09 at 10.25.52 AM.png",
     "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
-    "6 - Full Notes/AI/RL - A.md",
-    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
-    "6 - Full Notes/AI/Untitled 1.md",
     "Assets/Screenshot 2025-10-08 at 11.38.49 AM.png",
     "Assets/Screenshot 2025-10-08 at 11.23.02 AM.png",
     "Assets/Screenshot 2025-10-08 at 11.02.59 AM.png",
