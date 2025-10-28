@@ -14,6 +14,7 @@ _______
 
 **General** → [[cs145 - Assignments]]
 
+**Lessons:** 
 1. [[cs145 - Racket Syntax and Numbers]] 
 2. [[cs145 - Recursion]]  
 3. [[cs145 - Measuring Efficiency]] 
@@ -32,6 +33,7 @@ _______
 2. [[cs145 - Heaps]] 
 3. [[cs145 - More Info]] 
 4. [[cs145 - Midterm Help]] 
+	1. [[cs145 - Midterm TO KNOW]] 
 
 ***NOTE:* format past assignment 5:**
 ```

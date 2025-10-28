@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37a88fc8f3e82b6d",
+            "id": "19e267d883549d22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Midterm Help.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Midterm Help"
+              "title": "1A OVERALL - cs145"
             }
           },
           {
-            "id": "9dcd4a8e5bb3a552",
+            "id": "49868d4adea58660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/RL - Overview.md",
+                "file": "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RL - Overview"
-            }
-          },
-          {
-            "id": "0d0be51f7621cdea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/AI/RL - Building a Simulator (Visualization).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RL - Building a Simulator (Visualization)"
+              "title": "cs145 - Running Time and Big O Notation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,16 +216,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d0be51f7621cdea",
+  "active": "49868d4adea58660",
   "lastOpenFiles": [
-    "6 - Full Notes/AI/RL - Overview.md",
-    "6 - Full Notes/AI/RL - Building a Simulator (Visualization).md",
-    "6 - Full Notes/AI/RL - Key Words.md",
-    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
+    "6 - Full Notes/University/cs145 - Lists.md",
+    "6 - Full Notes/University/cs145 - Specific Trees.md",
+    "6 - Full Notes/University/cs145 - Trees.md",
+    "6 - Full Notes/University/cs145 - Data Structures.md",
+    "6 - Full Notes/University/cs145 - Recursion.md",
+    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
+    "6 - Full Notes/University/cs145 - Midterm TO KNOW.md",
     "6 - Full Notes/University/cs145 - Midterm Help.md",
     "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/University/cs145 - Assignments.md",
+    "6 - Full Notes/AI/RL - Building a Simulator (Visualization).md",
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL - Key Words.md",
+    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "Pasted image 20251023140631.png",
     "Untitled.canvas",
@@ -257,24 +242,15 @@
     "6 - Full Notes/University/econ101 - Midterm Review.md",
     "6 - Full Notes/High School/ICS4U/Summary.md",
     "Screenshot 2025-10-23 at 1.21.33 PM.png",
-    "6 - Full Notes/University/cs145 - Lists.md",
     "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
     "Screenshot 2025-10-21 at 1.56.34 PM.png",
     "6 - Full Notes/AI/LLM - Retrieval Augmented Generation (RAG).md",
     "6 - Full Notes/AI/LLM Basics.md",
     "6 - Full Notes/Random/Testing RAG.md",
-    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
     "6 - Full Notes/University/cs145 - Efficiency Examples.md",
-    "6 - Full Notes/University/cs145 - Assignments.md",
-    "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
     "Assets/Pasted image 20250926113448.png",
-    "6 - Full Notes/AI/Untitled.md",
-    "6 - Full Notes/University/cs145 - Stepping.md",
-    "6 - Full Notes/University/cs145 - Data Structures.md",
-    "6 - Full Notes/University/cs145 - More Info.md",
     "Assets/Untitled_Artwork 11.png",
     "Assets/Screenshot 2025-10-09 at 10.25.52 AM.png",
-    "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
     "Assets/Screenshot 2025-10-08 at 11.38.49 AM.png",
     "Assets/Screenshot 2025-10-08 at 11.23.02 AM.png",
     "Assets/Screenshot 2025-10-08 at 11.02.59 AM.png",
