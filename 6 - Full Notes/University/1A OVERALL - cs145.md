@@ -27,6 +27,7 @@ _______
 10. [[cs145 - Running Time and Big O Notation]] 
 11. [[cs145 - Information Hiding, Modules and Packages]] 
 12. [[cs145 - Total Order and Sorting]] 
+13. [[cs145 - Infinite Sequences]] 
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 
