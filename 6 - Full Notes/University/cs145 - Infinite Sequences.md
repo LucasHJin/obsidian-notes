@@ -79,13 +79,36 @@ _______
 **Infinite sequences:** 
 - Racket only allows finite sequences (i.e. lists)
 	- Need to calculate as we go
+- Can store away to generate the next one
+- Examples:
+	- **Fibstream:** an ADT that will be a stream containing fibonacci numbers
+		- `fibfirst` → returns desired value
+		- `fibrest` → returns rest of the values
+		- Stream → allows you to make infinite
+	- Random → can call random as many times as you want
+	- Read → consumes *standard input* and tokenizes it by white space
+		- Gives a stream of symbol tokens (one at a time)
 
-**Fibstream:** an ADT that will be a stream containing fibonacci numbers
-- `fibfirst` → returns desired value
-- `fibrest` → returns rest of the values
-- Stream → allows you to make infinite
+**Deferred computation:** when you delay calculating a value (instead of doing it immediately)
+- I.e. you can define a function with calculation as the body
+	- `(define (val x) (length (build-list 9000000 add1)))` 
+	- *Note* → you don’t need the parameter in full racket (can write without the x)
+- **Promise:** make a function and promise it gives you a value if it is called
+- **Call:** application of the promise (only calculates if necessary)
+- **Use cases:** 
+	- Functions always evaluate all of their arguments first
+		- Can pass these promises as arguments
+	- In stream:
+		- Make a promise for the `next` field whenever creating a new stream pair
 
+**Writing our own if:** 
+- V1 → use parameters as values
+	- Problem: evaluates all 3 arguments fully
+- V2 → use parameters as promises of values
+	- I.e. `(my-if true (lambda () 5) (lambda () (/ 5 0)))` → defers computation of the two functions until needed
 
+**Example:** `((λ (x) (x x)) (λ (x) (x x)))` 
+- Repeatedly creates the exact same expression over and over again
 
 # References
 

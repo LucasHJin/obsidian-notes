@@ -28,6 +28,7 @@ _______
 11. [[cs145 - Information Hiding, Modules and Packages]] 
 12. [[cs145 - Total Order and Sorting]] 
 13. [[cs145 - Infinite Sequences]] 
+14. [[cs145 - Lazy Racket and Lambda Calculus]] 
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 

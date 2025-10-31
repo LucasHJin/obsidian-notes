@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19e267d883549d22",
+            "id": "9e064b37236c12e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "file": "6 - Full Notes/AI/PDL - Terminology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
-            }
-          },
-          {
-            "id": "da9f19244e7f3517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Information Hiding, Modules and Packages"
+              "title": "PDL - Terminology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da9f19244e7f3517",
+  "active": "9e064b37236c12e4",
   "lastOpenFiles": [
+    "6 - Full Notes/AI/CV - PAPER Automated Powerlifting.md",
+    "Screenshot 2025-10-30 at 5.08.54 PM.png",
+    "6 - Full Notes/AI/PDL - Terminology.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
+    "6 - Full Notes/AI/LLM Basics.md",
+    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/University/cs145 - Infinite Sequences.md",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
     "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
@@ -236,25 +218,17 @@
     "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/AI/RL - Key Words.md",
     "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
-    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "Pasted image 20251023140631.png",
     "Untitled.canvas",
     "6 - Full Notes/University/commst223 - sep 8.md",
-    "6 - Full Notes/University/econ101 - Midterm Review.md",
-    "6 - Full Notes/High School/ICS4U/Summary.md",
     "Screenshot 2025-10-23 at 1.21.33 PM.png",
-    "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
     "Screenshot 2025-10-21 at 1.56.34 PM.png",
-    "6 - Full Notes/AI/LLM - Retrieval Augmented Generation (RAG).md",
-    "6 - Full Notes/AI/LLM Basics.md",
-    "6 - Full Notes/Random/Testing RAG.md",
     "Assets/Pasted image 20250926113448.png",
     "Assets/Untitled_Artwork 11.png",
     "Assets/Screenshot 2025-10-09 at 10.25.52 AM.png",
     "Assets/Screenshot 2025-10-08 at 11.38.49 AM.png",
     "Assets/Screenshot 2025-10-08 at 11.23.02 AM.png",
     "Assets/Screenshot 2025-10-08 at 11.02.59 AM.png",
-    "Assets/Pasted image 20251006220902.png",
     "Assets/proofs_note.pdf",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
