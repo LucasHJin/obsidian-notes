@@ -36,6 +36,7 @@ _______
 3. [[cs145 - More Info]] 
 4. [[cs145 - Midterm Help]] 
 	1. [[cs145 - Midterm TO KNOW]] 
+5. [[cs145 - More About Generate]] 
 
 ***NOTE:* format past assignment 5:**
 ```

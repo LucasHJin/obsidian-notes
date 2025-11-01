@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RAG",
+                "query": "cs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,10 +193,12 @@
   },
   "active": "9e064b37236c12e4",
   "lastOpenFiles": [
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - More About Generate.md",
+    "6 - Full Notes/University/1A Important Notes.md",
+    "6 - Full Notes/AI/PDL - Terminology.md",
     "6 - Full Notes/AI/CV - PAPER Automated Powerlifting.md",
     "Screenshot 2025-10-30 at 5.08.54 PM.png",
-    "6 - Full Notes/AI/PDL - Terminology.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
     "6 - Full Notes/AI/LLM Basics.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
@@ -220,7 +222,6 @@
     "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "Pasted image 20251023140631.png",
     "Untitled.canvas",
-    "6 - Full Notes/University/commst223 - sep 8.md",
     "Screenshot 2025-10-23 at 1.21.33 PM.png",
     "Screenshot 2025-10-21 at 1.56.34 PM.png",
     "Assets/Pasted image 20250926113448.png",
