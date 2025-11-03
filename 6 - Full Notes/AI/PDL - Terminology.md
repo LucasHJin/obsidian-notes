@@ -23,18 +23,21 @@ _______
 
 **Transfer learning:** using a pretrained model for another purpose
 - Much quicker → replaces last/last couple of layers to specify to new use case
-- **Head:** last part of model 
+- **Head:** new layers that replace the last later part of model (which were more tuned to specific use case)
+- **Inference:** ability of AI models to predict info from data they haven’t seen before (unrelated)
 
 **Test set:** even more exclusive set of data used to evaluate (NOT IMPROVE) the model (hide from even self)
-- Training data → fully exposed
-- Validation data → partially exposed from hyperparameters
+- Training data → model is fully exposed to this data
+- Validation data → model is partially exposed to this data (from hyperparameters)
+	- Allow us to make decisions on adjusting hyperparameters
+	- Evaluates the model during training (avoid overfitting)
 - *Note* → validation and training sets should be representative of the entire dataset
 	- Not just random picked most of the time
 
 **Convolutional Neural Network (CNN):** type of neural network specifically good for [[PDL - Computer vision syntax|computer vision]] tasks
 
 Relates to [[PDL - Machine Learning Models]] 
-- **Architecture:** the functional form of the **model** 
+- **Architecture:** the functional form of the **model** - template or structure of the model we are trying to fit
 	- I.e. `resnet34` → 34 layers
 	- **Layers:** the amount of training it goes through each epoch
 		- Less epochs before overfitting but more accurate on higher data
