@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "9f2e7f0af145df9b",
+            "id": "93eca0d0724d86f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL 2 - Deployment.md",
+                "file": "6 - Full Notes/AI/PDL - FastAI Syntax.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL 2 - Deployment"
+              "title": "PDL - FastAI Syntax"
             }
           },
           {
-            "id": "26b22a17fd66ec6c",
+            "id": "ed50f1cfd9e255a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL - Training a model.md",
+                "file": "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL - Training a model"
+              "title": "PDL 3 - Neural Net Foundations"
+            }
+          },
+          {
+            "id": "2b2d7b978bc8d7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Lazy Racket and Lambda Calculus"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataloader",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,24 +264,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f2e7f0af145df9b",
+  "active": "2b2d7b978bc8d7e3",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
+    "6 - Full Notes/AI/PDL - FastAI Syntax.md",
+    "6 - Full Notes/AI/PDL - Computer vision syntax.md",
+    "6 - Full Notes/AI/PDL - Terminology.md",
+    "6 - Full Notes/AI/PDL - Resources.md",
+    "6 - Full Notes/AI/PDL Overview.md",
+    "6 - Full Notes/AI/PDL 3 - QUESTIONS.md",
     "6 - Full Notes/AI/PDL - Training a model.md",
     "6 - Full Notes/AI/PDL 2 - Deployment.md",
     "6 - Full Notes/AI/PDL - Deploying a model.md",
-    "6 - Full Notes/AI/PDL Overview.md",
     "6 - Full Notes/AI/PDL - DL Usecases.md",
     "6 - Full Notes/AI/PDL 2 - QUESTIONS.md",
     "6 - Full Notes/AI/PDL - Using an exported model.md",
     "Screenshot 2025-11-02 at 1.06.18 PM.png",
-    "6 - Full Notes/AI/PDL - Computer vision syntax.md",
     "6 - Full Notes/AI/PDL 1 - Getting Started.md",
     "6 - Full Notes/AI/PDL 1 - QUESTIONS.md",
-    "6 - Full Notes/AI/PDL - Terminology.md",
     "6 - Full Notes/AI/PDL - Machine Learning Models.md",
     "6 - Full Notes/AI/PDL - Neural Networks.md",
     "6 - Full Notes/AI/PDL - Background Info.md",
-    "6 - Full Notes/AI/PDL - Resources.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - More About Generate.md",
     "6 - Full Notes/University/1A Important Notes.md",
@@ -267,10 +294,6 @@
     "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
     "6 - Full Notes/AI/LLM Basics.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
-    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "Pasted image 20251023140631.png",
     "Untitled.canvas",
     "Screenshot 2025-10-23 at 1.21.33 PM.png",
