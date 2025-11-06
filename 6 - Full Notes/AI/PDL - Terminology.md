@@ -4,9 +4,11 @@ Status:
 
 
 Tags:
+[[cs]] 
 [[ai]] 
 [[ml]] 
-
+[[dl]] 
+[[rl]] 
 
 _______
 # PDL - Terminology
@@ -42,7 +44,7 @@ Relates to [[PDL - Machine Learning Models]]
 	- **Layers:** the amount of training it goes through each epoch
 		- Less epochs before overfitting but more accurate on higher data
 	- **Epoch:** how many passes through data set
-- **Parameters:** weights
+- **Parameters:** weights + biases (wx+b)
 - **Independent variables:** data that doesn’t include the labels
 	- Can calculate **predictions** from this (the **results** of the model)
 - **Loss:** measure of how well the model **performed** (depends on **predictions** + **labels**)
@@ -57,6 +59,15 @@ Relates to [[PDL - Machine Learning Models]]
 	- **Fit:** update parameters of a model to make it predict labels better
 
 ![[Screenshot 2025-08-29 at 10.46.29 PM.png]] 
+
+**Baseline:** a simple model that should perform reasonably well (allows you to check against your actual iterated models)
+
+**Tensor:** essentially a multi-dimensional array
+- **Shape** → tells you length of each axis (how many values in each)
+	- *NOTE* → the assigned values are decided by the user, not by PyTorch
+- **Rank** → number of axes/dimensions
+
+
 
 # References
 

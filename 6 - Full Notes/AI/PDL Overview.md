@@ -14,7 +14,8 @@ Tags:
 _______
 # PDL Overview
 
-[[PDL - FastAI Syntax]] 
+[[PDL - Syntax]] 
+[[PDL - Terminology]] 
 
 **Lessons:** 
 1. [[PDL 1 - Getting Started]] 
