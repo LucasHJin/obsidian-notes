@@ -91,10 +91,10 @@ ___
 			- Normally → can’t substitute y into x because it’s a free variable in e1
 		- a-equivalence allows us to make fresh variables (can rename parameters to avoid conflicts)
 		- Need free variables for next type of reduction
-- **beta-reduction:** `(λx.e1) e2` can be beta-reduced to `e1[x<-e2]` provided that x not in `FV[e2]` (apply an abstraction with an argument)
+- **beta-reduction:** `(λx.e1) e2` can be beta-reduced to `e1[x<-e2]` (apply an abstraction with an argument) (substitution must follow rule 5)
 	- Denoted with `⇒β` (use => for simplicity in notes)
 	- I.e. `(λx.f x) y => f y`
-		- I.e. in racket → `((λ x (add1 x)) 4) => (add1 4)` 
+		- I.e. in racket → `((λ x (f x)) y) => (f y)` 
 	- Need the restriction because we want x to disappear
 - **Reducible expression (redex):** if it can be beta-reduced with/without the help of alpha-equivalence
 	- Not every lambda-expression is a redex (some can’t be further reduced)
@@ -113,8 +113,27 @@ ___
 			- I.e. `e1 e2 => e1 e4` 
 		- first apply `(e1 e2)` and then reduce
 			- I.e. if `e1 = λx...` then `e1 e2 => e1'[x<-e2]` 
-
-
+- **Fully reduced** → if no redexes
+	- It is undecideable if a given lambda has a fully reduced form
+	- If we do know → use **Normal Order Evaluation** 
+- **Normal Order Evaluation:** given more than 1 redex to reduce, always pick the leftmost redex
+	- I.e. `(λx.x x) ((λy.y) q)` → 2 redexes (entire expression and `((λy.y) q)`)
+		- `=>B λx.x x [x <- (λy.y)q]` (intermediate step - not seen)
+		- `=>B ((λy.y) q)((λy.y) q)` 
+		- `=>B q ((λy.y) q)` 
+		- `=>B q q` (fully reduced)
+- **Applicative Order Evaluation:** given more than 1 redex to reduce, always reduce the inner-most redex first
+	- I.e. `(λx.x x) ((λy.y) q)` 
+		- `y[y<-q] =>B (λx.x x) q` 
+		- `x x [x<-q] =>B q q` (fully reduced)
+	- **WILL NOT** always find the fully reduced form
+		- I.e. `(λx.y) ((λx.x x) (λx.x x))` 
+			- `=>B (λx.y) ((λx.x x) (λx.x x))` (will run infinitely on the inside one because it doesn’t have a redex)
+				-  `x x[x<-λx.x x] =>B (λx.x x) (λx.x x)` 
+		- *Normal order:* 
+			- `=>B y` (fully reduced)
+- *NOTE* → you don’t need to show the square bracket part (substitution) unless asked
+	- Can just show the result of beta reduction
 
 # References
 

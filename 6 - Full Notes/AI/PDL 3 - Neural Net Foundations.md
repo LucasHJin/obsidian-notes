@@ -65,13 +65,30 @@ ___
 			- Then calculate loss based on the ReLU layers to adjust parameters 
 		- **Matrix multiplication:** allows us to add together millions of ReLUs
 			- ![[Pasted image 20251105111720.png]] 
-- *NOTE:* the optimum point point of a loss function is the minimum (typically looks like a quadratic)
+		- *Note* → just two layers is enough to approximate any function
+			- But more layers can help with performance
+ - *NOTE:* the optimum point point of a loss function is the minimum (typically looks like a quadratic)
 	- THIS IS NOT THE FUNCTION YOU ARE TRYING TO FIT TO THE DATA
 	- It’s the loss surface, which represents how good or bad your model’s predictions are for different parameter values
 
 ___
 [[PDL 3 - NN Titanic Example]] 
 
+**Example:** 
+```python
+def simple_net(xb): 
+    res = xb@w1 + b1
+    res = res.max(tensor(0.0))
+    res = res@w2 + b2
+    return res
+
+w1 = init_params((28*28,30))
+b1 = init_params(30)
+w2 = init_params((30,1))
+b2 = init_params(1)
+```
+- `w1` → 30 output activations so `w2` → 30 input activations
+	- First layer constructs 30 different features representing a mix of pixels (can change amount)
 
 
 # References

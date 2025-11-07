@@ -52,6 +52,21 @@ _______
 	- `DataLoader` → take any Python collection and turn it into an iterator over mini-batches
 	- `Dataset` → a collection that contains tuples of independent and dependent variables is known in PyTorch
 		- Pass DS to DL → get back mini-batches which are themselves tuples of tensors representing batches of independent and dependent variables
+- `module` → object of a class that inherits from `nn.Module` (can combine weights + biases)
+	- Can make an optimizer class that takes in this `.parameters` and a learning rate → then make functions to step and set gradient to zero
+- `@` → matrix multiplication
+- `res.max(tensor(0.0))` → ReLU
+```python
+simple_net = nn.Sequential(
+    nn.Linear(28*28,30),
+    nn.ReLU(),
+    nn.Linear(30,1)
+)
+```
+- `Sequential` → module that calls listed layers/functions in turn
+- `nn.ReLU` → applies ReLU
+- **NOTE:** 
+	- `nn.Module` → everything that has learnable parameters (part of a Neural Network) is a child of Module
 
 **Python / Jupyter Notebook:** 
 - List comprehension → method of iterating through a list to apply a function to each value

@@ -29,6 +29,7 @@ _______
 12. [[cs145 - Total Order and Sorting]] 
 13. [[cs145 - Infinite Sequences]] 
 14. [[cs145 - Lazy Racket and Lambda Calculus]] 
+15. [[cs145 - Programming with Lambda Calculus]] 
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 

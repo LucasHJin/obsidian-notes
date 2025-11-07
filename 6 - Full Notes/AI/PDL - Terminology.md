@@ -60,6 +60,9 @@ Relates to [[PDL - Machine Learning Models]]
 
 ![[Screenshot 2025-08-29 at 10.46.29 PM.png]] 
 
+___
+### Neural Networks
+
 **Baseline:** a simple model that should perform reasonably well (allows you to check against your actual iterated models)
 
 **Tensor:** essentially a multi-dimensional array
@@ -67,6 +70,24 @@ Relates to [[PDL - Machine Learning Models]]
 	- *NOTE* → the assigned values are decided by the user, not by PyTorch
 - **Rank** → number of axes/dimensions
 
+**Activation function (linearity):** a math operation applied to a neuron’s output to determine if it sends information and how strongly to the next layer
+- Introduces non-linearity when adding the layers
+- I.e. ReLU, Sigmoid
+	- **ReLU** → Function that returns 0 for negative numbers and doesn't change positive numbers 
+
+**Activation:** Numbers that are calculated (both by linear and nonlinear layers)
+**Parameters:** Numbers that are randomly initialized, and optimized (that is, the numbers that define the model)
+
+**Layers:** all things in the Neural Network
+- Linear layers → the linear lines
+
+**Forward pass:** Applying the model to some input and computing the predictions
+**Backward pass:** Computing the gradients of the loss with respect to all model parameters
+
+**Loss:** A value that represents how well (or badly) our model is doing
+**Gradient:** The derivative of the loss with respect to some parameter of the model
+**Gradient Descent:** Taking a step in the directions opposite to the gradients to make the model parameters a little bit better
+- Multiply by learning rate
 
 
 # References

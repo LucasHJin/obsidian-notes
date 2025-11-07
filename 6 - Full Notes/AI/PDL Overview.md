@@ -21,6 +21,7 @@ _______
 1. [[PDL 1 - Getting Started]] 
 2. [[PDL 2 - Deployment]] 
 3. [[PDL 3 - Neural Net Foundations]] 
+	1. [[PDL 3 - MNIST Neural Network Practice]] 
 
 **Questions:** 
 - [[PDL 1 - QUESTIONS]] 

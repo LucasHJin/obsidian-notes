@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "fe13d440ce2c9d66",
+            "id": "de92274ada700915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL - Terminology.md",
+                "file": "6 - Full Notes/AI/PDL 3 - MNIST Neural Network Practice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL - Terminology"
+              "title": "PDL 3 - MNIST Neural Network Practice"
             }
           },
           {
-            "id": "f1b85dc60a865e87",
+            "id": "224e13c68a4afb35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL - Syntax.md",
+                "file": "6 - Full Notes/AI/PDL 3 - QUESTIONS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL - Syntax"
+              "title": "PDL 3 - QUESTIONS"
             }
           },
           {
-            "id": "c6aa7401c91f74be",
+            "id": "e6a0c9bcb5542aff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
+                "file": "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL 3 - Neural Net Foundations"
+              "title": "cs145 - Total Order and Sorting"
             }
           },
           {
-            "id": "d055e41b33d084eb",
+            "id": "0f39071d5e154c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL 3 - DL Logic.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL 3 - DL Logic"
+              "title": "1A OVERALL - cs145"
+            }
+          },
+          {
+            "id": "c549ff6b7781344c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/PDL 1 - QUESTIONS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PDL 1 - QUESTIONS"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "loss function",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +205,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,18 +313,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1b85dc60a865e87",
+  "active": "c549ff6b7781344c",
   "lastOpenFiles": [
-    "6 - Full Notes/AI/PDL 3 - DL Logic.md",
-    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
-    "6 - Full Notes/AI/PDL - Terminology.md",
-    "6 - Full Notes/AI/PDL - Syntax.md",
-    "6 - Full Notes/AI/PDL Overview.md",
-    "Screenshot 2025-11-05 at 10.59.51 PM.png",
-    "6 - Full Notes/AI/PDL - NumPy + PyTorch Vs Python.md",
     "6 - Full Notes/University/cs145 - Infinite Sequences.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
+    "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
+    "6 - Full Notes/AI/PDL 3 - QUESTIONS.md",
+    "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
+    "Untitled_Artwork 14.png",
+    "Untitled_Artwork 13.png",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "Untitled_Artwork 12.png",
+    "6 - Full Notes/AI/PDL Overview.md",
+    "6 - Full Notes/AI/PDL 3 - MNIST Neural Network Practice.md",
+    "6 - Full Notes/University/cs145 - Tail Recursion Examples.md",
+    "6 - Full Notes/AI/PDL - Terminology.md",
+    "6 - Full Notes/AI/PDL - Syntax.md",
+    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
+    "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
+    "6 - Full Notes/AI/PDL 3 - DL Logic.md",
+    "Screenshot 2025-11-05 at 10.59.51 PM.png",
+    "6 - Full Notes/AI/PDL - NumPy + PyTorch Vs Python.md",
     "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/cs145 - More About Generate.md",
     "6 - Full Notes/AI/PDL 3 - NN Titanic Example.md",
@@ -308,24 +343,15 @@
     "6 - Full Notes/AI/PDL - Training a model.md",
     "Screenshot 2025-11-05 at 10.57.28 AM.png",
     "Screenshot 2025-11-05 at 10.54.36 AM.png",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "6 - Full Notes/AI/PDL - Computer vision syntax.md",
     "6 - Full Notes/AI/PDL - Resources.md",
-    "6 - Full Notes/AI/PDL 3 - QUESTIONS.md",
     "6 - Full Notes/AI/PDL 2 - Deployment.md",
     "6 - Full Notes/AI/PDL - Deploying a model.md",
     "6 - Full Notes/AI/PDL - DL Usecases.md",
-    "6 - Full Notes/AI/PDL 2 - QUESTIONS.md",
-    "6 - Full Notes/AI/PDL - Using an exported model.md",
     "Screenshot 2025-11-02 at 1.06.18 PM.png",
-    "6 - Full Notes/AI/PDL 1 - Getting Started.md",
-    "6 - Full Notes/AI/PDL 1 - QUESTIONS.md",
     "Screenshot 2025-10-30 at 5.08.54 PM.png",
     "Pasted image 20251023140631.png",
     "Untitled.canvas",
-    "Screenshot 2025-10-23 at 1.21.33 PM.png",
-    "Screenshot 2025-10-21 at 1.56.34 PM.png",
-    "Assets/Pasted image 20250926113448.png",
     "Assets/proofs_note.pdf",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
