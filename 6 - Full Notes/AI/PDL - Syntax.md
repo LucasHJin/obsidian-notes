@@ -14,6 +14,12 @@ Tags:
 _______
 # PDL - Syntax
 
+**4 key libraries:** 
+- NumPy
+- MatPlotLib
+- Pandas
+- Pytorch
+
 **FastAI:** 
 - [[PDL - Computer vision syntax]] 
 - `learn.dls.vocab` → list of categories
@@ -68,6 +74,15 @@ simple_net = nn.Sequential(
 - **NOTE:** 
 	- `nn.Module` → everything that has learnable parameters (part of a Neural Network) is a child of Module
 
+**Pandas:** to manipulate tables of data
+- I.e. useful for csvs
+- `DataFrame` →  table of named columns
+	- `describe` → can get info from the df
+		- `include='object'` → will show information on all the non-numeric data
+- Columns:
+	- Setting → use square brackets
+	- Reading → use as `.()` 
+
 **Python / Jupyter Notebook:** 
 - List comprehension → method of iterating through a list to apply a function to each value
 	- I.e. `seven_tensors = [tensor(Image.open(o)) for o in sevens]` → makes a list of tensors for each image in sevens
@@ -76,6 +91,8 @@ simple_net = nn.Sequential(
 	- `linspace` → creates tensor of data points
 - `@interact()` → allows you to change values to modify in real time 
 
+**Hugginface transformers:** 
+- `Trainer` → abstracted model that you can train (similar to `learner`)
 
 
 # References

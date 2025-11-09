@@ -22,12 +22,20 @@ _______
 2. [[PDL 2 - Deployment]] 
 3. [[PDL 3 - Neural Net Foundations]] 
 	1. [[PDL 3 - MNIST Neural Network Practice]] 
+4. [[PDL 4 - Natural Language Processing (NLP)]] 
+5. [[PDL 5 - From-scratch Models]] 
 
 **Questions:** 
 - [[PDL 1 - QUESTIONS]] 
 - [[PDL 2 - QUESTIONS]] 
 - [[PDL 3 - QUESTIONS]] 
 
+**4 key libraries:** 
+- NumPy
+- MatPlotLib
+	- (Seaborn → built on top of MatPlotLib)
+- Pandas
+- Pytorch
 
 
 # References

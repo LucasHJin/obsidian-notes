@@ -38,6 +38,8 @@ _______
 4. [[cs145 - Midterm Help]] 
 	1. [[cs145 - Midterm TO KNOW]] 
 5. [[cs145 - More About Generate]] 
+6. [[cs145 - More About Total Order]] 
+7. [[cs145 - More About Lambda Calculus]] 
 
 ***NOTE:* format past assignment 5:**
 ```

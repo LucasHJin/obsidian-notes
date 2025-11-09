@@ -47,6 +47,8 @@ _______
 	- I.e. it can start to recognize a paw if it sees it enough and will actually be able to recognize from more angles
 - *List:* rotation, flipping, perspective warping, brightness changes, contrast changes
 
+==*Note:* You can save and load models in Kaggle== 
+- Can use `load` and `save` to save intermediary models if training takes a long time or if you need to do different training steps → i.e. training a predictor then classifier for [[PDL 4 - Natural Language Processing (NLP)|nlp]] 
 
 
 # References
