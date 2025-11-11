@@ -63,6 +63,17 @@ Relates to [[PDL - Machine Learning Models]]
 
 ![[Screenshot 2025-08-29 at 10.46.29 PM.png]] 
 
+- **Encoding:** a representation of data that includes additional structure or information
+	- Represents the input in a way the model can process (doesn’t have meaning)
+- **One-hot encoding:** Categories are represented as a long sparse vector with all zeros except a single 1 (vectors with many 0s and one 1)
+	- Number of choices → increases dimensionality
+	- *Note* → when multiplying weight matrix by 1H encoding → selects the column corresponding to the 1 (that becomes the embedding vector)
+- **Embedding:** dense vector (smaller dimensions) to capture similarity
+	- Number of choices is independent of dimensionality (i.e. rank 3 vector for 5 movie choices)
+		- Simplified version of 1H + linear
+	- I.e. [[LLM - Retrieval Augmented Generation (RAG)|NLP]] and RAG 
+	- Is a learned vector representation of discrete items in a continuous vector space (capture semantic meaning)
+
 ___
 ### Neural Networks
 
@@ -81,8 +92,8 @@ ___
 **Activation:** Numbers that are calculated (both by linear and nonlinear layers)
 **Parameters:** Numbers that are randomly initialized, and optimized (that is, the numbers that define the model)
 
-**Layers:** all things in the Neural Network
-- Linear layers → the linear lines
+**Layers:** building block of a neural network (takes input, transforms it, passes to next layer)
+- **Linear (dense) layers** → the linear lines that output weighted sum + bias
 
 **Forward pass:** Applying the model to some input and computing the predictions
 **Backward pass:** Computing the gradients of the loss with respect to all model parameters
@@ -96,18 +107,24 @@ ___
 
 **Freezing:** stopping updating parameters during training (i.e. if you only want to train new layers and not the original body)
 
+**Continuous variables:** numerical data, such as "age," that can be directly fed to the model, since you can add and multiply them directly
+**Categorical variables:** a number of discrete levels, such as "movie ID," for which addition and multiplication don't have meaning (even if they're stored as numbers)
+- Can have order or not
+
 ____
 ### Architecture
 
 **Convolutional Neural Network (CNN):** type of neural network specifically good for [[PDL - Computer vision syntax|computer vision]] tasks
 
-**Recurrent Neural Network (RNN):** 
+**Recurrent Neural Network (RNN):** process sequences step by step
+- Maintain a hidden state to remember previous information
 
-**Transformer:** type of neural network designed to handle sequential data (like text, audio, or time series) by processing all elements in parallel (instead of one at a time)
+**[[PDL - Transformers Explained|Transformer]]:** type of neural network designed to handle sequential data (like text, audio, or time series) by processing all elements in parallel (instead of one at a time)
 - I.e. Hugging Face transformers → (unlike RNNs or LSTMs)
 - **Self attention:** lets each token attend to every other token in the sequence to find relevancy
 	- Captures long range dependencies better
 
+**[[PDL 6 - Random Forests|Random Forest]]** 
 
 # References
 

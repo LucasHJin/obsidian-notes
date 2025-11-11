@@ -24,6 +24,9 @@ _______
 	1. [[PDL 3 - MNIST Neural Network Practice]] 
 4. [[PDL 4 - Natural Language Processing (NLP)]] 
 5. [[PDL 5 - From-scratch Models]] 
+	1. [[PDL 5 - Experimenting (Ensembling)]]
+	2. [[PDL 5 - Embeddings]] 
+6. [[PDL 6 - Random Forests]] 
 
 **Questions:** 
 - [[PDL 1 - QUESTIONS]] 

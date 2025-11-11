@@ -19,6 +19,8 @@ _______
 - MatPlotLib
 - Pandas
 - Pytorch
+	- *Note* → PyTorch has almost all the functionality of NumPy
+- Scikit Learn → good for ML models that aren’t DL (traditional)
 
 **FastAI:** 
 - [[PDL - Computer vision syntax]] 
@@ -73,6 +75,7 @@ simple_net = nn.Sequential(
 - `nn.ReLU` → applies ReLU
 - **NOTE:** 
 	- `nn.Module` → everything that has learnable parameters (part of a Neural Network) is a child of Module
+- `.manual_seed` → so that random choices from torch are reproducible (pseudorandom)
 
 **Pandas:** to manipulate tables of data
 - I.e. useful for csvs
@@ -81,7 +84,22 @@ simple_net = nn.Sequential(
 		- `include='object'` → will show information on all the non-numeric data
 - Columns:
 	- Setting → use square brackets
-	- Reading → use as `.()` 
+	- Reading → use as `.()` or square brackets
+- *Note* → can call a method on a dataframe (calls on every row)
+	- Can call a reduction on this → gives you a summary
+- `isna` → empty values
+	- `fillna` → fills empty values
+	- *Note* → pandas matches columns to columns automatically
+- `iloc` → getting data in dataframe based on index instead of labels
+- Can `.describe` + plot to examine data
+- `.get_dummies` → adds new columns to the data frame with binary
+- `.head` → first few rows/lines
+- *NOTE* → if there is an `_` at the end, it is an ==inplace== operation
+	- Changes the variable it is acting on
+- `.rand` → parameters inside determine size/shape of the tensor (not the value → always between 0 and 1)
+
+**Scikit Learn:** 
+- 
 
 **Python / Jupyter Notebook:** 
 - List comprehension → method of iterating through a list to apply a function to each value

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "8dd77f50d5744a63",
+            "id": "77833056e4c58b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL 5 - From-scratch Models.md",
+                "file": "6 - Full Notes/AI/PDL 6 - Random Forests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL 5 - From-scratch Models"
+              "title": "PDL 6 - Random Forests"
+            }
+          },
+          {
+            "id": "d9cb2d946229dc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/PDL - Transformers Explained.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PDL - Transformers Explained"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,8 +112,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer vision",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -216,21 +240,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dd77f50d5744a63",
+  "active": "d9cb2d946229dc5f",
   "lastOpenFiles": [
-    "6 - Full Notes/AI/PDL 3 - DL Logic.md",
-    "6 - Full Notes/AI/PDL 5 - From-scratch Models.md",
-    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
-    "6 - Full Notes/AI/dl.md",
-    "6 - Full Notes/AI/PDL Overview.md",
+    "6 - Full Notes/AI/PDL - Syntax.md",
+    "6 - Full Notes/AI/PDL - Transformers Explained.md",
+    "6 - Full Notes/AI/PDL 6 - Random Forests.md",
     "6 - Full Notes/AI/PDL - Terminology.md",
+    "6 - Full Notes/AI/PDL 5 - From-scratch Models.md",
+    "6 - Full Notes/AI/PDL 5 - Experimenting (Ensembling).md",
+    "6 - Full Notes/AI/PDL Overview.md",
+    "6 - Full Notes/AI/PDL 5 - Embeddings.md",
+    "Pasted image 20251109223206.png",
+    "6 - Full Notes/AI/AI explained.md",
+    "6 - Full Notes/AI/PDL - Machine Learning Models.md",
+    "3 - Tags/dl.md",
+    "Pasted image 20251109150412.png",
+    "6 - Full Notes/AI/PDL 3 - DL Logic.md",
+    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
     "6 - Full Notes/AI/PDL - Training a model.md",
     "6 - Full Notes/AI/PDL 4 - Natural Language Processing (NLP).md",
     "Pasted image 20251108201913.png",
     "6 - Full Notes/AI/PDL - Computer vision syntax.md",
     "6 - Full Notes/AI/PDL 4 - Recurrent Neural Networks (NLP).md",
     "6 - Full Notes/AI/Overview.md",
-    "6 - Full Notes/AI/PDL - Syntax.md",
     "6 - Full Notes/AI/PDL 4 - Overfitting.md",
     "Pasted image 20251108124856.png",
     "6 - Full Notes/AI/PDL 1 - Getting Started.md",
@@ -240,20 +272,12 @@
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/AI/PDL 3 - QUESTIONS.md",
     "6 - Full Notes/AI/PDL 3 - MNIST Neural Network Practice.md",
-    "6 - Full Notes/AI/PDL 1 - QUESTIONS.md",
-    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
-    "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
-    "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
     "Untitled_Artwork 14.png",
     "Untitled_Artwork 13.png",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "Untitled_Artwork 12.png",
-    "6 - Full Notes/University/cs145 - Tail Recursion Examples.md",
     "Screenshot 2025-11-05 at 10.59.51 PM.png",
     "Pasted image 20251105111720.png",
     "Screenshot 2025-11-05 at 10.57.28 AM.png",
-    "Screenshot 2025-11-05 at 10.54.36 AM.png",
-    "Screenshot 2025-11-02 at 1.06.18 PM.png",
     "Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
