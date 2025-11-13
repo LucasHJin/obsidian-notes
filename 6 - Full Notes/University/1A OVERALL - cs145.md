@@ -30,6 +30,7 @@ _______
 13. [[cs145 - Infinite Sequences]] 
 14. [[cs145 - Lazy Racket and Lambda Calculus]] 
 15. [[cs145 - Programming with Lambda Calculus]] 
+16. [[cs145 - Recursion and Numbers in Lambda Calculus]] 
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 

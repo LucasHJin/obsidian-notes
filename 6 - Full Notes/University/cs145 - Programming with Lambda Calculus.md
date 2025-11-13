@@ -60,6 +60,17 @@ _______
 **Converting:** square brackets are shortform for saying the lambda calculus symbol of the Racket expression R is … (applying lambda calculus conversion)
 - ![[Untitled_Artwork 13.png|400]] 
 - ![[Untitled_Artwork 14.png|400]] 
+	- *Note* → only defined for one parameter at a time
+- ![[Untitled_Artwork 15.png|400]] 
+- ![[Untitled_Artwork 16 1.png|400]] 
+- ![[Untitled_Artwork 17.png|400]] 
+- ![[Untitled_Artwork 18.png|400]] 
+- *Note* → from this, you have:
+	- Booleans, a data structure, selector functions, and a predicate
+	- Can implement `and, or, cond` with `if` 
+
+
+ 
 
 
 

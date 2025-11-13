@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL Overview.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL Overview"
+              "title": "1A OVERALL - cs145"
             }
           },
           {
-            "id": "77833056e4c58b05",
+            "id": "50adf8a86a5e8f28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL 6 - Random Forests.md",
+                "file": "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDL 6 - Random Forests"
-            }
-          },
-          {
-            "id": "d9cb2d946229dc5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/AI/PDL - Transformers Explained.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PDL - Transformers Explained"
+              "title": "cs145 - Recursion and Numbers in Lambda Calculus"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,15 +216,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9cb2d946229dc5f",
+  "active": "50adf8a86a5e8f28",
   "lastOpenFiles": [
-    "6 - Full Notes/AI/PDL - Syntax.md",
-    "6 - Full Notes/AI/PDL - Transformers Explained.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
+    "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
+    "Untitled_Artwork 17.png",
+    "Untitled_Artwork 18.png",
+    "Untitled_Artwork 16 1.png",
+    "Untitled_Artwork 16.png",
+    "Untitled_Artwork 15.png",
+    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
+    "6 - Full Notes/University/cs145 - Efficiency Examples.md",
+    "6 - Full Notes/AI/PDL Overview.md",
     "6 - Full Notes/AI/PDL 6 - Random Forests.md",
+    "6 - Full Notes/AI/PDL - Transformers Explained.md",
+    "6 - Full Notes/AI/PDL - Syntax.md",
     "6 - Full Notes/AI/PDL - Terminology.md",
     "6 - Full Notes/AI/PDL 5 - From-scratch Models.md",
     "6 - Full Notes/AI/PDL 5 - Experimenting (Ensembling).md",
-    "6 - Full Notes/AI/PDL Overview.md",
     "6 - Full Notes/AI/PDL 5 - Embeddings.md",
     "Pasted image 20251109223206.png",
     "6 - Full Notes/AI/AI explained.md",
@@ -266,18 +252,8 @@
     "6 - Full Notes/AI/PDL 4 - Overfitting.md",
     "Pasted image 20251108124856.png",
     "6 - Full Notes/AI/PDL 1 - Getting Started.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - More About Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - More About Total Order.md",
-    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
-    "6 - Full Notes/AI/PDL 3 - QUESTIONS.md",
-    "6 - Full Notes/AI/PDL 3 - MNIST Neural Network Practice.md",
     "Untitled_Artwork 14.png",
-    "Untitled_Artwork 13.png",
-    "Untitled_Artwork 12.png",
-    "Screenshot 2025-11-05 at 10.59.51 PM.png",
-    "Pasted image 20251105111720.png",
-    "Screenshot 2025-11-05 at 10.57.28 AM.png",
     "Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
