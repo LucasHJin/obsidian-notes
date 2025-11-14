@@ -12,7 +12,8 @@ _______
 # 1A OVERALL - econ101
 
 **Review Notes:** 
-- [[econ101 - Midterm Review]] 
+- [[econ101 - Test 1 Review]] 
+- [[econ101 - Test 2 Review]] 
 
 
 

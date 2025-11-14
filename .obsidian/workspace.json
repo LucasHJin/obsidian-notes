@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a21019b787d0809c",
+            "id": "471b3bb4cb725697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "file": "6 - Full Notes/University/econ101 - Test 2 Review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
-            }
-          },
-          {
-            "id": "50adf8a86a5e8f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Recursion and Numbers in Lambda Calculus"
+              "title": "econ101 - Test 2 Review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50adf8a86a5e8f28",
+  "active": "471b3bb4cb725697",
   "lastOpenFiles": [
+    "Pasted image 20251113212232.png",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
+    "6 - Full Notes/University/1A OVERALL - econ101.md",
+    "6 - Full Notes/University/econ101 - Test 2 Review.md",
+    "6 - Full Notes/University/econ101 - Test 1 Review.md",
     "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
     "Untitled_Artwork 17.png",
     "Untitled_Artwork 18.png",
@@ -248,11 +227,7 @@
     "Pasted image 20251108201913.png",
     "6 - Full Notes/AI/PDL - Computer vision syntax.md",
     "6 - Full Notes/AI/PDL 4 - Recurrent Neural Networks (NLP).md",
-    "6 - Full Notes/AI/Overview.md",
-    "6 - Full Notes/AI/PDL 4 - Overfitting.md",
     "Pasted image 20251108124856.png",
-    "6 - Full Notes/AI/PDL 1 - Getting Started.md",
-    "6 - Full Notes/University/cs145 - More About Lambda Calculus.md",
     "Untitled_Artwork 14.png",
     "Untitled.canvas",
     "Assets/proofs_note.pdf",
