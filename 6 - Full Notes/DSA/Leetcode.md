@@ -81,6 +81,7 @@ ___________________________________________________________________________
 - [[LC - Find the Duplicate Number]] 
 - [[LC - LRU Cache]] 
 - [[LC - Merge K Sorted Lists]] 
+- [[LC - Invert Binary Tree]] 
 
 # References
 - https://neetcode.io/

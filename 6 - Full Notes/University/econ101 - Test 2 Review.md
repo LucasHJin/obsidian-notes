@@ -78,13 +78,13 @@ _______
 	- 2nd best → government intervention
 		- I.e. if the market isn’t perfectly competitive (**market failures**) or care about equity
 	- *Veil of ignorance* → putting aside self-interest, how would you divide economic pie
-- *Positive analysis:* what happens when a policy is adopted
-- *Normative analysis:* if a policy should be adopted (how to choose based on goal)
+- *Positive analysis:* what happens when a policy is adopted (fact)
+- *Normative analysis:* if a policy should be adopted (how to choose based on goal) (opinion)
 	- *Value judgements* → do gains > losses
 - *Efficient outcome* → largest possible total economic surplus in economy
 	- Make pie as big as possible
 	- *Consumer surplus* → ES from buying something (area under demand, above price)
-	- *Producer surplus* → ES from selling something (area under price, above demand)
+	- *Producer surplus* → ES from selling something (area under price, above supply)
 	- *Voluntary exchange* → both need to benefit (or at least not become worse)
 		- ES = Marignal benefit - Marginal cost
 		- ==Add together the two triangles== 
@@ -107,6 +107,7 @@ _______
 	- Efficient quantity - actual quantity (can be underproduction or overproduction)
 	- Size determined by quantity
 		- Price only affects distribution of ES
+	- How far economic surplus is from efficient outcome
 - *Coincidence of wants* → need to both want something from each other (bartering)
 - *Absolute advantage* → who can do something with fewer inputs (i.e. time)
 	- *Gains from specialization* → what you can gain if each person does what they’re best at
@@ -117,6 +118,7 @@ _______
 		- I.e. if A produces 0.1 wine per cloth and be produced 0.5 wine per cloth, the price might be 0.25 wine per cloth
 - *Autarky* → no international trade
 	- GRAPH → go from extreme of what they’re better at to if they traded all of it for the other thing
+- *Centrally planned economy* → government makes all major decisions (not markets)
 - *Internal markets* → use of markets to allocate resources within organizations
 	- I.e. buying engines from an internal supplier
 - *Knowledge problem* → can’t know all factors to divide resources
@@ -139,7 +141,10 @@ _______
 - *Nonrival good* → others don’t lose benefit from me using it
 - ![[Pasted image 20251113212232.png]] 
 	- *Free-rider problem* → bystanders who can get positive externalities of other people’s consumption (don’t do work)
-	- So → public goods are prone to underproduction
+		- So → public goods are prone to underproduction
+			- The produced quantity is optimal for private but not social (because social people benefit but there aren’t incentives to produce more quantity because free riders don’t pay)
+		- I.e. for vaccines, if private < cost < social, then not many people will get vaccines
+			- Want immunity without paying → underproduction
 	- *Club good* → can be excludable (monopoly)
 - **Solutions to externality:** change incentives so that decision makers *internalize* the effect of their choices on bystanders
 	- *Private bargaining* → can solve externality problem with private bargaining if costless and property rights are clearly established

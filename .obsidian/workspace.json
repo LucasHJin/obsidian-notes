@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/econ101 - Test 2 Review.md",
+                "file": "6 - Full Notes/DSA/Leetcode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "econ101 - Test 2 Review"
+              "title": "Leetcode"
+            }
+          },
+          {
+            "id": "50973c060951df45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1A OVERALL - cs145"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,13 +217,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "471b3bb4cb725697",
+  "active": "50973c060951df45",
   "lastOpenFiles": [
-    "Pasted image 20251113212232.png",
+    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/University/econ101 - Test 2 Review.md",
+    "6 - Full Notes/DSA/LC - Invert Binary Tree.md",
+    "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
+    "Pasted image 20251113212232.png",
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
     "6 - Full Notes/University/1A OVERALL - econ101.md",
-    "6 - Full Notes/University/econ101 - Test 2 Review.md",
     "6 - Full Notes/University/econ101 - Test 1 Review.md",
     "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
     "Untitled_Artwork 17.png",
@@ -221,14 +253,8 @@
     "3 - Tags/dl.md",
     "Pasted image 20251109150412.png",
     "6 - Full Notes/AI/PDL 3 - DL Logic.md",
-    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
-    "6 - Full Notes/AI/PDL - Training a model.md",
-    "6 - Full Notes/AI/PDL 4 - Natural Language Processing (NLP).md",
     "Pasted image 20251108201913.png",
-    "6 - Full Notes/AI/PDL - Computer vision syntax.md",
-    "6 - Full Notes/AI/PDL 4 - Recurrent Neural Networks (NLP).md",
     "Pasted image 20251108124856.png",
-    "Untitled_Artwork 14.png",
     "Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
