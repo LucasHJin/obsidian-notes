@@ -31,6 +31,8 @@ _______
 14. [[cs145 - Lazy Racket and Lambda Calculus]] 
 15. [[cs145 - Programming with Lambda Calculus]] 
 16. [[cs145 - Recursion and Numbers in Lambda Calculus]] 
+17. [[cs145 - Interactive Programs and More Streams]] 
+18. [[cs145 - Big Picture of How Programs Work]] 
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 

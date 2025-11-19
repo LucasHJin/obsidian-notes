@@ -82,6 +82,7 @@ ___________________________________________________________________________
 - [[LC - LRU Cache]] 
 - [[LC - Merge K Sorted Lists]] 
 - [[LC - Invert Binary Tree]] 
+- [[LC - Maximum Depth of Binary Tree]] 
 
 # References
 - https://neetcode.io/

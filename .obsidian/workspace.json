@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f36a8d9bdd043940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/DSA/LC - Maximum Depth of Binary Tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LC - Maximum Depth of Binary Tree"
+            }
+          },
+          {
             "id": "50973c060951df45",
             "type": "leaf",
             "state": {
@@ -53,6 +77,54 @@
               },
               "icon": "lucide-file",
               "title": "1A OVERALL - cs145"
+            }
+          },
+          {
+            "id": "812ff9498665f234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Big Picture of How Programs Work"
+            }
+          },
+          {
+            "id": "6e48762f5161bd94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Interactive Programs and More Streams"
             }
           }
         ],
@@ -88,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stream",
+                "query": "append",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,13 +288,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50973c060951df45",
+  "active": "f36a8d9bdd043940",
   "lastOpenFiles": [
-    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
+    "6 - Full Notes/DSA/LC - Maximum Depth of Binary Tree.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
+    "Untitled_Artwork 19.png",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
+    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "6 - Full Notes/University/econ101 - Test 2 Review.md",
     "6 - Full Notes/DSA/LC - Invert Binary Tree.md",
     "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
@@ -249,12 +324,8 @@
     "6 - Full Notes/AI/PDL 5 - Embeddings.md",
     "Pasted image 20251109223206.png",
     "6 - Full Notes/AI/AI explained.md",
-    "6 - Full Notes/AI/PDL - Machine Learning Models.md",
-    "3 - Tags/dl.md",
     "Pasted image 20251109150412.png",
-    "6 - Full Notes/AI/PDL 3 - DL Logic.md",
     "Pasted image 20251108201913.png",
-    "Pasted image 20251108124856.png",
     "Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
