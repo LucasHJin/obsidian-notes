@@ -83,6 +83,10 @@ ___________________________________________________________________________
 - [[LC - Merge K Sorted Lists]] 
 - [[LC - Invert Binary Tree]] 
 - [[LC - Maximum Depth of Binary Tree]] 
+- [[LC - Diameter of Binary Tree]] 
+- [[LC - Balanced Binary Tree]] 
+- [[LC - Same Tree]] 
+- [[LC - Subtree of Another Tree]] 
 
 # References
 - https://neetcode.io/

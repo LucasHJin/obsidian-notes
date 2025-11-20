@@ -50,6 +50,7 @@ _______
 		- `=> g ((λx. g (x x)) (λx. g (x x)))` 
 		- `=> g (Y g)` 
 - ANSWER TO ASSIGNMENT 10 ^^^
+	- You pass a function to f so that it’s repeatedly call (and just reference that function call)
 
 **Natural numbers:** can think of them as abstraction / ADT with the following operations:
 - `add1, +, -, *, sqr, etc.` 
