@@ -33,6 +33,7 @@ _______
 16. [[cs145 - Recursion and Numbers in Lambda Calculus]] 
 17. [[cs145 - Interactive Programs and More Streams]] 
 18. [[cs145 - Big Picture of How Programs Work]] 
+19. [[cs145 - Building A λ-calculus Interpreter]] 
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 
@@ -43,6 +44,7 @@ _______
 5. [[cs145 - More About Generate]] 
 6. [[cs145 - More About Total Order]] 
 7. [[cs145 - More About Lambda Calculus]] 
+8. [[cs145 - Church Turing Machines]] 
 
 ***NOTE:* format past assignment 5:**
 ```
@@ -71,7 +73,10 @@ _______
 - REVIEW:
 	- 2-4:50 on saturday
 
+**NOTE:** A11 b, c, d → making a lambda calculus interpreter
 
+*Note:* 
+- On exam → need to step through lambda calculus (uncurried)
 
 # References
 

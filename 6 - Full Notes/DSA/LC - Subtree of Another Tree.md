@@ -24,6 +24,7 @@ _______
 	- Iterate through tree until reach empty (False in this case)
 		- Iterate with the subtree function
 	- Return true if it works for any of them
+- *Note* → make it a separate function to not redefine each loop
 
 # References
 

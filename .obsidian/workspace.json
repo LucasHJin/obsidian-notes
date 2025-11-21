@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/Leetcode.md",
+                "file": "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leetcode"
+              "title": "LEETCODE - TO REVIEW"
             }
           },
           {
-            "id": "df1a2ba08a379658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/DSA/LC - Subtree of Another Tree.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LC - Subtree of Another Tree"
-            }
-          },
-          {
-            "id": "50973c060951df45",
+            "id": "6b256ebf6463609f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "1A OVERALL - cs145"
+            }
+          },
+          {
+            "id": "b2612889ef38661f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Church Turing Machines.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Church Turing Machines"
             }
           }
         ],
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 415.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Midterm Help.md",
+                "file": "6 - Full Notes/DSA/Leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cs145 - Midterm Help"
+              "title": "Backlinks for Leetcode"
             }
           },
           {
@@ -237,15 +237,32 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "df1a2ba08a379658",
+  "active": "6b256ebf6463609f",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Subtree of Another Tree.md",
-    "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/DSA/LC - Same Tree.md",
+    "6 - Full Notes/University/cs145 - Church Turing Machines.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - More About Lambda Calculus.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "6 - Full Notes/DSA/LC - Subtree of Another Tree.md",
+    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
+    "6 - Full Notes/AI/Untitled.md",
+    "6 - Full Notes/AI/Untitled 1.md",
+    "Screenshot 2025-11-20 at 2.08.43 PM.png",
+    "Untitled_Artwork 24.png",
+    "Untitled_Artwork 23.png",
+    "Untitled_Artwork 22.png",
+    "Untitled_Artwork 21.png",
+    "Untitled_Artwork 20.png",
+    "6 - Full Notes/DSA/LC - Same Tree.md",
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
     "6 - Full Notes/DSA/LC - Balanced Binary Tree.md",
@@ -253,7 +270,6 @@
     "6 - Full Notes/DSA/LC - Maximum Depth of Binary Tree.md",
     "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
-    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
     "Untitled_Artwork 19.png",
     "6 - Full Notes/University/cs145 - Infinite Sequences.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
@@ -261,23 +277,8 @@
     "6 - Full Notes/DSA/LC - Invert Binary Tree.md",
     "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
     "Pasted image 20251113212232.png",
-    "6 - Full Notes/University/1A OVERALL - econ101.md",
-    "6 - Full Notes/University/econ101 - Test 1 Review.md",
     "Untitled_Artwork 17.png",
     "Untitled_Artwork 18.png",
-    "Untitled_Artwork 16 1.png",
-    "Untitled_Artwork 16.png",
-    "Untitled_Artwork 15.png",
-    "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
-    "6 - Full Notes/University/cs145 - Efficiency Examples.md",
-    "6 - Full Notes/AI/PDL Overview.md",
-    "6 - Full Notes/AI/PDL 6 - Random Forests.md",
-    "6 - Full Notes/AI/PDL - Transformers Explained.md",
-    "6 - Full Notes/AI/PDL - Syntax.md",
-    "6 - Full Notes/AI/PDL - Terminology.md",
-    "Pasted image 20251109223206.png",
-    "Pasted image 20251109150412.png",
-    "Pasted image 20251108201913.png",
     "Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
