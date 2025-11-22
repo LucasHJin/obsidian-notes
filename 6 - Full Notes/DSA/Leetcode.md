@@ -87,6 +87,8 @@ ___________________________________________________________________________
 - [[LC - Balanced Binary Tree]] 
 - [[LC - Same Tree]] 
 - [[LC - Subtree of Another Tree]] 
+- [[LC - Lowest Common Ancestor of a Binary Search Tree]] 
+- [[LC - Binary Tree Level Order Traversal]] 
 
 # References
 - https://neetcode.io/

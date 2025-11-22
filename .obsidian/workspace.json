@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
+                "file": "6 - Full Notes/DSA/Leetcode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LEETCODE - TO REVIEW"
+              "title": "Leetcode"
+            }
+          },
+          {
+            "id": "62aad74ab19b683e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/DSA/LC - Binary Tree Level Order Traversal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LC - Binary Tree Level Order Traversal"
             }
           },
           {
@@ -92,6 +116,7 @@
       {
         "id": "84b346ceba266196",
         "type": "tabs",
+        "dimension": 65.68396226415094,
         "children": [
           {
             "id": "1996955d879f9461",
@@ -131,6 +156,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a67656dacad48a4",
+        "type": "tabs",
+        "dimension": 34.31603773584906,
+        "children": [
+          {
+            "id": "52a90028b965a39a",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "uni_all Pets"
             }
           }
         ]
@@ -241,14 +283,16 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "6b256ebf6463609f",
+  "active": "52a90028b965a39a",
   "lastOpenFiles": [
-    "6 - Full Notes/University/cs145 - Church Turing Machines.md",
+    "6 - Full Notes/DSA/LC - Binary Tree Level Order Traversal.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Lowest Common Ancestor of a Binary Search Tree.md",
+    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Church Turing Machines.md",
     "6 - Full Notes/University/cs145 - More About Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
-    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "Untitled 1.md",
     "Untitled.md",
     "6 - Full Notes/DSA/LC - Subtree of Another Tree.md",
@@ -274,8 +318,6 @@
     "6 - Full Notes/University/cs145 - Infinite Sequences.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/University/econ101 - Test 2 Review.md",
-    "6 - Full Notes/DSA/LC - Invert Binary Tree.md",
-    "6 - Full Notes/DSA/LC - Merge K Sorted Lists.md",
     "Pasted image 20251113212232.png",
     "Untitled_Artwork 17.png",
     "Untitled_Artwork 18.png",
