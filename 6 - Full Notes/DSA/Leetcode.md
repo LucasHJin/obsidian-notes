@@ -89,6 +89,10 @@ ___________________________________________________________________________
 - [[LC - Subtree of Another Tree]] 
 - [[LC - Lowest Common Ancestor of a Binary Search Tree]] 
 - [[LC - Binary Tree Level Order Traversal]] 
+- [[LC - Binary Tree Right Side View]] 
+- [[LC - Count Good Nodes in Binary Tree]] 
+- [[LC - Validate Binary Search Tree]] 
+- [[LC - Kth Smallest Element in a BST]] 
 
 # References
 - https://neetcode.io/

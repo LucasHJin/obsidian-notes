@@ -23,6 +23,8 @@ _______
 	- ![[Pasted image 20251006220603.png]] 
 	- Want to apply gradient ascent to push towards higher reward actions
 
+*Note* → is a policy-gradient algorithm
+
 
 
 # References

@@ -16,6 +16,8 @@ _______
 **Proximal Policy Optimization (PPO):** an architecture that improves our agent’s training stability by avoiding policy updates that are too large
 - Uses ratio comparing previous and current policy clamped to $[1+\epsilon, 1-\epsilon]$ 
 - *REMEMBER:* **policy** is the brain of the model that decides the action based on state
+- *Essentially:* 
+	- Actor-critic algorithm where updates are clipped so that new policies aren’t too far away from old ones
 
 **Reasoning:** 
 - Smaller policies are more likely to converge to optimal solution
@@ -35,6 +37,7 @@ _______
 			- $\text{clip}(r_t(\theta),1-\epsilon,1+\epsilon)$ –> restricts the ratio to within a certain range
 				- Epsilon is a hyper parameter → to be changed
 			- $A_t$ (advantage) → tells us if the action was better or worse than average
+				- Can compare how much better an action is compared to expectation OR how much better the reward is than expected (**TD error**) 
 - **When to update policy:** 
 	- If ratio is in the range $[1-\epsilon, 1+\epsilon]$ 
 	- Ratio is outside range but advantage leads towards the range
@@ -51,7 +54,7 @@ _______
 - $L^{VF}$ → [[RL - Key Words|value function]] (square of diff between predicted and actual value → how good it is to be in a certain state)
 - $S$ → entropy bonus (to encourage exploration vs exploitation)
 - $c_1,c_2$ → coefficients 
-- **Actor-critic style:** 
+- **[[RL Basics|Actor-critic style]]:** 
 	- Actor → policy (makes actions based on inputs)
 	- Critic → value function (like a coach that evaluates the actor’s performance)
 
@@ -68,6 +71,12 @@ end for
 - PPO’s strategy:
 	- Use the same data for K epochs instead of using it just once 
 		- $E_t$ allows us to average results over multiple experiences → reduces noise + randomness
+
+**ALGORITHM:** 
+![[Pasted image 20251122215557.png]] 
+
+
+
 # References
 - https://huggingface.co/blog/deep-rl-ppo
 - https://arxiv.org/pdf/1707.06347

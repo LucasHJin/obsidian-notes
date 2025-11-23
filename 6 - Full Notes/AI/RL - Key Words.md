@@ -40,6 +40,9 @@ _______
 	- **Experience:** single piece of data 
 - **Timestep (t)** - A single moment in time when the agent observes, acts, and receives reward.
 
+**Logits:** unbounded real numbers that can be turned into probabilities (by applying a softmax function)
+
+
 
 # References
 

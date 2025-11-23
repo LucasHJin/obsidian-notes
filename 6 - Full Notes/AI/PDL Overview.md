@@ -26,7 +26,7 @@ _______
 5. [[PDL 5 - From-scratch Models]] 
 	1. [[PDL 5 - Experimenting (Ensembling)]]
 	2. [[PDL 5 - Embeddings]] 
-6. [[PDL 6 - Random Forests]] 
+6. [[PDL 6 - Random Forests]]  
 
 **Questions:** 
 - [[PDL 1 - QUESTIONS]] 

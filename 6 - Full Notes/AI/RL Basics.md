@@ -40,6 +40,7 @@ _______
 			- ![[Screenshot 2025-09-26 at 11.52.17 AM.png]] 
 		- **Stochastic:** outputs a probability distribution over actions
 			-  ![[Screenshot 2025-09-26 at 11.51.48 AM.png]] 
+		- I.e. like the [[RL - Reinforce Algorithm|REINFORCE]] algorithm
 	- **Value based methods:** teaching the agent to learn which state is more valuable and taking values to get there
 		- learn a value function that maps a state to the expected value of being at that state
 			- Value of a state → expected discount return if starting at that state (then act according to policy → go to state with highest value)
@@ -55,6 +56,15 @@ _______
 	- Evaluate the agent → `evaluate_policy` 
 **Proximity Policy Optimization (PPO):** state of the art deep reinforcement learning algorithm
 - Combination of value-based RL and policy-based RL
+
+**Deeper look:** 
+- Value based → find expected reward starting from state `s` and following the policy
+- Policy based → learns policy (agent brain) directly (good because it can output more possibilities → logits that can be transformed into probabilities for each action)
+- Actor-critic:
+	- Solves problem of continuous actions (value) and high variance updates (policy)
+	- Actor = policy
+	- Critic = value
+	- Learns policy directly but updates using feedback from the critic (value)
 
 
 

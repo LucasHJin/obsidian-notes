@@ -13,6 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "6 - Full Notes/AI/PDL Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PDL Overview"
+            }
+          },
+          {
+            "id": "c6287d8e4f0e4612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/PDL 6 - Random Forests.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PDL 6 - Random Forests"
+            }
+          },
+          {
+            "id": "39c5d317098d4a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "6 - Full Notes/DSA/Leetcode.md",
                 "mode": "source",
                 "source": false,
@@ -32,12 +80,12 @@
             }
           },
           {
-            "id": "62aad74ab19b683e",
+            "id": "28e12410ef4030e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Binary Tree Level Order Traversal.md",
+                "file": "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Binary Tree Level Order Traversal"
-            }
-          },
-          {
-            "id": "6b256ebf6463609f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
-            }
-          },
-          {
-            "id": "b2612889ef38661f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Church Turing Machines.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Church Turing Machines"
+              "title": "RL - Custom Environments (Gym)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,6 @@
       {
         "id": "84b346ceba266196",
         "type": "tabs",
-        "dimension": 65.68396226415094,
         "children": [
           {
             "id": "1996955d879f9461",
@@ -137,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "append",
+                "query": "in order traversali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,27 +158,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "1a67656dacad48a4",
-        "type": "tabs",
-        "dimension": 34.31603773584906,
-        "children": [
-          {
-            "id": "52a90028b965a39a",
-            "type": "leaf",
-            "state": {
-              "type": "pet-view",
-              "state": {},
-              "icon": "cat",
-              "title": "uni_all Pets"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 250.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -283,45 +265,45 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "52a90028b965a39a",
+  "active": "28e12410ef4030e0",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Binary Tree Level Order Traversal.md",
     "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/DSA/LC - Lowest Common Ancestor of a Binary Search Tree.md",
+    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
+    "6 - Full Notes/DSA/In order tree traversal.md",
+    "6 - Full Notes/DSA/LC - Kth Smallest Element in a BST.md",
+    "6 - Full Notes/DSA/LC - Validate Binary Search Tree.md",
     "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
+    "6 - Full Notes/AI/PDL 6 - Random Forests.md",
+    "6 - Full Notes/AI/PDL Overview.md",
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
+    "6 - Full Notes/AI/RL Basics.md",
+    "6 - Full Notes/AI/RL - Reinforce Algorithm.md",
+    "Assets/Pasted image 20251023140631.png",
+    "Assets/Pasted image 20251122215557.png",
+    "6 - Full Notes/SWE/Django explained.md",
+    "6 - Full Notes/AI/RL - Key Words.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
+    "6 - Full Notes/DSA/LC - Count Good Nodes in Binary Tree.md",
+    "6 - Full Notes/DSA/LC - Binary Tree Right Side View.md",
+    "6 - Full Notes/DSA/LC - Binary Tree Level Order Traversal.md",
     "6 - Full Notes/University/cs145 - Church Turing Machines.md",
+    "6 - Full Notes/DSA/LC - Lowest Common Ancestor of a Binary Search Tree.md",
     "6 - Full Notes/University/cs145 - More About Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "Assets/Untitled 1 1.md",
+    "Assets/Untitled 1.md",
     "6 - Full Notes/DSA/LC - Subtree of Another Tree.md",
-    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
-    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
-    "6 - Full Notes/AI/Untitled.md",
-    "6 - Full Notes/AI/Untitled 1.md",
-    "Screenshot 2025-11-20 at 2.08.43 PM.png",
-    "Untitled_Artwork 24.png",
-    "Untitled_Artwork 23.png",
-    "Untitled_Artwork 22.png",
-    "Untitled_Artwork 21.png",
-    "Untitled_Artwork 20.png",
-    "6 - Full Notes/DSA/LC - Same Tree.md",
-    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
-    "6 - Full Notes/DSA/LC - Balanced Binary Tree.md",
-    "6 - Full Notes/DSA/LC - Diameter of Binary Tree.md",
-    "6 - Full Notes/DSA/LC - Maximum Depth of Binary Tree.md",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
-    "Untitled_Artwork 19.png",
-    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
-    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
-    "6 - Full Notes/University/econ101 - Test 2 Review.md",
-    "Pasted image 20251113212232.png",
-    "Untitled_Artwork 17.png",
-    "Untitled_Artwork 18.png",
-    "Untitled.canvas",
+    "Assets/Screenshot 2025-11-20 at 2.08.43 PM.png",
+    "Assets/Untitled_Artwork 24.png",
+    "Assets/Untitled_Artwork 23.png",
+    "Assets/Untitled_Artwork 22.png",
+    "Assets/Untitled_Artwork 21.png",
+    "Assets/Untitled_Artwork 20.png",
+    "Assets/Untitled_Artwork 19.png",
+    "Assets/Pasted image 20251113212232.png",
+    "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
     "Assets/MATH 135 Course Notes.pdf",
