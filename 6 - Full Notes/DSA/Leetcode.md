@@ -93,6 +93,8 @@ ___________________________________________________________________________
 - [[LC - Count Good Nodes in Binary Tree]] 
 - [[LC - Validate Binary Search Tree]] 
 - [[LC - Kth Smallest Element in a BST]] 
+- [[LC - Construct Binary Tree from Preorder and Inorder Traversal]] 
+- [[LC - Kth Largest Element in a Stream]] 
 
 # References
 - https://neetcode.io/

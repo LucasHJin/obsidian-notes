@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/PDL 6 - Random Forests.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PDL 6 - Random Forests"
-            }
-          },
-          {
-            "id": "39c5d317098d4a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "6 - Full Notes/DSA/Leetcode.md",
                 "mode": "source",
                 "source": false,
@@ -80,12 +56,12 @@
             }
           },
           {
-            "id": "28e12410ef4030e0",
+            "id": "fb28933bf9ace39a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
+                "file": "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RL - Custom Environments (Gym)"
+              "title": "LC - Kth Largest Element in a Stream"
+            }
+          },
+          {
+            "id": "28e12410ef4030e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/RL - Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RL - Overview"
+            }
+          },
+          {
+            "id": "fcc5e67fed5281d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RL - Proximal Policy Optimization (PPO)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "in order traversali",
+                "query": "queue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,11 +264,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -265,18 +290,23 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "28e12410ef4030e0",
+  "active": "fb28933bf9ace39a",
   "lastOpenFiles": [
+    "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/AI/PDL 6 - Random Forests.md",
+    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
+    "6 - Full Notes/DSA/LC - Construct Binary Tree from Preorder and Inorder Traversal.md",
+    "Untitled_Artwork 25.png",
+    "6 - Full Notes/AI/PDL Overview.md",
+    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
     "6 - Full Notes/DSA/In order tree traversal.md",
     "6 - Full Notes/DSA/LC - Kth Smallest Element in a BST.md",
     "6 - Full Notes/DSA/LC - Validate Binary Search Tree.md",
     "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
-    "6 - Full Notes/AI/PDL 6 - Random Forests.md",
-    "6 - Full Notes/AI/PDL Overview.md",
-    "6 - Full Notes/AI/RL - Overview.md",
-    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
     "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/AI/RL - Reinforce Algorithm.md",
     "Assets/Pasted image 20251023140631.png",
@@ -291,10 +321,6 @@
     "6 - Full Notes/University/cs145 - Church Turing Machines.md",
     "6 - Full Notes/DSA/LC - Lowest Common Ancestor of a Binary Search Tree.md",
     "6 - Full Notes/University/cs145 - More About Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
-    "Assets/Untitled 1 1.md",
-    "Assets/Untitled 1.md",
-    "6 - Full Notes/DSA/LC - Subtree of Another Tree.md",
     "Assets/Screenshot 2025-11-20 at 2.08.43 PM.png",
     "Assets/Untitled_Artwork 24.png",
     "Assets/Untitled_Artwork 23.png",
@@ -302,7 +328,6 @@
     "Assets/Untitled_Artwork 21.png",
     "Assets/Untitled_Artwork 20.png",
     "Assets/Untitled_Artwork 19.png",
-    "Assets/Pasted image 20251113212232.png",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
