@@ -182,6 +182,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "67a0a1547673b7c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c82fede18a6988",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "uni_all Pets"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -290,7 +306,7 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "fb28933bf9ace39a",
+  "active": "c5c82fede18a6988",
   "lastOpenFiles": [
     "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
     "6 - Full Notes/DSA/Leetcode.md",
