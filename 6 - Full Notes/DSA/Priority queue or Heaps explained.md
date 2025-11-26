@@ -35,7 +35,7 @@ Special type of [[Data structures explained|queue]] where elements are removed i
 			- Insert at end and sift up
 		- Get max/min – O(1)
 			- First value
-		- Extract max/min – O(logn)
+		- Extract max/min (push/pop) – O(logn)
 			- Swap with leaf node and delete, then then sift down
 		- Update – O(logn) vs O(n) (depends on if you have the index)
 			- Sift up/down (compare old/new values)
@@ -63,6 +63,8 @@ ____
 		- Check length = 0
 
 In python → `heapq` 
+- ==THIS OPERATES DIRECTLY ON A LIST== 
+	- Using the indexing tricks (no need to use a new data structure)
 
 ___
 **Use cases:** 

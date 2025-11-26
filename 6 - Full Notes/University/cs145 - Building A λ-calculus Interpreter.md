@@ -72,11 +72,11 @@ Relates to [[cs145 - Big Picture of How Programs Work]]
 	- Must be a variable (`x`), application `(e1 e2)` or abstraction `(lambda (x) e)` 
 - Can create 3 structures to store info for each of these
 - **Steps:** 
-	- parsing, using match
-	- dealing with “outermost” interpreting
-	- substituting
-	- dealing with “inner” interpreting
-	- combining everything together
+	- *parsing, using match*
+		- Like an AST:
+			- Application is root node
+			- Then it goes to abstraction / variable under it
+				- And under variable is the actual values
 ```racket
 (define-struct Var (id) #:transparent)
 (define-struct App (fst snd) #:transparent)
@@ -92,11 +92,40 @@ Relates to [[cs145 - Big Picture of How Programs Work]]
     ;; Var
     [x (Var x)]
     ))
-```
-- Like an AST:
-	- Application is root node
-	- Then it goes to abstraction / variable under it
-		- And under variable is the actual values
+``` 
+- Interpretation and evaluation: (check A11)
+	- *dealing with “outermost” interpreting* 
+		- Interpret head
+	- *substituting*
+	- *dealing with “inner” interpreting* 
+		- Just recurse by calling the actual interpreter (which then calls the outer interp repeatedly)
+	- *combining everything together* 
+- Example of substituting in body:
+	- `(λx. (λy. y)) [x <- t]` 
+		- Parameter = x
+		- Body = λy. y
+			- Splits into id & bdy2 (first and second y)
+		- Exp = t
+	- `(λx. (λy. x)) [x <- t]` 
+		- `y` is not the same as `x` so substitute for the expression into the body 2
+		- Get `λy. t` 
+	- `(λx. (λx. x)) [x <- t]` 
+		- Par x
+		- Body λx.x
+			- Id and bdy2 are both x
+			- The inner id binds x
+		- Exp t
+		- `λx. x` 
+			- The outer x gets removed
+- Full example:
+	- `(λx. ((λf. x) y) f)` 
+		- `= (λx. ((λt. x) y)) f` 
+		- `=> (λt. f) y` 
+		- `=> f` 
+	- *Note* → interpreter right now doesn’t do alpha equivalence
+		- THIS IS THE HOMEWORK
+
+
 
 
 # References
