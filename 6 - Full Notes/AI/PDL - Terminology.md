@@ -47,6 +47,7 @@ Relates to [[PDL - Machine Learning Models]]
 	- **Layers:** the amount of training it goes through each epoch
 		- Less epochs before overfitting but more accurate on higher data
 	- **Epoch:** how many passes through data set
+	- **Iteration:** a single batch pass
 - **Parameters:** weights + biases (wx+b)
 - **Independent variables:** data that doesn’t include the labels
 	- Can calculate **predictions** from this (the **results** of the model)
@@ -73,6 +74,7 @@ Relates to [[PDL - Machine Learning Models]]
 		- Simplified version of 1H + linear
 	- I.e. [[LLM - Retrieval Augmented Generation (RAG)|NLP]] and RAG 
 	- Is a learned vector representation of discrete items in a continuous vector space (capture semantic meaning)
+- *An embedding layer is equivalent to placing an ordinary linear layer after every one-hot-encoded input layer* 
 
 ___
 ### Neural Networks

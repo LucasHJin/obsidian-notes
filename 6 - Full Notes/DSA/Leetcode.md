@@ -95,6 +95,9 @@ ___________________________________________________________________________
 - [[LC - Kth Smallest Element in a BST]] 
 - [[LC - Construct Binary Tree from Preorder and Inorder Traversal]] 
 - [[LC - Kth Largest Element in a Stream]] 
+- [[LC - Last Stone Weight]] 
+- [[LC - K Closest Points to Origin]] 
+- [[LC - Kth Largest Element in an Array]] 
 
 # References
 - https://neetcode.io/

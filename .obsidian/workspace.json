@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/Leetcode.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leetcode"
+              "title": "1A OVERALL - cs145"
             }
           },
           {
-            "id": "fb28933bf9ace39a",
+            "id": "7f9b739dcc939c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
+                "file": "6 - Full Notes/University/cs145 - History.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Kth Largest Element in a Stream"
+              "title": "cs145 - History"
             }
           },
           {
-            "id": "2e7401935694d05c",
+            "id": "7dbae6a7ed345993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
+                "file": "6 - Full Notes/AI/PDL Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Priority queue or Heaps explained"
+              "title": "PDL Overview"
+            }
+          },
+          {
+            "id": "782d55f34fff5a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/PDL 5 - Experimenting (Ensembling).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PDL 5 - Experimenting (Ensembling)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +135,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "queue",
-                "matchingCase": false,
+                "query": "cardinality",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -242,43 +265,44 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "2e7401935694d05c",
+  "active": "1996955d879f9461",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
-    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - History.md",
     "6 - Full Notes/University/cs145 - De Brujin Index.md",
-    "Untitled_Artwork 27.png",
-    "Untitled_Artwork 28.png",
-    "Untitled_Artwork 26.png",
-    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "6 - Full Notes/AI/PDL Overview.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "Untitled_Artwork 30.png",
+    "Untitled_Artwork 29.png",
+    "6 - Full Notes/AI/PDL 5 - Experimenting (Ensembling).md",
+    "6 - Full Notes/AI/PDL - DL Usecases.md",
+    "6 - Full Notes/AI/PDL - Terminology.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Kth Largest Element in an Array.md",
+    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
+    "6 - Full Notes/AI/PDL - Syntax.md",
+    "6 - Full Notes/AI/PDL 6 - Gradient Boosting.md",
     "6 - Full Notes/AI/PDL 6 - Random Forests.md",
-    "6 - Full Notes/DSA/LC - Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "Untitled_Artwork 25.png",
-    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
-    "6 - Full Notes/AI/RL - Overview.md",
-    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
+    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+    "Assets/Untitled_Artwork 14.png",
+    "Assets/Untitled_Artwork 15.png",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "6 - Full Notes/SWE/REST vs HTTP vs CRUD explained.md",
+    "6 - Full Notes/SWE/HTTP explained.md",
+    "6 - Full Notes/DSA/APIs explained.md",
+    "Assets/Untitled_Artwork 16.png",
+    "Assets/Untitled_Artwork 16 1.png",
+    "Assets/Untitled_Artwork 17.png",
+    "Assets/Untitled_Artwork 18.png",
+    "Assets/Untitled_Artwork 19.png",
+    "Assets/Untitled_Artwork 20.png",
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
-    "6 - Full Notes/DSA/In order tree traversal.md",
-    "6 - Full Notes/DSA/LC - Kth Smallest Element in a BST.md",
-    "6 - Full Notes/DSA/LC - Validate Binary Search Tree.md",
-    "6 - Full Notes/DSA/LEETCODE - TO REVIEW.md",
-    "6 - Full Notes/AI/RL Basics.md",
-    "6 - Full Notes/AI/RL - Reinforce Algorithm.md",
-    "Assets/Pasted image 20251023140631.png",
-    "Assets/Pasted image 20251122215557.png",
-    "6 - Full Notes/SWE/Django explained.md",
-    "6 - Full Notes/AI/RL - Key Words.md",
-    "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
-    "6 - Full Notes/DSA/LC - Count Good Nodes in Binary Tree.md",
-    "6 - Full Notes/DSA/LC - Binary Tree Right Side View.md",
-    "Assets/Screenshot 2025-11-20 at 2.08.43 PM.png",
-    "Assets/Untitled_Artwork 24.png",
-    "Assets/Untitled_Artwork 23.png",
-    "Assets/Untitled_Artwork 22.png",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
+    "6 - Full Notes/DSA/LC - K Closest Points to Origin.md",
+    "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
+    "6 - Full Notes/DSA/LC - Last Stone Weight.md",
+    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
+    "6 - Full Notes/DSA/LC - Construct Binary Tree from Preorder and Inorder Traversal.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",

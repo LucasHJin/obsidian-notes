@@ -44,13 +44,18 @@ _______
 		- Reduces overfitting, reduces amount of choices of columns (i.e. don’t have to check every column for splitting)
 	- **Feature importance plot**: Tells you which independent variables were most important
 		- How often picked + how much it improved gini
+		- Good at explaining as long as model is accurate as well
 - **Out of bag error:** way of measuring prediction error by using calculation of row’s error trees where the row was not included in the data (i.e. when choosing the subset of data) 
 - *Prediction confidence* → can check with standard deviation
 	- Smaller = more confident
 - **Partial dependence plot:** set everything else equal by setting the independent variable for each row of data and predicting answer and then avg
-- 
+	- **Tree interpreter:** take data for one row and input into all trees
+		- Check which values they check + gini
+		- Like feature importance but for a single row
+- *Note:* 
+	- Useful because you can’t overfit, don’t have to overthink (just splitting on binary columns), etc.
 
-
+**ALTERNATIVE:** [[PDL 6 - Gradient Boosting]] 
 
 
 

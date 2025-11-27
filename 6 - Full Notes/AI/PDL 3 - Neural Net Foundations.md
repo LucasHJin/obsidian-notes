@@ -71,6 +71,16 @@ ___
 	- THIS IS NOT THE FUNCTION YOU ARE TRYING TO FIT TO THE DATA
 	- It’s the loss surface, which represents how good or bad your model’s predictions are for different parameter values
 
+**Picking learning rate:** 
+- *Note* → can combine this with training scheduling (changing learning rate every couple of epochs)
+	- I.e. Step decay, exponential decay, cosine annealing, cyclical learning rate
+- Strategy:
+	- Start at a small learning rate (exp -7)
+	- Increase it exponentially with each iteration (x1.1)
+	- Track and plot loss
+		- Loss decreases quickly → start there
+		- Loss blows up → stop there
+
 ___
 [[PDL 3 - NN Titanic Example]] 
 

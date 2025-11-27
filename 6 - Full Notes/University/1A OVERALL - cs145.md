@@ -35,6 +35,8 @@ _______
 18. [[cs145 - Big Picture of How Programs Work]] 
 19. [[cs145 - Building A λ-calculus Interpreter]] 
 20. [[cs145 - De Brujin Index]] 
+21. [[cs145 - History]] 
+	1. THIS WILL BE ON THE FINAL
 
 **Tutorials:** 
 1. [[cs145 - Stepping]] 

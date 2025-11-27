@@ -27,6 +27,7 @@ _______
 	1. [[PDL 5 - Experimenting (Ensembling)]]
 	2. [[PDL 5 - Embeddings]] 
 6. [[PDL 6 - Random Forests]]  
+	1. [[PDL 6 - Gradient Boosting]] 
 
 **Questions:** 
 - [[PDL 1 - QUESTIONS]] 

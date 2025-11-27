@@ -101,6 +101,11 @@ simple_net = nn.Sequential(
 **Scikit Learn:** 
 - 
 
+**Pillow:** 
+- *Note* → does columns by rows (width x height instead of like TensorFlow)
+- Some basic functionality:
+	- `open, save, show, crop, resizefilter, rotate, convert` 
+
 **Python / Jupyter Notebook:** 
 - List comprehension → method of iterating through a list to apply a function to each value
 	- I.e. `seven_tensors = [tensor(Image.open(o)) for o in sevens]` → makes a list of tensors for each image in sevens

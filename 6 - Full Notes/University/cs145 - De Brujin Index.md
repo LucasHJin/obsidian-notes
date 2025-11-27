@@ -28,7 +28,10 @@ _______
 	- ![[Untitled_Artwork 27.png|500]] 
 - `((λλ1) (λ1)) (λλ2)` 
 	- ![[Untitled_Artwork 28.png|500]] 
-	- 
+	- ![[Untitled_Artwork 29.png|500]] 
+	- ![[Untitled_Artwork 30.png|500]] 
+		- Go back through tree until you have encountered the number of abstractions desired
+ 
 
 
 
