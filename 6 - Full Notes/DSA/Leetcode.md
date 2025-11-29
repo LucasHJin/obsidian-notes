@@ -98,6 +98,7 @@ ___________________________________________________________________________
 - [[LC - Last Stone Weight]] 
 - [[LC - K Closest Points to Origin]] 
 - [[LC - Kth Largest Element in an Array]] 
+- [[LC - Task Scheduler]] 
 
 # References
 - https://neetcode.io/

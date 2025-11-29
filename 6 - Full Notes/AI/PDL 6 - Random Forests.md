@@ -33,6 +33,10 @@ _______
 	- Basically → how often would you be wrong if you randomly guessed class of something in a group (i.e. 1 class = 0, mixed classes = higher)
 	- Want to minimize
 - **Absolute error:** probability that your class guess (output) is wrong when you guess the most common class
+- *Classification tree* → predicts a category (boolean)
+- *Regression tree* → predicts a number
+	- I.e. test score by hours studied
+- *NOTE* → can overfit if there are more leaf nodes than data points (each predicting one value)
 
 **Random forest:** machine learning algorithm used primarily for classification and regression tasks
 - Build a collection of decision trees and make predictions based on the [[PDL 5 - Experimenting (Ensembling)|ensemble]] of these trees (reduces overfitting, increases accuracy)
@@ -54,9 +58,21 @@ _______
 		- Like feature importance but for a single row
 - *Note:* 
 	- Useful because you can’t overfit, don’t have to overthink (just splitting on binary columns), etc.
+	- Can ensemble with a separate neural network
 
 **ALTERNATIVE:** [[PDL 6 - Gradient Boosting]] 
 
+____
+**Problems:** 
+- Can’t extrapolate → can only predict values within the range of the training data
+	- Need to make sure no out-of-domain data
+
+Good for answering these questions:
+1. How confident are we in our predictions using a particular row of data?
+2. For predicting with a particular row of data, what were the most important factors, and how did they influence that prediction?
+3. Which columns are the strongest predictors, which can we ignore?
+4. Which columns are effectively redundant with each other, for purposes of prediction?
+5. How do predictions vary, as we vary these columns?
 
 
 # References
