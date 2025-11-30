@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "3a1ae7d4a586277d",
+            "id": "167190f5b53d3574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Task Scheduler.md",
+                "file": "6 - Full Notes/DSA/LC - Design Twitter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Task Scheduler"
+              "title": "LC - Design Twitter"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "queue",
+                "query": "k sorted lists merge",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,11 +157,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 341.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -266,13 +267,15 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "3a1ae7d4a586277d",
+  "active": "a49d2650b5e15539",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Task Scheduler.md",
+    "6 - Full Notes/DSA/LC - Design Twitter.md",
     "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
     "6 - Full Notes/University/cs145 - De Brujin Index.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "6 - Full Notes/DSA/LC - Task Scheduler.md",
     "6 - Full Notes/University/cs145 - History.md",
     "6 - Full Notes/AI/PDL Overview.md",
     "6 - Full Notes/AI/PDL 6 - Gradient Boosting.md",
@@ -287,7 +290,6 @@
     "6 - Full Notes/AI/PDL - Syntax.md",
     "Assets/Untitled_Artwork 14.png",
     "Assets/Untitled_Artwork 15.png",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "6 - Full Notes/SWE/REST vs HTTP vs CRUD explained.md",
     "6 - Full Notes/SWE/HTTP explained.md",
     "6 - Full Notes/DSA/APIs explained.md",
@@ -303,7 +305,6 @@
     "6 - Full Notes/DSA/LC - K Closest Points to Origin.md",
     "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
     "6 - Full Notes/DSA/LC - Last Stone Weight.md",
-    "6 - Full Notes/DSA/Priority queue or Heaps explained.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
