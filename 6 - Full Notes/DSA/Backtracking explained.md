@@ -19,6 +19,30 @@ Recursive problem solving technique that explores all configs of a solution but 
 	- Else → go through all other possible paths
 		- First get rid of impossible choices and then commit to the choice
 		- Repeat process and then undo the decisions made (so not stuck on first path forever)
+- Like a maze → if dead end, go back
+	- Different from recursion → manages using state and recursion
+
+**Template:** 
+- Visualize as a decision tree
+	- Each level of tree represents decision point, each branch is an option you can take
+	- [[LC - Subsets]] 
+```python
+def backtrack(params):
+    if base_case_condition:
+        save_result
+        return
+
+    for choice in choices:
+        if violates_constraints:
+            continue
+
+        make_choice
+        backtrack(updated_params)
+        undo_choice  # Backtracking Step
+```
+
+
+___
 
 **Useful for:** 
 - Combinations, permutations, etc.

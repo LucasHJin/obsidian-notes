@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6287d8e4f0e4612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - De Brujin Index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - De Brujin Index"
-            }
-          },
-          {
             "id": "0fa7e3ff0777e6e9",
             "type": "leaf",
             "state": {
@@ -78,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Leetcode"
             }
-          },
-          {
-            "id": "167190f5b53d3574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/DSA/LC - Design Twitter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LC - Design Twitter"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,17 +214,19 @@
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pixel-pets:Toggle pet view": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a49d2650b5e15539",
+  "active": "a850828898f992cc",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Design Twitter.md",
+    "6 - Full Notes/DSA/LC - Combination Sum.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Subsets.md",
+    "6 - Full Notes/DSA/Backtracking explained.md",
+    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+    "6 - Full Notes/DSA/LC - Design Twitter.md",
     "6 - Full Notes/University/cs145 - De Brujin Index.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
     "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "6 - Full Notes/DSA/LC - Task Scheduler.md",
     "6 - Full Notes/University/cs145 - History.md",
@@ -302,9 +255,6 @@
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
-    "6 - Full Notes/DSA/LC - K Closest Points to Origin.md",
-    "6 - Full Notes/DSA/LC - Kth Largest Element in a Stream.md",
-    "6 - Full Notes/DSA/LC - Last Stone Weight.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",

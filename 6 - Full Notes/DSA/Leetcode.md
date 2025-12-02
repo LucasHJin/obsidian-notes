@@ -22,7 +22,7 @@ ___________________________________________________________________________
 **General:**
 - [[Data structures explained]] 
 - [[Control flow and looping explained]] 
-- [[Big O Notation explained]]
+- [[Big O Notation explained]] 
 
 **Patterns:** 
 - [[Hashmaps explained]] 
@@ -100,6 +100,8 @@ ___________________________________________________________________________
 - [[LC - Kth Largest Element in an Array]] 
 - [[LC - Task Scheduler]] 
 - [[LC - Design Twitter]] 
+- [[LC - Subsets]] 
+- [[LC - Combination Sum]] 
 
 # References
 - https://neetcode.io/
