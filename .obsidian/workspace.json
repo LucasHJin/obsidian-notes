@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+                "file": "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Building A λ-calculus Interpreter"
+              "title": "cs145 - Total Order and Sorting"
             }
           },
           {
@@ -54,9 +54,32 @@
               "icon": "lucide-file",
               "title": "Leetcode"
             }
+          },
+          {
+            "id": "56a18fafd9f26d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/DSA/LC - Combination Sum II.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LC - Combination Sum II"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "k sorted lists merge",
+                "query": "total order",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +132,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,19 +241,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a850828898f992cc",
+  "active": "0fa7e3ff0777e6e9",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Combination Sum.md",
+    "6 - Full Notes/University/cs145 - History.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+    "6 - Full Notes/DSA/LC - Combination Sum II.md",
+    "6 - Full Notes/DSA/LC - Three Sum.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Combination Sum.md",
     "6 - Full Notes/DSA/LC - Subsets.md",
     "6 - Full Notes/DSA/Backtracking explained.md",
-    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
     "6 - Full Notes/DSA/LC - Design Twitter.md",
     "6 - Full Notes/University/cs145 - De Brujin Index.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "6 - Full Notes/DSA/LC - Task Scheduler.md",
-    "6 - Full Notes/University/cs145 - History.md",
     "6 - Full Notes/AI/PDL Overview.md",
     "6 - Full Notes/AI/PDL 6 - Gradient Boosting.md",
     "6 - Full Notes/AI/PDL 6 - Random Forests.md",
@@ -253,8 +279,6 @@
     "Assets/Untitled_Artwork 19.png",
     "Assets/Untitled_Artwork 20.png",
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
-    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",

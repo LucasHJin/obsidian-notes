@@ -20,7 +20,7 @@ _______
 - Can’t use 3 pointers → don’t know how to move
 - Could fix 1 value → and then run a 2 pointer for that (sorted)
 	- But don’t want to be redundant with checks
-	- Make sure the first value (i) is always different
+	- ==Make sure the first value (i) is always different== 
 	- Only run to the right of the first index → i.e. guarenteed nothing on left because its sorted so it was already checked (no duplicates)
 
 **Finished notes:** 
