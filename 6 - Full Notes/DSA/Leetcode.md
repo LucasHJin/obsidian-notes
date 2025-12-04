@@ -103,6 +103,9 @@ ___________________________________________________________________________
 - [[LC - Subsets]] 
 - [[LC - Combination Sum]] 
 - [[LC - Combination Sum II]] 
+- [[LC - Permutations]] 
+- [[LC - Subsets II]]  
+- [[LC - Generate Parentheses]] (backtrack this time) 
 
 # References
 - https://neetcode.io/

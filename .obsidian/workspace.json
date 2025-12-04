@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "56a18fafd9f26d08",
+            "id": "5a05c2f0786fe590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/DSA/LC - Combination Sum II.md",
+                "file": "6 - Full Notes/DSA/LC - Generate Parentheses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LC - Combination Sum II"
+              "title": "LC - Generate Parentheses"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,14 +241,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fa7e3ff0777e6e9",
+  "active": "5a05c2f0786fe590",
   "lastOpenFiles": [
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Combination Sum II.md",
+    "6 - Full Notes/DSA/LC - Subsets II.md",
+    "6 - Full Notes/DSA/LC - Permutations.md",
+    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/University/cs145 - History.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
-    "6 - Full Notes/DSA/LC - Combination Sum II.md",
     "6 - Full Notes/DSA/LC - Three Sum.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "6 - Full Notes/DSA/LC - Combination Sum.md",
     "6 - Full Notes/DSA/LC - Subsets.md",
     "6 - Full Notes/DSA/Backtracking explained.md",
@@ -270,15 +273,12 @@
     "Assets/Untitled_Artwork 14.png",
     "Assets/Untitled_Artwork 15.png",
     "6 - Full Notes/SWE/REST vs HTTP vs CRUD explained.md",
-    "6 - Full Notes/SWE/HTTP explained.md",
-    "6 - Full Notes/DSA/APIs explained.md",
     "Assets/Untitled_Artwork 16.png",
     "Assets/Untitled_Artwork 16 1.png",
     "Assets/Untitled_Artwork 17.png",
     "Assets/Untitled_Artwork 18.png",
     "Assets/Untitled_Artwork 19.png",
     "Assets/Untitled_Artwork 20.png",
-    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
