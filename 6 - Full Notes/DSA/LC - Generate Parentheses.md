@@ -33,5 +33,10 @@ _______
 	- NOTE → NOT NECESSARY
 	- Relates to a very specific Catalan number formula (not well known)
 
+**Recursive notes:** 
+- Consider cases where open not reached n and open > closed
+- Use variables over a hashmap to track open/close
+
+
 # References
 
