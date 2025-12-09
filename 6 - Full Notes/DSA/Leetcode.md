@@ -106,6 +106,7 @@ ___________________________________________________________________________
 - [[LC - Permutations]] 
 - [[LC - Subsets II]]  
 - [[LC - Generate Parentheses]] (backtrack this time) 
+- [[LC - Word Search]] 
 
 # References
 - https://neetcode.io/

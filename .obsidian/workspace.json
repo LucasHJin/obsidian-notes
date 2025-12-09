@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Leetcode"
             }
+          },
+          {
+            "id": "47a379b3d072338b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/RL Basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RL Basics"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "total order",
+                "query": "reinforcement learning",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,10 +241,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a850828898f992cc",
+  "active": "47a379b3d072338b",
   "lastOpenFiles": [
-    "6 - Full Notes/DSA/LC - Generate Parentheses.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/AI/RL Basics.md",
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
+    "6 - Full Notes/DSA/LC - Word Search.md",
+    "6 - Full Notes/DSA/LC - Generate Parentheses.md",
     "6 - Full Notes/DSA/LC - Combination Sum II.md",
     "6 - Full Notes/DSA/LC - Subsets II.md",
     "6 - Full Notes/DSA/LC - Permutations.md",
@@ -243,10 +271,6 @@
     "Untitled_Artwork 30.png",
     "Untitled_Artwork 29.png",
     "6 - Full Notes/AI/PDL - DL Usecases.md",
-    "6 - Full Notes/AI/PDL - Terminology.md",
-    "6 - Full Notes/DSA/LC - Kth Largest Element in an Array.md",
-    "6 - Full Notes/AI/PDL 3 - Neural Net Foundations.md",
-    "6 - Full Notes/AI/PDL - Syntax.md",
     "Assets/Untitled_Artwork 14.png",
     "Assets/Untitled_Artwork 15.png",
     "Assets/Untitled_Artwork 16.png",

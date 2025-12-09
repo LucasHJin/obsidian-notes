@@ -25,8 +25,10 @@ _______
 	- ![[Pasted image 20250926113739.png]] 
 	- discount = 0.95 to 0.99
 - **Episodic task:** has a start and an end
+	- I.e. a level in a game
 - **Continuing task:** continues forever
 	- Need to learn to choose best actions while simultaneously interacting with environment
+- **Markov Property:** states that only the current state is needed to make decisions (not all past states)
 
 **Exploration/Exploitation tradeoff:** 
 - **Exploration:** exploring environment with random actions to get more info about environment
