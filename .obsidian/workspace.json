@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fa7e3ff0777e6e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Total Order and Sorting"
-            }
-          },
-          {
-            "id": "a850828898f992cc",
+            "id": "722302c92c325488",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +29,78 @@
               },
               "icon": "lucide-file",
               "title": "Leetcode"
+            }
+          },
+          {
+            "id": "41320fb52ecc39a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/econ101 - Test 1 Review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "econ101 - Test 1 Review"
+            }
+          },
+          {
+            "id": "a850828898f992cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/econ101 - Test 2 Review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "econ101 - Test 2 Review"
+            }
+          },
+          {
+            "id": "2066f41362061bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/econ101 - Final Review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "econ101 - Final Review"
             }
           },
           {
@@ -112,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reinforcement learning",
+                "query": "market forces",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,9 +289,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47a379b3d072338b",
+  "active": "a850828898f992cc",
   "lastOpenFiles": [
+    "6 - Full Notes/University/econ101 - Test 1 Review.md",
     "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Letter Combinations of a Phone Number.md",
+    "6 - Full Notes/DSA/LC - Palindrome Partitioning.md",
+    "6 - Full Notes/University/1A OVERALL - econ101.md",
+    "6 - Full Notes/University/econ101 - Test 2 Review.md",
+    "6 - Full Notes/University/econ101 - Final Review.md",
+    "Screenshot 2025-12-09 at 2.10.31 AM.png",
+    "Screenshot 2025-12-09 at 2.09.04 AM.png",
+    "Screenshot 2025-12-09 at 1.37.59 AM.png",
+    "Screenshot 2025-12-09 at 1.34.59 AM.png",
+    "Screenshot 2025-12-09 at 1.30.58 AM.png",
+    "Screenshot 2025-12-08 at 9.19.32 PM.png",
+    "Screenshot 2025-12-08 at 9.18.19 PM.png",
+    "Screenshot 2025-12-08 at 9.13.14 PM.png",
+    "6 - Full Notes/University/1A Important Notes.md",
+    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
@@ -252,7 +316,6 @@
     "6 - Full Notes/DSA/LC - Combination Sum II.md",
     "6 - Full Notes/DSA/LC - Subsets II.md",
     "6 - Full Notes/DSA/LC - Permutations.md",
-    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/University/cs145 - History.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
     "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
@@ -262,23 +325,8 @@
     "6 - Full Notes/DSA/Backtracking explained.md",
     "6 - Full Notes/DSA/LC - Design Twitter.md",
     "6 - Full Notes/University/cs145 - De Brujin Index.md",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
-    "6 - Full Notes/DSA/LC - Task Scheduler.md",
-    "6 - Full Notes/AI/PDL Overview.md",
-    "6 - Full Notes/AI/PDL 6 - Gradient Boosting.md",
-    "6 - Full Notes/AI/PDL 6 - Random Forests.md",
-    "6 - Full Notes/AI/PDL 5 - Experimenting (Ensembling).md",
     "Untitled_Artwork 30.png",
     "Untitled_Artwork 29.png",
-    "6 - Full Notes/AI/PDL - DL Usecases.md",
-    "Assets/Untitled_Artwork 14.png",
-    "Assets/Untitled_Artwork 15.png",
-    "Assets/Untitled_Artwork 16.png",
-    "Assets/Untitled_Artwork 16 1.png",
-    "Assets/Untitled_Artwork 17.png",
-    "Assets/Untitled_Artwork 18.png",
-    "Assets/Untitled_Artwork 19.png",
-    "Assets/Untitled_Artwork 20.png",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",

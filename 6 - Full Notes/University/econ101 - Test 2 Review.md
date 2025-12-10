@@ -40,6 +40,8 @@ _______
 - *Engel curve* → graph showing total household expenditure to share spent on a particular good
 	- Necessity → downwards
 	- Luxury → upwards
+	- *NOTE* → most luxury and necessity goods are normal goods
+		- Luxury is just high income elasticity (i.e. changes a lot when income changes)
 - *Price elasticity of supply:* % change in quantity supplied / % change in price
 	- >1 → price elastic, <1 → price inelastic
 	- **Determinant** → how flexible production is

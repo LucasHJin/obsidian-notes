@@ -16,14 +16,18 @@ _______
 - *Cost-benefit*
 	- *Economic surplus* → total benefit - total cost
 - *Opportunity cost*
-	- *Out of pocket cost*
-	- *Sunk cost*
+	- *Out of pocket cost* → that you pay for with your own money
+	- *Sunk cost* → money you already spent and can’t get back (don’t let it influence future decision)
 	- *Next best option*
 	- *Production possibilities frontier (PPF)* → can be pushed out by productivity
 - *Marginal principle* (Dynamic/continuous choice (not discrete))
 	- *Marginal decisions* (incremental benefits/costs)
-	- *Rational rule*
-- *Interdependence principle* (other choices, other decision makers, markets, time)
+	- *Rational rule* → keep on doing something as long as MB ≥ MC
+- *Interdependence principle*
+	- Other choices
+	- Other decision makers
+	- Other markets
+	- Dependencies over time
 - *Demand curve* 
 	- Price is independent + on vertical access
 - *Law of demand* (downwards sloping)
@@ -52,8 +56,10 @@ _______
 			- Congestion → more ppl = worse
 			- Network effects → more ppl = better
 		- Type and number of buyers in market (doesn’t shift individual)
-	- ==CHANGE IN QUANTITY DEMANDED → HOW MUCH A SINGLE PERSON WANTS== 
-	- ==CHANGE IN DEMAND → HOW MUCH MARKET WANTS PER PRICE WANTS== 
+	- ==CHANGE IN QUANTITY DEMANDED → SHIFT ALONG THE INDIVIDUAL CURVE==  
+		- If Price changes
+	- ==CHANGE IN DEMAND → SHIFT ENTIRE CURVE== 
+		- If other factors change
 - *Supply curve* (upwards sloping)
 	- Movement along the curve → change in price changes quantity supplied (i.e. more existing firms + new firms at higher prices)
 - *Law of supply* (upwards sloping)

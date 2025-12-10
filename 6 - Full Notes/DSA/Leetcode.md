@@ -107,6 +107,8 @@ ___________________________________________________________________________
 - [[LC - Subsets II]]  
 - [[LC - Generate Parentheses]] (backtrack this time) 
 - [[LC - Word Search]] 
+- [[LC - Palindrome Partitioning]] 
+- [[LC - Letter Combinations of a Phone Number]] 
 
 # References
 - https://neetcode.io/
