@@ -51,6 +51,7 @@ _______
 		-  ==STATUORY BURDEN DOES NOT AFFECT ECONOMIC BURDEN / TAX INCIDENCE== 
 	- *On buyers* → lowers demand curve by reducing consumers’ marginal benefit
 		- *Tax incidence* → who actually bears the burden of a tax (how it’s divided between buyers / sellers)
+			- Economic burden → similar concept (who is truly paying)
 		- Buyers have to pay the price on the old demand curve for the equilibrium quantity of the new demand curve
 		- Sellers get the equilibrium price of the new demand curve
 	- *On sellers* → shifts supply curve up (costs more to produce each quantity)
@@ -81,7 +82,9 @@ _______
 		- I.e. if the market isn’t perfectly competitive (**market failures**) or care about equity
 	- *Veil of ignorance* → putting aside self-interest, how would you divide economic pie
 - *Positive analysis:* what happens when a policy is adopted (fact)
+	- Describes facts, data, and cause-and-effect.
 - *Normative analysis:* if a policy should be adopted (how to choose based on goal) (opinion)
+	- Expresses an opinion, value or judgement 
 	- *Value judgements* → do gains > losses
 - *Efficient outcome* → largest possible total economic surplus in economy
 	- Make pie as big as possible
@@ -149,7 +152,7 @@ _______
 			- Want immunity without paying → underproduction
 	- *Club good* → can be excludable (monopoly)
 - **Solutions to externality:** change incentives so that decision makers *internalize* the effect of their choices on bystanders
-	- *Private bargaining* → can solve externality problem with private bargaining if costless and property rights are clearly established
+	- *Private bargaining* → can solve externality problem with private bargaining if costless and property rights are clearly established (**coase theorem**)
 		- I.e. no government intervention → just between bystanders and decision maker
 		- I.e. stopping music by paying a person, strategic investment, merger
 	- *Corrective tax/subsidy* → might produce more/less than socially optimal (give them a tax/subsidy equal to the marginal external cost/benefit) 
