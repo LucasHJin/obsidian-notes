@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/RL Basics.md",
+                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RL Basics"
+              "title": "1A OVERALL - cs145"
+            }
+          },
+          {
+            "id": "74930d6d01878a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Lazy Racket and Lambda Calculus"
+            }
+          },
+          {
+            "id": "8aa627a313063ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Programming with Lambda Calculus"
+            }
+          },
+          {
+            "id": "65d3435a2ac1e247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Lazy Racket and Lambda Calculus"
+            }
+          },
+          {
+            "id": "c6334026903cbcc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cs145 - Recursion and Numbers in Lambda Calculus"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binary tree",
+                "query": "beta reduction",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,8 +290,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47a379b3d072338b",
+  "active": "65d3435a2ac1e247",
   "lastOpenFiles": [
+    "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
+    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+    "6 - Full Notes/University/cs145 - De Brujin Index.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - History.md",
+    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
+    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
+    "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/University/econ101 - Final Review.md",
     "6 - Full Notes/University/econ101 - Test 1 Review.md",
     "6 - Full Notes/University/econ101 - Test 2 Review.md",
@@ -212,22 +320,12 @@
     "Screenshot 2025-12-08 at 9.13.14 PM.png",
     "6 - Full Notes/University/1A Important Notes.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
-    "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
     "6 - Full Notes/DSA/LC - Word Search.md",
     "6 - Full Notes/DSA/LC - Generate Parentheses.md",
     "6 - Full Notes/DSA/LC - Combination Sum II.md",
     "6 - Full Notes/DSA/LC - Subsets II.md",
-    "6 - Full Notes/DSA/LC - Permutations.md",
-    "6 - Full Notes/University/cs145 - History.md",
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
-    "6 - Full Notes/DSA/LC - Three Sum.md",
-    "6 - Full Notes/DSA/LC - Combination Sum.md",
-    "6 - Full Notes/DSA/LC - Subsets.md",
-    "6 - Full Notes/DSA/Backtracking explained.md",
-    "6 - Full Notes/DSA/LC - Design Twitter.md",
     "Untitled_Artwork 30.png",
     "Untitled_Artwork 29.png",
     "Assets/Untitled.canvas",
