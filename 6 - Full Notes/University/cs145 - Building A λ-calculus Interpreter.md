@@ -105,7 +105,7 @@ Relates to [[cs145 - Big Picture of How Programs Work]]
 		- Parameter = x
 		- Body = λy. y
 			- Splits into id & bdy2 (first and second y)
-		- Exp = t
+		- Expression = t
 	- `(λx. (λy. x)) [x <- t]` 
 		- `y` is not the same as `x` so substitute for the expression into the body 2
 		- Get `λy. t` 

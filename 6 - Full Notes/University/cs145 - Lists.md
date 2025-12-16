@@ -44,8 +44,8 @@ _______
 	- Can access still with `first`, `rest` 
 - ***NOTE***: 
 	- there is a function `list` that can take an arbitrary number of elements as an argument
-	- ==NOT== THE SAME AS `cond` 
-		- Cond takes 1 element in front of an existing list
+	- ==NOT== THE SAME AS `cons` 
+		- Cons takes 1 element in front of an existing list
 		- List takes all elements and puts them in a list
 			- Means you can’t access anything past `first` (i.e. no second)
 	- *Useful* for testing functions with longer lists (because you only use `first` in recursion)

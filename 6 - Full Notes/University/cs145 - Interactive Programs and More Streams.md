@@ -34,8 +34,5 @@ _______
 - Consumes input, state, output and stores output and then calls next Gen Call
 - Output can be multiple values (in a list) or nothing (empty)
 
-
-
-
 # References
 
