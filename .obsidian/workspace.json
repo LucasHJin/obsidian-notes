@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47a379b3d072338b",
+            "id": "c7d788712504ff11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "51e594e3ffc46cb0",
+            "id": "4763c60fac7a05a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - De Brujin Index.md",
+                "file": "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - De Brujin Index"
+              "title": "cs145 - Programming with Lambda Calculus"
             }
           },
           {
-            "id": "d3266d702dec6df0",
+            "id": "a5c5b27afa6bea36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
+                "file": "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Building A λ-calculus Interpreter"
+              "title": "cs145 - Lazy Racket and Lambda Calculus"
             }
           },
           {
-            "id": "43f233dbb26ffafe",
+            "id": "fa68f7ac8a8bba46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
+                "file": "6 - Full Notes/University/cs145 - Specific Trees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Big Picture of How Programs Work"
+              "title": "cs145 - Specific Trees"
             }
           },
           {
-            "id": "c7d788712504ff11",
+            "id": "4871cabdd1514d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
+                "file": "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Big Picture of How Programs Work"
+              "title": "cs145 - Recursion and Numbers in Lambda Calculus"
             }
           }
         ],
@@ -160,8 +160,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beta reduction",
-                "matchingCase": true,
+                "query": "applicative",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -181,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -289,24 +290,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51e594e3ffc46cb0",
+  "active": "a49d2650b5e15539",
   "lastOpenFiles": [
-    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
     "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
+    "6 - Full Notes/University/cs145 - Specific Trees.md",
+    "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
     "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
     "6 - Full Notes/University/cs145 - De Brujin Index.md",
-    "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
-    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
     "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
+    "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
+    "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
+    "6 - Full Notes/University/cs145 - Infinite Sequences.md",
     "6 - Full Notes/University/cs145 - Information Hiding, Modules and Packages.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
     "6 - Full Notes/University/cs145 - Lists.md",
-    "6 - Full Notes/University/cs145 - Specific Trees.md",
     "6 - Full Notes/University/cs145 - Trees.md",
     "6 - Full Notes/University/cs145 - Data Structures.md",
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
