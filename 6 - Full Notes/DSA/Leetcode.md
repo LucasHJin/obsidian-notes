@@ -35,6 +35,7 @@ ___________________________________________________________________________
 - [[Priority queue or Heaps explained]] 
 - [[Bucket sort explained]] 
 - [[Prefix sum explained]]
+- [[Intervals explained]] 
 
 **Problems:** 
 - [[LC - Contains Duplicate]] 
@@ -109,6 +110,7 @@ ___________________________________________________________________________
 - [[LC - Word Search]] 
 - [[LC - Palindrome Partitioning]] 
 - [[LC - Letter Combinations of a Phone Number]] 
+- [[LC - Insert Interval]] 
 
 # References
 - https://neetcode.io/

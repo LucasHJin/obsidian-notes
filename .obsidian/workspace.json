@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a85cc637e51ce879",
+        "id": "8606b840289390c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d788712504ff11",
+            "id": "bc1c3f78c5299a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/1A OVERALL - cs145.md",
+                "file": "6 - Full Notes/DSA/Leetcode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1A OVERALL - cs145"
+              "title": "Leetcode"
             }
           },
           {
-            "id": "4763c60fac7a05a8",
+            "id": "7bde2d9599b8bc42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
+                "file": "6 - Full Notes/DSA/Intervals explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Programming with Lambda Calculus"
+              "title": "Intervals explained"
             }
           },
           {
-            "id": "a5c5b27afa6bea36",
+            "id": "1b33ae256e848621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+                "file": "6 - Full Notes/DSA/LC - Insert Interval.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cs145 - Lazy Racket and Lambda Calculus"
-            }
-          },
-          {
-            "id": "fa68f7ac8a8bba46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Specific Trees.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Specific Trees"
-            }
-          },
-          {
-            "id": "4871cabdd1514d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cs145 - Recursion and Numbers in Lambda Calculus"
+              "title": "LC - Insert Interval"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -290,18 +241,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a49d2650b5e15539",
+  "active": "1b33ae256e848621",
   "lastOpenFiles": [
-    "6 - Full Notes/University/1A OVERALL - cs145.md",
-    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
+    "6 - Full Notes/DSA/Intervals explained.md",
+    "6 - Full Notes/DSA/LC - Insert Interval.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Longest Consecutive Sequence.md",
     "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Specific Trees.md",
+    "6 - Full Notes/University/cs145 - Lazy Racket and Lambda Calculus.md",
     "6 - Full Notes/University/cs145 - Programming with Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
+    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/DSA/LC - LRU Cache.md",
     "6 - Full Notes/University/cs145 - Big Picture of How Programs Work.md",
+    "6 - Full Notes/University/cs145 - Abstract List Functions and Lambda.md",
     "6 - Full Notes/University/cs145 - Building A λ-calculus Interpreter.md",
     "6 - Full Notes/University/cs145 - De Brujin Index.md",
-    "6 - Full Notes/University/cs145 - Total Order and Sorting.md",
     "6 - Full Notes/University/cs145 - Interactive Programs and More Streams.md",
     "6 - Full Notes/University/cs145 - Running Time and Big O Notation.md",
     "6 - Full Notes/University/cs145 - Infinite Sequences.md",
@@ -313,11 +269,6 @@
     "6 - Full Notes/University/cs145 - Measuring Efficiency.md",
     "6 - Full Notes/University/cs145 - Recursion.md",
     "6 - Full Notes/University/cs145 - Racket Syntax and Numbers.md",
-    "6 - Full Notes/University/cs145 - History.md",
-    "6 - Full Notes/AI/RL Basics.md",
-    "6 - Full Notes/University/econ101 - Final Review.md",
-    "6 - Full Notes/University/econ101 - Test 1 Review.md",
-    "6 - Full Notes/University/econ101 - Test 2 Review.md",
     "Screenshot 2025-12-09 at 2.10.31 AM.png",
     "Screenshot 2025-12-09 at 2.09.04 AM.png",
     "Screenshot 2025-12-09 at 1.37.59 AM.png",
