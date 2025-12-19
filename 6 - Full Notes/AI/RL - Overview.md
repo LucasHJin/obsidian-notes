@@ -16,6 +16,7 @@ _______
 **Important files:**
 - [[RL Basics]] 
 	- [[RL - Key Words]] 
+	- [[RL - Deep RL Basics]] 
 - [[RL - Proximal Policy Optimization (PPO)]] 
 - [[RL - Custom Environments (Gym)]] 
 

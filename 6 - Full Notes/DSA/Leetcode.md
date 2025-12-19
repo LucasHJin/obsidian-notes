@@ -111,6 +111,7 @@ ___________________________________________________________________________
 - [[LC - Palindrome Partitioning]] 
 - [[LC - Letter Combinations of a Phone Number]] 
 - [[LC - Insert Interval]] 
+- [[LC - Merge Inervals]] 
 
 # References
 - https://neetcode.io/

@@ -19,16 +19,26 @@ _______
 - Want to maximize cumulative reward (expected return)
 - **State:** full description of state of the world
 - **Observation:** partial description of the state
+	- Represented by higher order tensors / matrices in Deep RL
+	- I.e. joint angles + velocities of a robot
 - **Discrete space:** finite amount of actions
 - **Continuous space:** infinite amount of actions
+	- *Note* → some algorithms can only be applied to one type of space
 - **Rewards + Discounting** → to reduce reward of future actions because they are less likely to happen (further away)
 	- ![[Pasted image 20250926113739.png]] 
 	- discount = 0.95 to 0.99
+	- **Details:** 
+		- Depends on current state, previous action and following state
+		- **Finite horizon undiscovered return:** sum of rewards in fixed num of steps
+		- **Infinite horizon undiscovered return:** sum of all rewards obtained by agent ever (but with discount)
 - **Episodic task:** has a start and an end
 	- I.e. a level in a game
 - **Continuing task:** continues forever
 	- Need to learn to choose best actions while simultaneously interacting with environment
 - **Markov Property:** states that only the current state is needed to make decisions (not all past states)
+- **Trajectories:** a sequence of states and actions in the world
+	- Also called episodes or rollouts
+	- State transitions from `t` to `t+1` depend only on action $a_t$ 
 
 **Exploration/Exploitation tradeoff:** 
 - **Exploration:** exploring environment with random actions to get more info about environment
@@ -40,8 +50,10 @@ _______
 	- **Policy based methods:** directly teaching the agent given current state
 		- **Deterministic:** a policy at a given state will always return the same action
 			- ![[Screenshot 2025-09-26 at 11.52.17 AM.png]] 
+			- Denoted with $a_{t}=\mu (s_{t})$ 
 		- **Stochastic:** outputs a probability distribution over actions
 			-  ![[Screenshot 2025-09-26 at 11.51.48 AM.png]] 
+			- Denoted with $a_{t} = \pi (\\cdot|s_{t})$ 
 		- I.e. like the [[RL - Reinforce Algorithm|REINFORCE]] algorithm
 	- **Value based methods:** teaching the agent to learn which state is more valuable and taking values to get there
 		- learn a value function that maps a state to the expected value of being at that state
