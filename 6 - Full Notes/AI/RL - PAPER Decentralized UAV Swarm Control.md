@@ -8,7 +8,7 @@ Tags:
 [[ai]] 
 [[rl]] 
 [[ml]] 
-
+[[research paper]]
 
 _______
 # RL - PAPER Decentralized UAV Swarm Control

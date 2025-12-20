@@ -28,6 +28,10 @@ _______
 	- `Discrete(n)` → discrete space with n possible values (0 to n-1)
 - **Wrappers:** allows you to modify environment functionality without making a subclass
 	- Also have observation, reward, action specific wrappers
+	- *Vectorized environments* → `SubProcEnv` 
+		- Allow you to run a list of environments async
+		- More efficient, better sample efficiency, more stable gradients
+		- *Note* → still treats it as one (i.e. can call reset on all at once)
 
 
 ___

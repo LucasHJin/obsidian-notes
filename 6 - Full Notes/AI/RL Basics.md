@@ -59,6 +59,9 @@ _______
 		- learn a value function that maps a state to the expected value of being at that state
 			- Value of a state → expected discount return if starting at that state (then act according to policy → go to state with highest value)
 			- ![[Screenshot 2025-09-26 at 11.53.42 AM.png]] 
+**Monte Carlo:** learn from complete episodes (only update after game is finished)
+
+**Temporal difference:** learn step by step (i.e. provide an estimate using current reward + estimated future reward)
 
 **Deep RL:** using deep neural networks instead of traditional algorithms to solve RL problems
 - ![[Pasted image 20250926133500.png]] 
