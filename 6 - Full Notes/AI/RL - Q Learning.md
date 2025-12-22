@@ -46,6 +46,8 @@ ___
 		- ![[Pasted image 20251220171613.png]] 
 		- To get the best action state pair value of the next state → just take the max (greedy)
 		- Then start in new state and choose new action (repeat)
+	- *Note*:
+		- First couple steps before repeat are to set the epsilon and step counters, and to initialize the episode by getting initial state observation
 
 
 

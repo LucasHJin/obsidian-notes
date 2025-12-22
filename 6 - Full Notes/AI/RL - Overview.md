@@ -21,6 +21,7 @@ _______
 	- [[RL - Training Strategies]] 
 - **Algorithms:** 
 	- [[RL - Q Learning]] 
+		- [[RL - Deep Q Learning]] 
 	- [[RL - Proximal Policy Optimization (PPO)]] 
 - **Policies:** 
 	- [[RL - Epsilon Greedy]] 

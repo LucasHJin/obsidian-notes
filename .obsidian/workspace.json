@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "197b827db63e1af9",
+            "id": "efd28ff22260fb3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/RL - Q Learning.md",
+                "file": "6 - Full Notes/AI/RL - Deep Q Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RL - Q Learning"
+              "title": "RL - Deep Q Learning"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drone",
+                "query": "list comprehension",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,13 +241,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "197b827db63e1af9",
+  "active": "1996955d879f9461",
   "lastOpenFiles": [
+    "6 - Full Notes/AI/PDL - Neural Networks.md",
+    "6 - Full Notes/AI/RL - Deep Q Learning.md",
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/DSA/LC - Word Search.md",
+    "6 - Full Notes/AI/RL - Q Learning.md",
     "Pasted image 20251220171613.png",
     "6 - Full Notes/AI/RL - Epsilon Greedy.md",
     "Pasted image 20251220171324.png",
-    "6 - Full Notes/AI/RL - Q Learning.md",
-    "6 - Full Notes/AI/RL - Overview.md",
     "Pasted image 20251220170909.png",
     "Screenshot 2025-12-20 at 5.03.18 PM.png",
     "6 - Full Notes/AI/RL - Value Based Methods.md",
@@ -271,14 +274,11 @@
     "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
     "3 - Tags/research paper.md",
     "6 - Full Notes/AI/RL - Building a Simulator (Visualization).md",
-    "Screenshot 2025-12-19 at 12.02.00 PM.png",
     "6 - Full Notes/AI/AI explained.md",
     "6 - Full Notes/DSA/LC - Merge Inervals.md",
     "6 - Full Notes/DSA/Intervals explained.md",
     "6 - Full Notes/DSA/LC - Insert Interval.md",
     "6 - Full Notes/DSA/LC - Longest Consecutive Sequence.md",
-    "6 - Full Notes/University/cs145 - Recursion and Numbers in Lambda Calculus.md",
-    "6 - Full Notes/University/cs145 - Specific Trees.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
