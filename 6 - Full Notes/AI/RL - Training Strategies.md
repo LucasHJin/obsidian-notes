@@ -29,6 +29,7 @@ Relates to [[RL - Value Based Methods]] and [[RL - Q Learning]]
 	- Still works similar to MC but it instead replaces calculated return with an estimation ([[RL - Value Based Methods|Bellman]]) 
 - *Note* → can work over non-ending episodes / repeated episodes
 
+^ Has a tradeoff between bias and variance
 
 
 # References

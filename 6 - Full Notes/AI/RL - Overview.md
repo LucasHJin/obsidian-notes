@@ -18,6 +18,7 @@ _______
 	- [[RL - Key Words]] 
 	- [[RL - Deep RL Basics]] 
 	- [[RL - Value Based Methods]] 
+	- [[RL - Policy Based Methods]] 
 	- [[RL - Training Strategies]] 
 - **Algorithms:** 
 	- [[RL - Q Learning]] 
@@ -26,7 +27,7 @@ _______
 - **Policies:** 
 	- [[RL - Epsilon Greedy]] 
 - [[RL - Custom Environments (Gym)]] 
-- 
+- *Note* → can use Optuna to tune hyperparameters
 
 **Papers:** 
 - [[RL - PAPER Decentralized Control of Quadrotor Swarms]]  

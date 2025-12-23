@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "a914159b075418aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/AI/RL - Policy Based Methods.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RL - Policy Based Methods"
+            }
+          },
+          {
             "id": "efd28ff22260fb3e",
             "type": "leaf",
             "state": {
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "list comprehension",
+                "query": "cnn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,11 +157,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 279.5
   },
   "right": {
     "id": "65890a2937298afd",
@@ -241,44 +266,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1996955d879f9461",
+  "active": "a914159b075418aa",
   "lastOpenFiles": [
-    "6 - Full Notes/AI/PDL - Neural Networks.md",
-    "6 - Full Notes/AI/RL - Deep Q Learning.md",
+    "Pasted image 20251223004929.png",
+    "Screenshot 2025-12-23 at 12.48.00 AM.png",
     "6 - Full Notes/AI/RL - Overview.md",
-    "6 - Full Notes/DSA/LC - Word Search.md",
+    "6 - Full Notes/AI/RL - Value Based Methods.md",
+    "6 - Full Notes/AI/RL - Policy Based Methods.md",
+    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
+    "6 - Full Notes/AI/DL - CNN explained.md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Meeting Rooms II.md",
+    "6 - Full Notes/DSA/LC - Design Twitter.md",
+    "6 - Full Notes/DSA/LC - Task Scheduler.md",
+    "6 - Full Notes/AI/RL - Deep Q Learning.md",
+    "Pasted image 20251222111336.png",
+    "6 - Full Notes/AI/RL - Training Strategies.md",
+    "Pasted image 20251222111033.png",
+    "Pasted image 20251222105521.png",
+    "Pasted image 20251222105111.png",
+    "6 - Full Notes/AI/PDL - Terminology.md",
+    "Pasted image 20251222011646.png",
     "6 - Full Notes/AI/RL - Q Learning.md",
+    "6 - Full Notes/AI/PDL - Neural Networks.md",
+    "6 - Full Notes/DSA/LC - Word Search.md",
     "Pasted image 20251220171613.png",
     "6 - Full Notes/AI/RL - Epsilon Greedy.md",
     "Pasted image 20251220171324.png",
     "Pasted image 20251220170909.png",
     "Screenshot 2025-12-20 at 5.03.18 PM.png",
-    "6 - Full Notes/AI/RL - Value Based Methods.md",
-    "6 - Full Notes/AI/RL - Training Strategies.md",
-    "Screenshot 2025-12-20 at 4.53.27 PM.png",
-    "Screenshot 2025-12-20 at 4.47.37 PM.png",
-    "6 - Full Notes/DSA/LC - Meeting Rooms II.md",
-    "6 - Full Notes/DSA/Leetcode.md",
     "6 - Full Notes/DSA/LC - Meeting Rooms.md",
     "6 - Full Notes/DSA/LC - Non-overlapping Intervals.md",
-    "Screenshot 2025-12-20 at 12.34.04 AM.png",
-    "Screenshot 2025-12-20 at 12.12.31 AM.png",
-    "Screenshot 2025-12-20 at 12.11.46 AM.png",
-    "Screenshot 2025-12-20 at 12.10.13 AM.png",
     "6 - Full Notes/AI/RL Basics.md",
     "6 - Full Notes/AI/RL - Deep RL Basics.md",
     "6 - Full Notes/AI/RL - PAPER SB3.md",
     "6 - Full Notes/AI/RL - Key Words.md",
-    "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
     "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
     "3 - Tags/research paper.md",
-    "6 - Full Notes/AI/RL - Building a Simulator (Visualization).md",
-    "6 - Full Notes/AI/AI explained.md",
-    "6 - Full Notes/DSA/LC - Merge Inervals.md",
-    "6 - Full Notes/DSA/Intervals explained.md",
-    "6 - Full Notes/DSA/LC - Insert Interval.md",
-    "6 - Full Notes/DSA/LC - Longest Consecutive Sequence.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",
