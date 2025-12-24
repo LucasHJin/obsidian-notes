@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "efd28ff22260fb3e",
+            "id": "78b931b6093d2a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/AI/RL - Deep Q Learning.md",
+                "file": "6 - Full Notes/AI/RL - Policy Gradient Methods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RL - Deep Q Learning"
+              "title": "RL - Policy Gradient Methods"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cnn",
+                "query": "off policy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -266,44 +265,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a914159b075418aa",
+  "active": "78b931b6093d2a73",
   "lastOpenFiles": [
+    "Screenshot 2025-12-23 at 5.18.42 PM.png",
+    "Screenshot 2025-12-23 at 5.17.07 PM.png",
+    "Screenshot 2025-12-23 at 3.28.44 PM.png",
+    "Screenshot 2025-12-23 at 3.27.23 PM.png",
+    "Pasted image 20251223144838.png",
+    "6 - Full Notes/AI/RL - Policy Based Methods.md",
+    "6 - Full Notes/AI/RL - Policy Gradient Methods.md",
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/RL - Q Learning.md",
+    "6 - Full Notes/AI/RL - Deep RL Basics.md",
+    "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Maximum Subarray.md",
+    "6 - Full Notes/AI/RL - Deep Q Learning.md",
+    "6 - Full Notes/DSA/LC - Non-overlapping Intervals.md",
+    "6 - Full Notes/DSA/LC - Meeting Rooms II.md",
     "Pasted image 20251223004929.png",
     "Screenshot 2025-12-23 at 12.48.00 AM.png",
-    "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/AI/RL - Value Based Methods.md",
-    "6 - Full Notes/AI/RL - Policy Based Methods.md",
     "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "6 - Full Notes/AI/DL - CNN explained.md",
-    "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/DSA/LC - Meeting Rooms II.md",
     "6 - Full Notes/DSA/LC - Design Twitter.md",
     "6 - Full Notes/DSA/LC - Task Scheduler.md",
-    "6 - Full Notes/AI/RL - Deep Q Learning.md",
     "Pasted image 20251222111336.png",
     "6 - Full Notes/AI/RL - Training Strategies.md",
     "Pasted image 20251222111033.png",
     "Pasted image 20251222105521.png",
     "Pasted image 20251222105111.png",
     "6 - Full Notes/AI/PDL - Terminology.md",
-    "Pasted image 20251222011646.png",
-    "6 - Full Notes/AI/RL - Q Learning.md",
     "6 - Full Notes/AI/PDL - Neural Networks.md",
     "6 - Full Notes/DSA/LC - Word Search.md",
-    "Pasted image 20251220171613.png",
     "6 - Full Notes/AI/RL - Epsilon Greedy.md",
-    "Pasted image 20251220171324.png",
-    "Pasted image 20251220170909.png",
-    "Screenshot 2025-12-20 at 5.03.18 PM.png",
     "6 - Full Notes/DSA/LC - Meeting Rooms.md",
-    "6 - Full Notes/DSA/LC - Non-overlapping Intervals.md",
     "6 - Full Notes/AI/RL Basics.md",
-    "6 - Full Notes/AI/RL - Deep RL Basics.md",
     "6 - Full Notes/AI/RL - PAPER SB3.md",
     "6 - Full Notes/AI/RL - Key Words.md",
-    "6 - Full Notes/AI/RL - PAPER Decentralized Control of Quadrotor Swarms.md",
-    "6 - Full Notes/AI/RL - PAPER Decentralized UAV Swarm Control.md",
-    "3 - Tags/research paper.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",

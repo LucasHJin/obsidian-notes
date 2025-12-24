@@ -19,6 +19,7 @@ _______
 	- [[RL - Deep RL Basics]] 
 	- [[RL - Value Based Methods]] 
 	- [[RL - Policy Based Methods]] 
+		- [[RL - Policy Gradient Methods]] 
 	- [[RL - Training Strategies]] 
 - **Algorithms:** 
 	- [[RL - Q Learning]] 
