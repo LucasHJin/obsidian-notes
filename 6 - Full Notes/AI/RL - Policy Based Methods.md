@@ -16,7 +16,7 @@ _______
 
 **Policy based methods:** remember [[RL - Value Based Methods]] 
 - Want to directly approximate policy without learning a value function
-- **Parameterize the policy** → represent the policy using adjustable parameters theta (no fixed rule)
+- **[[DL - Activation Functions|Parameterize the policy]]** → represent the policy using adjustable parameters theta (no fixed rule)
 	- i.e. a neural network gives a probability distribution for actions (stochastic)
 	- Want to maximize performance (reward) with gradient ascent
 	- **Gradient ascent:** using gradient to get to highest point

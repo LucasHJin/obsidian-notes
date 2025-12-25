@@ -29,6 +29,9 @@ _______
 	- [[RL - Epsilon Greedy]] 
 - [[RL - Custom Environments (Gym)]] 
 - *Note* → can use Optuna to tune hyperparameters
+- **DL stuff:** 
+	- [[DL - Optimizers]] 
+	- [[DL - Activation Functions]] 
 
 **Papers:** 
 - [[RL - PAPER Decentralized Control of Quadrotor Swarms]]  

@@ -56,31 +56,7 @@
             }
           },
           {
-            "id": "a914159b075418aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/AI/RL - Policy Based Methods.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RL - Policy Based Methods"
-            }
-          },
-          {
-            "id": "78b931b6093d2a73",
+            "id": "07c66c52ba0a1750",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "off policy",
+                "query": "relu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,44 +241,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78b931b6093d2a73",
+  "active": "07c66c52ba0a1750",
   "lastOpenFiles": [
+    "6 - Full Notes/AI/RL - Overview.md",
+    "6 - Full Notes/AI/DL - Optimizers.md",
+    "6 - Full Notes/AI/RL - Policy Gradient Methods.md",
+    "6 - Full Notes/AI/RL - Policy Based Methods.md",
+    "6 - Full Notes/AI/DL - Activation Functions.md",
+    "Screenshot 2025-12-24 at 11.08.36 PM.png",
+    "Pasted image 20251224171542.png",
+    "Pasted image 20251224171540.png",
+    "Pasted image 20251224170838.png",
+    "Screenshot 2025-12-24 at 5.05.02 PM.png",
+    "6 - Full Notes/DSA/Leetcode.md",
+    "6 - Full Notes/DSA/LC - Jump Game.md",
+    "6 - Full Notes/DSA/Greedy algorithms explained.md",
+    "6 - Full Notes/DSA/LC - Maximum Subarray.md",
     "Screenshot 2025-12-23 at 5.18.42 PM.png",
     "Screenshot 2025-12-23 at 5.17.07 PM.png",
     "Screenshot 2025-12-23 at 3.28.44 PM.png",
     "Screenshot 2025-12-23 at 3.27.23 PM.png",
     "Pasted image 20251223144838.png",
-    "6 - Full Notes/AI/RL - Policy Based Methods.md",
-    "6 - Full Notes/AI/RL - Policy Gradient Methods.md",
-    "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/AI/RL - Q Learning.md",
     "6 - Full Notes/AI/RL - Deep RL Basics.md",
     "6 - Full Notes/AI/RL - Proximal Policy Optimization (PPO).md",
-    "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/DSA/LC - Maximum Subarray.md",
     "6 - Full Notes/AI/RL - Deep Q Learning.md",
     "6 - Full Notes/DSA/LC - Non-overlapping Intervals.md",
     "6 - Full Notes/DSA/LC - Meeting Rooms II.md",
-    "Pasted image 20251223004929.png",
-    "Screenshot 2025-12-23 at 12.48.00 AM.png",
     "6 - Full Notes/AI/RL - Value Based Methods.md",
     "6 - Full Notes/AI/RL - Custom Environments (Gym).md",
     "6 - Full Notes/AI/DL - CNN explained.md",
     "6 - Full Notes/DSA/LC - Design Twitter.md",
     "6 - Full Notes/DSA/LC - Task Scheduler.md",
-    "Pasted image 20251222111336.png",
     "6 - Full Notes/AI/RL - Training Strategies.md",
-    "Pasted image 20251222111033.png",
-    "Pasted image 20251222105521.png",
-    "Pasted image 20251222105111.png",
     "6 - Full Notes/AI/PDL - Terminology.md",
     "6 - Full Notes/AI/PDL - Neural Networks.md",
     "6 - Full Notes/DSA/LC - Word Search.md",
     "6 - Full Notes/AI/RL - Epsilon Greedy.md",
     "6 - Full Notes/DSA/LC - Meeting Rooms.md",
-    "6 - Full Notes/AI/RL Basics.md",
-    "6 - Full Notes/AI/RL - PAPER SB3.md",
-    "6 - Full Notes/AI/RL - Key Words.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",

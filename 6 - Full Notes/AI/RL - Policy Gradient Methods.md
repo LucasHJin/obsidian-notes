@@ -56,8 +56,53 @@ ____
 				- *Note* → inner P is environment transition probability (how likely is it to transition to state $s_{t1}$ given $s_t$ and $a_t$)
 				- In a stochastic environment → might not always be 100% (i.e. might slip in frozen lake)
 
-**Gradient Ascent:** 
-- 
+**Gradient Ascent:** gives the direction of steepest increase of J (locally) → which direction should you go to make slope more steep
+- *Update step:* $\theta \leftarrow \theta+\alpha \cdot \nabla_{\theta}J(\theta)$ 
+	- New parameters = old parameters + small step in the upwards direction
+		- Magnitude + direction governed by nabla J
+	- *Note* → $\nabla$ represents vector of partial derivatives (forms a gradient vector)
+	- Implemented practically with [[DL - Optimizers|optimizer]]
+- *Note* → GD = minimize, GA = maximize
+	- So GD → change the + to a -
+- **Problems:** 
+	- Calculating gradient of objective is computationally expensive → calculate gradient estimation with sample trajectories (instead of all)
+	- State distribution is sometimes unknown (can’t differentiate then)
+		- Use **Policy gradient theorem:** 
+		- ![[Screenshot 2025-12-24 at 5.05.02 PM.png]] 
+	- **Baseline:** value you subtract form the return R(t)
+		- Helps normalize extreme value + center around 0 (this is what DL expects)
+
+**Reinforce algorithm (Monte Carlo Reinforce):** policy-gradient algorithm that uses an estimated return from an entire episode to update the policy parameter $\theta$ 
+- Logic:
+	- Collect an episode $\tau$ with policy $\pi_{theta}$ 
+	- Use the episode to estimate gradient:
+		- ![[Pasted image 20251224170838.png|500]] 
+		- $\log A$ → tells you how to change weights to increase/decrease probability of choosing action a at state s
+		- $R$ → increases / decreases probability of the chosen state action combinations based on good / bad
+			- I.e. if it had a negative reward → the direction of log A gets reversed so it’s less likely
+	- Update weights
+- *Note* → can calculate multiple trajectories:
+	- ![[Pasted image 20251224171542.png]] 
+	- Just average out all trajectory estimations
+
+**Reward to go PG:** 
+- [Source](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#don-t-let-the-past-distract-you) 
+- When calculating return, only calculate from time $t$ onwards (instead of 0)
+	- Because action $a_t$ only influences rewards after time $t$, not before
+	- ![[Screenshot 2025-12-24 at 11.08.36 PM.png]] 
+
+**Syntax:** 
+```python
+policy_loss = torch.cat(policy_loss).sum() #concatenates into 1 tensor and sums up total loss
+
+# stop previous episode gradients from stacking
+optimizer.zero_grad()
+# calculate gradient for policy los
+policy_loss.backward()
+# update policy parameters
+optimizer.step()
+
+```
 
 # References
 

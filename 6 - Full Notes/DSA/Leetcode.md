@@ -36,6 +36,7 @@ ___________________________________________________________________________
 - [[Bucket sort explained]] 
 - [[Prefix sum explained]]
 - [[Intervals explained]] 
+- [[Greedy algorithms explained]] 
 
 **Problems:** 
 - [[LC - Contains Duplicate]] 
@@ -116,6 +117,7 @@ ___________________________________________________________________________
 - [[LC - Meeting Rooms]] 
 - [[LC - Meeting Rooms II]] 
 - [[LC - Maximum Subarray]] 
+- [[LC - Jump Game]] 
 
 # References
 - https://neetcode.io/
