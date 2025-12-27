@@ -30,6 +30,8 @@ Relates to [[RL - Value Based Methods]] and [[RL - Q Learning]]
 - *Note* → can work over non-ending episodes / repeated episodes
 
 ^ Has a tradeoff between bias and variance
+- MC → higher variance (because of stochastic policy)
+- TD → higher bias (value estimation depends on old networks / estimates)
 
 
 # References

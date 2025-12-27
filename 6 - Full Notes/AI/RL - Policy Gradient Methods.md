@@ -71,6 +71,7 @@ ____
 		- ![[Screenshot 2025-12-24 at 5.05.02 PM.png]] 
 	- **Baseline:** value you subtract form the return R(t)
 		- Helps normalize extreme value + center around 0 (this is what DL expects)
+		- Normally is the [[RL - Deep RL Basics|on-policy value function]] 
 
 **Reinforce algorithm (Monte Carlo Reinforce):** policy-gradient algorithm that uses an estimated return from an entire episode to update the policy parameter $\theta$ 
 - Logic:

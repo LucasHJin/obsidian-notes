@@ -20,10 +20,16 @@ _______
 	- [[RL - Value Based Methods]] 
 	- [[RL - Policy Based Methods]] 
 		- [[RL - Policy Gradient Methods]] 
+	- [[RL - Actor Critic Methods]] 
 	- [[RL - Training Strategies]] 
+	- [[RL - Curiosity]] 
+	- [[RL - Multi Agent Reinforcement Learning (MARL)]] 
+		- [[RL - Self Play]] 
 - **Algorithms:** 
 	- [[RL - Q Learning]] 
 		- [[RL - Deep Q Learning]] 
+	- [[RL - Policy Gradient Methods|RL - Reinforce]]
+	- [[RL - Advantage Actor Critic (A2C)]] 
 	- [[RL - Proximal Policy Optimization (PPO)]] 
 - **Policies:** 
 	- [[RL - Epsilon Greedy]] 
