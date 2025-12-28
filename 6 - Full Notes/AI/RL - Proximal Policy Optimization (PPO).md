@@ -15,9 +15,8 @@ _______
 
 **Proximal Policy Optimization (PPO):** an architecture that improves our agent’s training stability by avoiding policy updates that are too large
 - Uses ratio comparing previous and current policy clamped to $[1+\epsilon, 1-\epsilon]$ 
-- *REMEMBER:* **policy** is the brain of the model that decides the action based on state
 - *Essentially:* 
-	- Actor-critic algorithm where updates are clipped so that new policies aren’t too far away from old ones
+	- [[RL - Actor Critic Methods|Actor-critic algorithm]] where updates are clipped so that new policies aren’t too far away from old ones
 
 **Reasoning:** 
 - Smaller policies are more likely to converge to optimal solution
@@ -26,38 +25,39 @@ _______
 
 **Problem with [[RL - Reinforce Algorithm|Reinforce]]:** 
 - Step size → either too slow or too much variation
-- **Objective function:** function that maximizes/minimizes according to an objective/goal
 - **Clipped surrogate objective function** → new objective function that constrains policy change to a small range
 	-  ![[Screenshot 2025-10-08 at 11.02.59 AM.png]]
-		- $L^{CLIP}$ → Loss function to be maximized
-			- (how far the agent deviates from desired outcomes)
+		- $L^{CLIP}$ → Loss/objective function to be maximized
 		- $E_t$ → empirical average over a batch of samples of timestamp t
-			- $r_t$ (ratio) → probability of taking a certain action at a certain state for current and previous policy
-				- If >1 → more likely to make action now
-			- $\text{clip}(r_t(\theta),1-\epsilon,1+\epsilon)$ –> restricts the ratio to within a certain range
-				- Epsilon is a hyper parameter → to be changed
-			- $A_t$ (advantage) → tells us if the action was better or worse than average
-				- Can compare how much better an action is compared to expectation OR how much better the reward is than expected (**TD error**) 
+		- **Unclipped part:** 
+			- $r_t$ (ratio) → probability of taking a certain action at a certain state for current and previous policy (estimate how much of a change)
+				- ![[Screenshot 2025-12-27 at 10.52.13 AM.png|200]] 
+				- Replaces log part of Reinforce
+		- **Clipped part:** 
+			- $\text{clip}(r_t(\theta),1-\epsilon,1+\epsilon)$ –> restricts the ratio to within a certain range (no large policy updates)
+				- *Note* → this is 1 of 2 strategies 
+				- The other is TRPO (complicated)
+				- $\epsilon$ hyperparameter
+		- $A_t$ ([[RL - Advantage Actor Critic (A2C)|advantage]]) → tells us if the action was better or worse than average
+			- Acts as the reward in the update
 - **When to update policy:** 
 	- If ratio is in the range $[1-\epsilon, 1+\epsilon]$ 
-	- Ratio is outside range but advantage leads towards the range
-		- Below range + advantage > 0 (upwards gradient)
-		- Above range + advantage < 0 (downwards gradient)
+	- *Note* → if A>0 (good action) then PPO clips upwards
+		- Make sure update isn’t too big but don’t artifically make good action less likely (let it learn)
+	- *Note* → if A<0 (bad action) then PPO clips downwards
+	- ![[Pasted image 20251227110457.png]]
 	- *Note:* 
 		- **Gradient:** direction of change
 		- **Advantage:** magnitude + sign of feedback
+			- IF A>0 → GUARANTEED INCREASE
+	- ==ALWAYS WANT TO APPROACH THE RANGE, CENTERING AROUND 0== 
 
-![[Screenshot 2025-10-08 at 11.23.02 AM.png]] 
-
-**Algorithm:** ![[Screenshot 2025-10-08 at 11.38.49 AM.png]]
+**Algorithm:** 
+![[Screenshot 2025-12-27 at 11.11.21 AM.png]]
 - $L^{CLIP}$ → clipped policy improvement objective
 - $L^{VF}$ → [[RL - Key Words|value function]] (square of diff between predicted and actual value → how good it is to be in a certain state)
 - $S$ → entropy bonus (to encourage exploration vs exploitation)
 - $c_1,c_2$ → coefficients 
-- **[[RL Basics|Actor-critic style]]:** 
-	- Actor → policy (makes actions based on inputs)
-	- Critic → value function (like a coach that evaluates the actor’s performance)
-
 ```
 for iteration=1, 2, . . . do
 	for actor=1, 2, . . . , N do
@@ -71,6 +71,10 @@ end for
 - PPO’s strategy:
 	- Use the same data for K epochs instead of using it just once 
 		- $E_t$ allows us to average results over multiple experiences → reduces noise + randomness
+- *NOTE:* 
+	- Clipped surrogate + entropy → actor loss function
+	- Squared error value → critic loss function
+	- You add them together into 1 loss because pytorch automatically backpropogates to update both individually simultaneously 
 
 **ALGORITHM:** 
 ![[Pasted image 20251122215557.png]] 
