@@ -31,6 +31,7 @@ _______
 	- [[RL - Policy Gradient Methods|RL - Reinforce]]
 	- [[RL - Advantage Actor Critic (A2C)]] 
 	- [[RL - Proximal Policy Optimization (PPO)]] 
+		- [[RL - PPO Further]] 
 - **Policies:** 
 	- [[RL - Epsilon Greedy]] 
 - [[RL - Custom Environments (Gym)]] 

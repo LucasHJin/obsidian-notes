@@ -120,6 +120,8 @@ ___________________________________________________________________________
 - [[LC - Jump Game]] 
 - [[LC - Jump Game II]] 
 - [[LC - Gas Station]] 
+- [[LC - Hand of Straights]] 
+- [[LC - Merge Triplets to Form Target Triplet]] 
 
 # References
 - https://neetcode.io/
