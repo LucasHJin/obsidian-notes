@@ -37,6 +37,7 @@ ___________________________________________________________________________
 - [[Prefix sum explained]]
 - [[Intervals explained]] 
 - [[Greedy algorithms explained]] 
+- [[Dynamic programming explained]] 
 
 **Problems:** 
 - [[LC - Contains Duplicate]] 
@@ -122,6 +123,8 @@ ___________________________________________________________________________
 - [[LC - Gas Station]] 
 - [[LC - Hand of Straights]] 
 - [[LC - Merge Triplets to Form Target Triplet]] 
+- [[LC - Partition Labels]] 
+- [[LC - Valid Parenthesis String]] 
 
 # References
 - https://neetcode.io/
