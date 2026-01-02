@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kadane",
+                "query": "tail recursion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,13 +266,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "912b8e1391c16ad7",
+  "active": "6259fad729e4e83d",
   "lastOpenFiles": [
+    "Screenshot 2026-01-01 at 9.59.25 PM.png",
+    "6 - Full Notes/AI/RL - Overview.md",
     "6 - Full Notes/SWE/Dynamic programming explained.md",
+    "6 - Full Notes/University/1A OVERALL - cs145.md",
+    "6 - Full Notes/University/cs145 - Random, Time, More Tail Recursion.md",
+    "6 - Full Notes/AI/RL - PPO Further.md",
     "6 - Full Notes/DSA/Prefix DP explained.md",
     "6 - Full Notes/DSA/Leetcode.md",
-    "6 - Full Notes/AI/RL - Overview.md",
-    "6 - Full Notes/AI/RL - PPO Further.md",
     "6 - Full Notes/DSA/LC - Valid Parenthesis String.md",
     "6 - Full Notes/DSA/LC - Maximum Subarray.md",
     "6 - Full Notes/DSA/LC - Partition Labels.md",
@@ -301,9 +304,6 @@
     "6 - Full Notes/AI/RL - Policy Gradient Methods.md",
     "6 - Full Notes/AI/RL - Bias vs Variance Tradeoff.md",
     "6 - Full Notes/DSA/LC - Jump Game.md",
-    "6 - Full Notes/DSA/LC - Jump Game II.md",
-    "6 - Full Notes/AI/DL - Optimizers.md",
-    "6 - Full Notes/AI/RL - Policy Based Methods.md",
     "Assets/Untitled.canvas",
     "Assets/proofs_note.pdf",
     "Priority queue",

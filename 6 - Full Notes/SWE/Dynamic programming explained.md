@@ -14,10 +14,26 @@ ___________________________________________________________________________
 
 **What is it?**
 - A method of making an algorithm more efficient by storing some of the intermediate results
-	- Helps with reducing repetitive computations
-- Break down the problem into smaller subproblems
-	- Store the answers to smaller subproblems (so you don't need to calc each time)
-		- Basically optimizes recursion by storing results so that when they are called, can just access the value
+	- Helps with reducing repetitive computations → *optimization for plain recursion* 
+	- Break down into smaller subproblems → ==write it recursively where the same function call + parameters happens multiple times and replace==
+		- From exponential to polynomial time complexity
+
+**Use cases:** 
+- *Optimal substructure* → optimal results of subproblems solve overall optimal subresult
+- *Overlapping subproblems* → same subproblem is solved multiple times in different parts of the problem
+
+**Top down (memoization):** 
+- Solution is still recursive → just add a table to keep track of solved subproblems
+	- Before recursive call → check table for if already solved
+	- After recursive call → store solution
+
+**Bottom up (tabulation):** 
+- Solution is iterative → build solution from smallest subproblem
+	- Use dp table where it is initially filled with solutions for base cases and fill rest with recursive formula
+	- *Note* → recursive formula only on table entries
+
+![[Screenshot 2026-01-01 at 9.59.25 PM.png]]
+
 
 **Example:** Fibonacci Sequence, finding the nth number
 - 1, 1, 2, 3, 5, 8...
@@ -32,7 +48,7 @@ int fib(int n) {
 	return result;
 }
 ```
-	- This is inefficient because repeated calculations (i.e. fib(2))
+- This is inefficient because repeated calculations (i.e. fib(2))
 - ![[Screenshot 2024-08-09 at 4.17.40 PM.png|400]]
 	- $O(2^n)$
 - **Step 2:** Store any repeated computations in recursion with **==memoization==** 
